@@ -1,0 +1,1394 @@
+{
+  "id": "research-2024",
+  "filename": "research-2024.html",
+  "title": "~ 2024",
+  "description": "Research from the Cognitive Computing Lab — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "research.html"
+            },
+            "children": [
+              "Research"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Research · ~ 2024"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "RESEARCH ARCHIVE / ~ 2024"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Research · ~ 2024"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Research from the Cognitive Computing Lab"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.1549f7812a96b916_1"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.fqpceg6u0cm4"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.1549f7812a96b916_1"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.fqpceg6u0cm4"
+      }
+    },
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "research-tabs",
+        "aria-label": "Research by year"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research.html"
+          },
+          "children": [
+            "Research"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research-2025.html"
+          },
+          "children": [
+            "2025"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research-2024.html",
+            "aria-current": "page"
+          },
+          "children": [
+            "~ 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "reading-layout"
+      },
+      "children": [
+        {
+          "tag": "aside",
+          "attrs": {
+            "class": "reading-index"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "micro-label"
+              },
+              "children": [
+                "ON THIS PAGE"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.1549f7812a96b916_145"
+              },
+              "children": [
+                "Client CI/CD Deploying and running client pods using ArgoCD"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "research-document"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.51b6bd8f10f7b17a_153"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "~2024"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_11"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "1. Federated Learning"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.20c6f1e7574073a1_85"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "video"
+                  },
+                  "children": [
+                    {
+                      "tag": "iframe",
+                      "attrs": {
+                        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                        "allowfullscreen": "",
+                        "height": "540",
+                        "loading": "lazy",
+                        "referrerpolicy": "strict-origin-when-cross-origin",
+                        "src": "https://www.youtube.com/embed/9Ns0q4zHfLk",
+                        "title": "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management",
+                        "width": "960"
+                      }
+                    },
+                    {
+                      "tag": "figcaption",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://www.youtube.com/watch?v=9Ns0q4zHfLk"
+                          },
+                          "children": [
+                            "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.51b6bd8f10f7b17a_130"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "video"
+                  },
+                  "children": [
+                    {
+                      "tag": "iframe",
+                      "attrs": {
+                        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                        "allowfullscreen": "",
+                        "height": "540",
+                        "loading": "lazy",
+                        "referrerpolicy": "strict-origin-when-cross-origin",
+                        "src": "https://www.youtube.com/embed/9mokO0rJayQ",
+                        "title": "YouTube Video, Enhancing Federated Learning with FedOps for the FL Marketplace (Flower AI Summit 2024)",
+                        "width": "960"
+                      }
+                    },
+                    {
+                      "tag": "figcaption",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://www.youtube.com/watch?v=9mokO0rJayQ"
+                          },
+                          "children": [
+                            "YouTube Video, Enhancing Federated Learning with FedOps for the FL Marketplace (Flower AI Summit 2024) ↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "video"
+                  },
+                  "children": [
+                    {
+                      "tag": "iframe",
+                      "attrs": {
+                        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                        "allowfullscreen": "",
+                        "height": "540",
+                        "loading": "lazy",
+                        "referrerpolicy": "strict-origin-when-cross-origin",
+                        "src": "https://www.youtube.com/embed/DMbz1_ODD28",
+                        "title": "YouTube Video, Poster Presentations Session 1 (Flower AI Summit 2024)",
+                        "width": "960"
+                      }
+                    },
+                    {
+                      "tag": "figcaption",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://www.youtube.com/watch?v=DMbz1_ODD28"
+                          },
+                          "children": [
+                            "YouTube Video, Poster Presentations Session 1 (Flower AI Summit 2024) ↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_22"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "FedOps Overview"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- FedOps was designed and implemented to enable FL lifecycle operations management by extending the existing MLOps concept."
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- FedOps is to manage the entire FL process of creating a global model by deploying and training the local model created in the experimental environment."
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/54ed79134281682ab58b.png",
+                        "data-photo-index": "0"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "FedOps Overview - FedOps was designed and implemented to enable FL lifecycle operations management by extending the existing MLOps concept. ",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/54ed79134281682ab58b.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_39"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "FedOps Detail"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "1. Easily application of data and models to the FL environment  (FL Scalize)"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "2. Continuously check and manage FL Client/Server state (Manager)"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "3. Contribution Evaluation and Client Selection to give Incentive to Client (CE/CS & BCFL)"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "4. Easily deploy FL Client/Server and perform periodic FL rounds (CI/CD/CFL)"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "5. FL Client/Server monitoring dashboard for FL Lifecycle Visualization (Monitoring)"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/07aee598555c6a39e90f.png",
+                        "data-photo-index": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "FedOps Detail 1. Easily application of data and models to the FL environment (FL Scalize) 2. Continuously check and manage FL Client/Server ",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/07aee598555c6a39e90f.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_33"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "FedOps Demo"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- Kubernetes-based Simulation"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_145"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/6347c85e835ccc21f9a4.png",
+                        "data-photo-index": "2"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Client CI/CD Deploying and running client pods using ArgoCD",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/6347c85e835ccc21f9a4.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.t81huq1ci91"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.t81huq1ci91_l"
+                      },
+                      "children": [
+                        "Client CI/CD ",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "Deploying and running client pods using ArgoCD"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_157"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/f960b36aea00135dedf8.png",
+                        "data-photo-index": "3"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Creating FL tasks & CFL Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f960b36aea00135dedf8.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.ph8dc6s241xd"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.ph8dc6s241xd_l"
+                      },
+                      "children": [
+                        "Creating FL tasks & CFL",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        " Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_163"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/4239895c8f419103564e.png",
+                        "data-photo-index": "4"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "FL Lifecycle Monitoring Performance and time cost monitoring of global model and local models using ELK",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/4239895c8f419103564e.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.uw4cwt3gka9y"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.uw4cwt3gka9y_l"
+                      },
+                      "children": [
+                        "FL Lifecycle Monitoring ",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "Performance and time cost monitoring of global model and local models using ELK"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_58"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- Distributed Real Device"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_179"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/be2f0487f424cc3818e8.png",
+                        "data-photo-index": "5"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Docker-based FL D eployment to R eal D evices Monitoring the health of data on your device and the performance and time cost of local mode l",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/be2f0487f424cc3818e8.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/8ca999590db47e07154c.png",
+                        "data-photo-index": "6"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Docker-based FL D eployment to R eal D evices Monitoring the health of data on your device and the performance and time cost of local mode l",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/8ca999590db47e07154c.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.few3tgof2idy"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.few3tgof2idy_l"
+                      },
+                      "children": [
+                        "Docker-based FL Deployment to Real Devices ",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "Monitoring the health of data on your device and the performance and time cost of local model using ELK"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1549f7812a96b916_69"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "Ongoing National Project (2022.7 ~ 2024.12)",
+                                {
+                                  "tag": "br",
+                                  "attrs": {}
+                                },
+                                ": Ministry of Science and Technology Employment Technology Promotion Agency"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- End Goal",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "  Blockchain Convergence Federated Learning Remote Clinical Trial Service for Digital Healthcare"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- Utilization Plan ",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "“Blockchain Convergence Federated Learning” developed through this project is used as a core technology for remote clinical trials targeting Digital Therapeutics(DTx), Digital Patient Monitoring, and Software as Medical Device(SaMD)"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "- Participating Institutions"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/d9f702786d97024bc65c.png",
+                        "data-photo-index": "7"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Ongoing National Project (2022.7 ~ 2024.12) : Ministry of Science and Technology Employment Technology Promotion Agency - End Goal Blockchai",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d9f702786d97024bc65c.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6a860c4a9522b98f_4"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "2. TAVR Medical Twin based on RWD"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6e76b90e69a1179f_6"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "Post-TAVR Complications"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/facd78e24233a2a7b5ba.png",
+                        "data-photo-index": "8"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Post-TAVR Complications",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/facd78e24233a2a7b5ba.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6e76b90e69a1179f_51"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "The FL Post-TAVR Complication Prediction System"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/253d4868d9fbfe333b84.png",
+                        "data-photo-index": "9"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "The FL Post-TAVR Complication Prediction System",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/253d4868d9fbfe333b84.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6a860c4a9522b98f_8"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "3. Sensor-based Behavior Recognition and Risk Detection"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6e76b90e69a1179f_0"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "Real-Time Risk Prediction for Behavioral Management in Psychiatric Wards "
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/232d53650e90eb591f62.png",
+                        "data-photo-index": "10"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Real-Time Risk Prediction for Behavioral Management in Psychiatric Wards",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/232d53650e90eb591f62.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6e76b90e69a1179f_35"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "ul",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                " Comprehensive Symptom Prediction in Inpatients With Acute Psychiatric Disorders "
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2024",
+                        "href": "assets/archive/1054e042ea99362a547a.png",
+                        "data-photo-index": "11"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Comprehensive Symptom Prediction in Inpatients With Acute Psychiatric Disorders",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1054e042ea99362a547a.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "research-2024": [
+      {
+        "src": "assets/archive/54ed79134281682ab58b.png",
+        "alt": "FedOps Overview - FedOps was designed and implemented to enable FL lifecycle operations management by extending the existing MLOps concept. "
+      },
+      {
+        "src": "assets/archive/07aee598555c6a39e90f.png",
+        "alt": "FedOps Detail 1. Easily application of data and models to the FL environment (FL Scalize) 2. Continuously check and manage FL Client/Server "
+      },
+      {
+        "src": "assets/archive/6347c85e835ccc21f9a4.png",
+        "alt": "Client CI/CD Deploying and running client pods using ArgoCD"
+      },
+      {
+        "src": "assets/archive/f960b36aea00135dedf8.png",
+        "alt": "Creating FL tasks & CFL Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow"
+      },
+      {
+        "src": "assets/archive/4239895c8f419103564e.png",
+        "alt": "FL Lifecycle Monitoring Performance and time cost monitoring of global model and local models using ELK"
+      },
+      {
+        "src": "assets/archive/be2f0487f424cc3818e8.png",
+        "alt": "Docker-based FL D eployment to R eal D evices Monitoring the health of data on your device and the performance and time cost of local mode l"
+      },
+      {
+        "src": "assets/archive/8ca999590db47e07154c.png",
+        "alt": "Docker-based FL D eployment to R eal D evices Monitoring the health of data on your device and the performance and time cost of local mode l"
+      },
+      {
+        "src": "assets/archive/d9f702786d97024bc65c.png",
+        "alt": "Ongoing National Project (2022.7 ~ 2024.12) : Ministry of Science and Technology Employment Technology Promotion Agency - End Goal Blockchai"
+      },
+      {
+        "src": "assets/archive/facd78e24233a2a7b5ba.png",
+        "alt": "Post-TAVR Complications"
+      },
+      {
+        "src": "assets/archive/253d4868d9fbfe333b84.png",
+        "alt": "The FL Post-TAVR Complication Prediction System"
+      },
+      {
+        "src": "assets/archive/232d53650e90eb591f62.png",
+        "alt": "Real-Time Risk Prediction for Behavioral Management in Psychiatric Wards"
+      },
+      {
+        "src": "assets/archive/1054e042ea99362a547a.png",
+        "alt": "Comprehensive Symptom Prediction in Inpatients With Acute Psychiatric Disorders"
+      }
+    ]
+  }
+}

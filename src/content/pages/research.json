@@ -1,0 +1,565 @@
+{
+  "id": "research",
+  "filename": "research.html",
+  "title": "Research",
+  "description": "From distributed data to connected intelligence — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Research"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "RESEARCH AT CCL"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Research"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "From distributed data to connected intelligence"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.51b6bd8f10f7b17a_305"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.h7x0mk7te6n4_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.h7x0mk7te6n4"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.51b6bd8f10f7b17a_305"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.h7x0mk7te6n4_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.h7x0mk7te6n4"
+      }
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "research-overview"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-label"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "eyebrow"
+              },
+              "children": [
+                "RESEARCH FOCUS"
+              ]
+            },
+            "\n",
+            {
+              "tag": "h2",
+              "attrs": {},
+              "children": [
+                "Data, models",
+                {
+                  "tag": "br",
+                  "attrs": {}
+                },
+                "and real-world problems."
+              ]
+            },
+            "\n",
+            {
+              "tag": "p",
+              "attrs": {},
+              "children": [
+                "\n      Applying AI and cognitive computing",
+                {
+                  "tag": "br",
+                  "attrs": {}
+                },
+                "to challenges across healthcare and industry.\n    "
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "focus-list"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "01"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "Federated Learning",
+                    {
+                      "tag": "small",
+                      "attrs": {},
+                      "children": [
+                        "Collaborative AI with distributed data"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        We train models collaboratively while keeping data local. FedOps connects\n        model development with federated learning operations.\n      "
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "02"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "\n        AI Agent & LLM",
+                    {
+                      "tag": "small",
+                      "attrs": {},
+                      "children": [
+                        "Intelligent systems built with AI models"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        We study how to build and use LLMs and Tool AI, and explore efficient\n        model tuning for on-device environments.\n      "
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "03"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "Healthcare AI",
+                    {
+                      "tag": "small",
+                      "attrs": {},
+                      "children": [
+                        "Prediction and understanding with clinical data"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        Our research includes post-TAVR complications, psychiatric risk prediction\n        and medical twins.\n      "
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "04"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "\n        Intelligent Systems",
+                    {
+                      "tag": "small",
+                      "attrs": {},
+                      "children": [
+                        "IoT · Cloud · Cognitive Computing"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        We use sensor and multimodal data to develop intelligent systems\n        for real-world environments.\n      "
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "research-current"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "p",
+          "attrs": {
+            "class": "eyebrow"
+          },
+          "children": [
+            "RESEARCH PLATFORM / FEDOPS 1.3"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {},
+          "children": [
+            "\n",
+            {
+              "tag": "h2",
+              "attrs": {},
+              "children": [
+                "From local models",
+                {
+                  "tag": "br",
+                  "attrs": {}
+                },
+                "to federated AI agents."
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        Explore local development, Task participation, Global Model versioning,\n        Agent Build and Serving in the FedOps 1.3 documentation.\n      "
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "text-link",
+                    "href": "https://gachon-cclab.github.io/fedops-docs-1.3/"
+                  },
+                  "children": [
+                    "FedOps Documentation ",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "↗"
+                      ]
+                    }
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "research-archive"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    "RESEARCH ARCHIVE"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "Research archive"
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "archive-links"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block research-archive-link",
+                "id": "h.51b6bd8f10f7b17a_374"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "research-2025.html"
+                          },
+                          "children": [
+                            "CCL Research in 2025"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block research-archive-link",
+                "id": "h.51b6bd8f10f7b17a_333"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "research-2024.html"
+                          },
+                          "children": [
+                            "CCL Research ~ 2024 "
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n"
+  ],
+  "photos": {}
+}

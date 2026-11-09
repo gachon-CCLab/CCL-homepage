@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+qa/isolated/
+qa/browser-failure.txt
+*.zip
+node_modules/
+dist/
+*.tsbuildinfo
+.generated/
+qa/organization-*.json
+qa/verify-console.txt

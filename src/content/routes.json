@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cloud-seminar",
+    "filename": "cloud-seminar.html"
+  },
+  {
+    "id": "contact",
+    "filename": "contact.html"
+  },
+  {
+    "id": "gallery",
+    "filename": "gallery.html"
+  },
+  {
+    "id": "main",
+    "filename": "index.html"
+  },
+  {
+    "id": "members",
+    "filename": "members.html"
+  },
+  {
+    "id": "professor",
+    "filename": "professor.html"
+  },
+  {
+    "id": "project",
+    "filename": "project.html"
+  },
+  {
+    "id": "publication",
+    "filename": "publication.html"
+  },
+  {
+    "id": "research-2024",
+    "filename": "research-2024.html"
+  },
+  {
+    "id": "research-2025",
+    "filename": "research-2025.html"
+  },
+  {
+    "id": "research",
+    "filename": "research.html"
+  }
+]

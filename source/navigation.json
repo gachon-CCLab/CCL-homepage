@@ -1,0 +1,63 @@
+[
+  {
+    "label": "Main",
+    "url": "https://sites.google.com/view/keylee/main",
+    "children": []
+  },
+  {
+    "label": "Professor",
+    "url": "https://sites.google.com/view/keylee/professor",
+    "children": []
+  },
+  {
+    "label": "Cloud Seminar",
+    "url": "https://sites.google.com/view/keylee/cloud-seminar",
+    "children": []
+  },
+  {
+    "label": "Members",
+    "url": "https://sites.google.com/view/keylee/members",
+    "children": []
+  },
+  {
+    "label": "FedOps",
+    "url": "http://ccl.gachon.ac.kr/fedops",
+    "children": []
+  },
+  {
+    "label": "Research",
+    "url": "https://sites.google.com/view/keylee/research",
+    "children": [
+      {
+        "label": "2025",
+        "url": "https://sites.google.com/view/keylee/research/2025",
+        "children": []
+      },
+      {
+        "label": "~ 2024",
+        "url": "https://sites.google.com/view/keylee/research/2024",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "Project",
+    "url": "https://sites.google.com/view/keylee/project",
+    "children": []
+  },
+  {
+    "label": "Publication",
+    "url": "https://sites.google.com/view/keylee/publication",
+    "children": []
+  },
+  {
+    "label": "Gallery",
+    "url": "https://sites.google.com/view/keylee/gallery",
+    "children": []
+  },
+  {
+    "label": "Contact",
+    "url": "https://sites.google.com/view/keylee/contact",
+    "children": []
+  }
+]

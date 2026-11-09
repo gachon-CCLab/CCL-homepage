@@ -1,0 +1,154 @@
+@font-face {
+  font-family: Pretendard;
+  src: url("/assets/fonts/PretendardVariable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root {
+  --primary: #006cef;
+  --secondary: #6ec1fd;
+  --tint: #f1f7fe;
+  --ink: #14191f;
+  --muted: #637181;
+  --line: #dfe6ee;
+  --font: Pretendard, "Segoe UI", Arial, "Malgun Gothic", sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 160px;
+  scrollbar-gutter: stable;
+}
+body {
+  margin: 0;
+  background: #fff;
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+p,
+figure {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.3;
+  letter-spacing: -0.035em;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+p {
+  word-break: keep-all;
+}
+button {
+  cursor: pointer;
+  font: inherit;
+}
+a,
+button {
+  touch-action: manipulation;
+}
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 5px;
+}
+.container {
+  width: min(1240px, calc(100% - 112px));
+  margin-inline: auto;
+}
+.skip-link {
+  position: fixed;
+  top: -80px;
+  left: 20px;
+  background: var(--primary);
+  color: white;
+  padding: 10px 20px;
+  z-index: 100;
+}
+.skip-link:focus {
+  top: 12px;
+}
+.anchor {
+  display: block;
+  height: 0;
+  overflow: hidden;
+  scroll-margin-top: 160px;
+}
+.eyebrow,
+.micro-label {
+  font-size: 10px;
+  font-weight: 650;
+  line-height: 1.6;
+  letter-spacing: 0.13em;
+  color: var(--primary);
+}
+.eyebrow {
+  margin-bottom: 20px;
+}
+.micro-label {
+  font-size: 9px;
+}
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 23px;
+  padding: 5px 0;
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 550;
+}
+.text-link > span {
+  color: var(--primary);
+}
+.text-link:hover {
+  color: var(--primary);
+}
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  align-items: center;
+  margin-top: 29px;
+}
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 27px;
+  padding: 13px 19px;
+  background: var(--primary);
+  border: 1px solid var(--primary);
+  border-radius: 4px;
+  color: white;
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 600;
+  transition:
+    background 0.15s,
+    transform 0.15s;
+}
+.button:hover {
+  color: white;
+  background: #005bc9;
+  transform: translateY(-1px);
+}

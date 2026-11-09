@@ -1,0 +1,1341 @@
+{
+  "id": "main",
+  "filename": "index.html",
+  "title": "Main",
+  "description": "Cognitive Computing Lab at Gachon University — Cognitive Computing Lab, Gachon University",
+  "heading": null,
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.2ff9a161a52124fd_3"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.1a1e241e9b1b9b_123"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.2edfc9564cf00121_93"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.52e536pw6fqj_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.9wrqw8qrfdtm_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.52e536pw6fqj"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.9wrqw8qrfdtm"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "home-hero"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "container"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "hero-grid"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "hero-copy"
+                  },
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "eyebrow"
+                      },
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "i",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          }
+                        },
+                        " GACHON UNIVERSITY · CCL\n        "
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "Cognitive",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "Computing Lab",
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "."
+                          ]
+                        }
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "hero-affiliation"
+                      },
+                      "children": [
+                        "Gachon University · Computer Engineering"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "hero-summary"
+                      },
+                      "children": [
+                        "\n          Exploring real-world problems across disciplines",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "through AI and cognitive computing.\n        "
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "actions"
+                      },
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "button",
+                            "href": "research.html"
+                          },
+                          "children": [
+                            "Explore Research ",
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "aria-hidden": "true"
+                              },
+                              "children": [
+                                "↗"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "text-link",
+                            "href": "ccl-introduction.html"
+                          },
+                          "children": [
+                            "Lab Profile ",
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "aria-hidden": "true"
+                              },
+                              "children": [
+                                "↗"
+                              ]
+                            }
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "hero-visual"
+                  },
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "assets/ccl-hero-selected.png",
+                        "alt": "Federated learning across mobile, manufacturing and robotics, with local data and model exchange",
+                        "width": "1374",
+                        "height": "1145",
+                        "fetchpriority": "high",
+                        "decoding": "async"
+                      }
+                    },
+                    "\n",
+                    {
+                      "tag": "figcaption",
+                      "attrs": {},
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "LOCAL LEARNING. SHARED INTELLIGENCE."
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "CCL / GACHON"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "keyword-line"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "Artificial Intelligence"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "IoT"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "Healthcare"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "Cognitive Computing"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "Cloud"
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.2ff9a161a52124fd_3"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.1a1e241e9b1b9b_123"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.2edfc9564cf00121_93"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.52e536pw6fqj_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.9wrqw8qrfdtm_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.52e536pw6fqj"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.9wrqw8qrfdtm"
+      }
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "container lab-introduction",
+        "id": "about-the-lab",
+        "aria-labelledby": "about-title"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-label"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "eyebrow"
+              },
+              "children": [
+                "01 / ABOUT THE LAB"
+              ]
+            },
+            "\n",
+            {
+              "tag": "h2",
+              "attrs": {
+                "id": "about-title"
+              },
+              "children": [
+                "AI, connected",
+                {
+                  "tag": "br",
+                  "attrs": {}
+                },
+                "to the real world."
+              ]
+            },
+            "\n",
+            {
+              "tag": "p",
+              "attrs": {},
+              "children": [
+                "From cognitive computing",
+                {
+                  "tag": "br",
+                  "attrs": {}
+                },
+                "to real-world challenges."
+              ]
+            },
+            "\n",
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "text-link",
+                "href": "professor.html"
+              },
+              "children": [
+                "Meet the Professor ",
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "lab-overview"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "h3",
+              "attrs": {},
+              "children": [
+                "The Cognitive Computing Lab uses AI technology to research various fields."
+              ]
+            },
+            "\n",
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "lab-fields"
+              },
+              "children": [
+                "\"Artificial Intelligence, IoT, Healthcare, Cognitive Computing, Cloud\""
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "lab-description"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        We focus on research on the healthcare field and various industrial solutions,\n        and are actively conducting collaborative research and assignments with many companies.\n      "
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\n        We are publishing and registering research results for patents,\n        international and domestic academic conferences, and a number of research papers.\n      "
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "blockquote",
+              "attrs": {
+                "class": "lab-motto"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "\"Chance favors only the prepared mind.\""
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "home-platform"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "container"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "platform-grid"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "eyebrow"
+                      },
+                      "children": [
+                        "02 / RESEARCH PLATFORM"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "fedops-wordmark"
+                      },
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/fedops-icon.png",
+                            "alt": "",
+                            "width": "38",
+                            "height": "38"
+                          }
+                        },
+                        "\n",
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "FedOps",
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "1.3"
+                              ]
+                            }
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "platform-subtitle"
+                      },
+                      "children": [
+                        "Federated AI AgentOps"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "From local data",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "to collaborative AI."
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "platform-copy"
+                      },
+                      "children": [
+                        "\n          Connecting local model development, federated learning, model versioning\n          and AI agent development. Raw data stays in each participant's environment.\n        "
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "actions"
+                      },
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "button",
+                            "href": "https://ccl.gachon.ac.kr/fedops/"
+                          },
+                          "children": [
+                            "FedOps Website ↗"
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "text-link",
+                            "href": "https://gachon-cclab.github.io/fedops-docs-1.3/"
+                          },
+                          "children": [
+                            "Documentation ↗"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "product-screen"
+                  },
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "screen-bar"
+                      },
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "i",
+                              "attrs": {}
+                            },
+                            {
+                              "tag": "i",
+                              "attrs": {}
+                            },
+                            {
+                              "tag": "i",
+                              "attrs": {}
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "FedOps Agent Studio"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "assets/agent-studio.png",
+                        "data-photo": "platform",
+                        "data-photo-index": "0"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/agent-studio.png",
+                            "alt": "FedOps Agent Studio interface for local development, federated learning and Agent Build",
+                            "loading": "lazy",
+                            "width": "1200",
+                            "height": "800"
+                          }
+                        }
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "figcaption",
+                      "attrs": {},
+                      "children": [
+                        "\n          Workspace · Local Training · Federated Learning · Agent Build\n        "
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "ol",
+              "attrs": {
+                "class": "platform-flow"
+              },
+              "children": [
+                "\n",
+                {
+                  "tag": "li",
+                  "attrs": {},
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "01"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "Local development"
+                          ]
+                        },
+                        {
+                          "tag": "small",
+                          "attrs": {},
+                          "children": [
+                            "Prepare data and models"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "li",
+                  "attrs": {},
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "02"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "Federated learning"
+                          ]
+                        },
+                        {
+                          "tag": "small",
+                          "attrs": {},
+                          "children": [
+                            "Learn through model updates"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "li",
+                  "attrs": {},
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "03"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "Global model"
+                          ]
+                        },
+                        {
+                          "tag": "small",
+                          "attrs": {},
+                          "children": [
+                            "Track model versions"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "li",
+                  "attrs": {},
+                  "children": [
+                    "\n",
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "04"
+                      ]
+                    },
+                    "\n",
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        "\n",
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "AI Agent"
+                          ]
+                        },
+                        {
+                          "tag": "small",
+                          "attrs": {},
+                          "children": [
+                            "Build with a selected version"
+                          ]
+                        },
+                        "\n"
+                      ]
+                    },
+                    "\n"
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "container home-papers"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    "03 / SELECTED PUBLICATIONS"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "Research in practice."
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n",
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "text-link",
+                "href": "publication.html"
+              },
+              "children": [
+                "All Publications ",
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "selected-papers"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "selected-paper",
+                "href": "https://doi.org/10.1016/j.eswa.2026.131397"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "paper-year"
+                  },
+                  "children": [
+                    "2026"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "micro-label"
+                      },
+                      "children": [
+                        "ON-DEVICE AI"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "BitLoRA: Quantization-Compatible Adapter Tuning for 1.58-bit LLM in Federated On-Device AI-Agent"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "InSeo Song, KangYoon Lee · Expert Systems with Applications"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "arrow",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "selected-paper",
+                "href": "https://doi.org/10.1109/JBHI.2026.3690452"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "paper-year"
+                  },
+                  "children": [
+                    "2026"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "micro-label"
+                      },
+                      "children": [
+                        "HEALTHCARE AI"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "FedTFT: Federated Temporal Fusion Transformer for Interpretable Multi-Horizon Psychiatric Risk Prediction Across Cross-Silo Hospitals"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Akeel Ahamed, Ri-Ra Kang, KangYoon Lee · IEEE Journal of Biomedical and Health Informatics"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "arrow",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "selected-paper",
+                "href": "https://doi.org/10.1109/ACCESS.2024.3349691"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "paper-year"
+                  },
+                  "children": [
+                    "2024"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "micro-label"
+                      },
+                      "children": [
+                        "FEDERATED LEARNING"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "FedOps: A Platform of Federated Learning Operations With Heterogeneity Management"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Jihwan Moon, Semo Yang, KangYoon Lee · IEEE Access"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "arrow",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n",
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "container home-life"
+      },
+      "children": [
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    "04 / LIFE AT CCL"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "People, ideas and shared experiences."
+                  ]
+                },
+                "\n"
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n",
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "life-links"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "cloud-seminar.html"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "micro-label"
+                  },
+                  "children": [
+                    "CLOUD SEMINAR"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "Technology meets industry."
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Cloud seminars and presentation materials"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "b",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "members.html"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "micro-label"
+                  },
+                  "children": [
+                    "MEMBERS"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "The people behind our research."
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Our team and research backgrounds"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "b",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "gallery.html"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "micro-label"
+                  },
+                  "children": [
+                    "GALLERY"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "Moments from CCL."
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Conferences and everyday lab life"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "b",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    "↗"
+                  ]
+                }
+              ]
+            },
+            "\n"
+          ]
+        },
+        "\n"
+      ]
+    },
+    "\n"
+  ],
+  "photos": {
+    "platform": [
+      {
+        "src": "assets/agent-studio.png",
+        "alt": "FedOps Agent Studio interface for local development, federated learning and Agent Build"
+      }
+    ]
+  }
+}

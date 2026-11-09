@@ -1,0 +1,819 @@
+{
+  "id": "professor",
+  "filename": "professor.html",
+  "title": "Professor",
+  "description": "Meet Professor KangYoon Lee — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Professor"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "PRINCIPAL INVESTIGATOR"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Professor"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Meet Professor KangYoon Lee"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.420813f308d1df9c_73"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urghfnpyxba_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urghfnpyxba"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.420813f308d1df9c_73"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urghfnpyxba_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urghfnpyxba"
+      }
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "faculty-profile",
+        "id": "h.2edfc9564cf00121_228"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "faculty-photo"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "professor",
+                    "href": "assets/archive/0b3016a0f865494d5dea.jpg",
+                    "data-photo-index": "0"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "이강윤 KangYoon Lee",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/0b3016a0f865494d5dea.jpg"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "faculty-description"
+          },
+          "children": [
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "a n c h o r",
+                    "id": "h.2ttzb68tgo57"
+                  }
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "h.2ttzb68tgo57_l"
+                  },
+                  "children": [
+                    "이강윤 ",
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "KangYoon Lee"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "a n c h o r",
+                    "id": "h.64ylew311d3l"
+                  }
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {
+                    "id": "h.64ylew311d3l_l"
+                  },
+                  "children": [
+                    "Computer Engineering Professor of Gachon University"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "a n c h o r",
+                    "id": "h.bxth2ibxvjt4"
+                  }
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {
+                    "id": "h.bxth2ibxvjt4_l"
+                  },
+                  "children": [
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "\"We provide creative, innovative design solutions.\""
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "[Office]   +82. 31. 750. 8902",
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "[E-mail]   keylee@gachon.ac.kr",
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "[Address]  Gachon University Global Campus AI Engineering Building Room 312"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "resume-section"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-label"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.66145537b471c615_58"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.dxrxzudg8cuz"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.dxrxzudg8cuz_l"
+                      },
+                      "children": [
+                        "Career"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-list"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_12"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Professor of Computer Engineering, Director of Gachon Institute of Artificial Intelligence",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(컴퓨터공학과 교수, 가천인공지능기술원 원장)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_17"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Head of Korea IBM Watson Business Headquarters",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(한국 IBM 왓슨사업본부장)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_21"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Director of IBM Research Center in Korea",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(한국 IBM 연구소장)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_25"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Director, IBM Ubiquitous Computing Lab",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(IBM 유비쿼터스컴퓨팅 연구소장)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_29"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Korea IBM chief engineer/executive director",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(한국 IBM 최고기술자/상무)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "resume-section"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-label"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.112994cbfdcc2922_56"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.vfplkxozsuz"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.vfplkxozsuz_l"
+                      },
+                      "children": [
+                        "Education"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-list"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_37"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Bachelor of Electronic Engineering, Yonsei University",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(연세대 전자공학 학사)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_41"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Master's degree in Electronic Computing, Yonsei University",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(연세대 전자계산 석사)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_45"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "PhD in IT Policy Management Engineering, Soongsil University",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(숭실대 IT정책경영 공학박사)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "resume-section"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-label"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_49"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.ct2zrz01y2h"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.ct2zrz01y2h_l"
+                      },
+                      "children": [
+                        "Now"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "resume-list"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_65"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Director of Artificial Intelligence Technology Institute",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(인공지능기술원 원장)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.4bf21f885428a713_69"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Vice President of the Big Data Society, Director of the Internet Information Society",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(빅데이터학회 부회장, 인터넷정보학회 이사)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_69"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Ministry of Public Administration and Security Intelligent Service Civil Committee",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(행정안전부 지능형서비스 민간위원)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.1ef1eee6b2445c2d_73"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Anti-Corruption and Civil Rights Commission Advisory Committee",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "(국민권익위원회 자문위원)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "professor": [
+      {
+        "src": "assets/archive/0b3016a0f865494d5dea.jpg",
+        "alt": "이강윤 KangYoon Lee"
+      }
+    ]
+  }
+}

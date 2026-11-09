@@ -1,0 +1,1360 @@
+{
+  "main": {
+    "title": "Main",
+    "url": "https://sites.google.com/view/keylee/main",
+    "sections": [
+      {
+        "id": "h.2ff9a161a52124fd_3",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><a href=\"#h.52e536pw6fqj\">Welcome to CCL! \u000bCognitive Computing Lab !!</a><a href=\"#h.9wrqw8qrfdtm\">The Cognitive Computing Lab uses AI technology to research various fields.</a></div>",
+        "text": "Welcome to CCL! \u000bCognitive Computing Lab !! The Cognitive Computing Lab uses AI technology to research various fields.",
+        "imageCount": 0,
+        "linkCount": 2,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1a1e241e9b1b9b_123",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/7e870d84377799430985.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.2edfc9564cf00121_93",
+        "heading": "Welcome to CCL ! Cognitive Computing Lab !!",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/ea78a3ea6bea632d628d.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h1 id=\"h.52e536pw6fqj_l\">Welcome to CCL! <br/>Cognitive Computing Lab !!</h1></div>\n<div class=\"archive-text\"><br/><h3 id=\"h.9wrqw8qrfdtm_l\">The Cognitive Computing Lab uses AI technology to research various fields.</h3><br/></div>\n<div class=\"archive-text\"><br/><p>\"Artificial Intelligence, IoT, Healthcare, Cognitive Computing, Cloud\"</p><br/></div>\n<div class=\"archive-text\"><br/><p>We focus on research on the healthcare field and various industrial solutions, <br/>and are actively conducting collaborative research and assignments with many companies.</p><p><br/>We are publishing and registering research results for patents, <br/>international and domestic academic conferences, and a number of research papers.<br/><br/></p></div>\n<div class=\"archive-text\"><p>\"Chance favors only the prepared mind.\"</p></div>",
+        "text": "Welcome to CCL! Cognitive Computing Lab !! The Cognitive Computing Lab uses AI technology to research various fields. \"Artificial Intelligence, IoT, Healthcare, Cognitive Computing, Cloud\" We focus on research on the healthcare field and various industrial solutions, and are actively conducting collaborative research and assignments with many companies. We are publishing and registering research results for patents, international and domestic academic conferences, and a number of research papers. \"Chance favors only the prepared mind.\"",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 3,
+      "imageCount": 2,
+      "linkCount": 2,
+      "embedCount": 0,
+      "textCharacters": 659
+    }
+  },
+  "professor": {
+    "title": "Professor",
+    "url": "https://sites.google.com/view/keylee/professor",
+    "sections": [
+      {
+        "id": "h.420813f308d1df9c_73",
+        "heading": "Professor",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.urghfnpyxba_l\">Professor</h1></div>",
+        "text": "Professor",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.2edfc9564cf00121_228",
+        "heading": "이강윤 KangYoon Lee",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/0b3016a0f865494d5dea.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.2ttzb68tgo57_l\">이강윤 <br/>KangYoon Lee</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.64ylew311d3l_l\">Computer Engineering Professor of Gachon University</h3><h3 id=\"h.bxth2ibxvjt4_l\"><br/>\"We provide creative, innovative design solutions.\"</h3><p><br/>[Office]   +82. 31. 750. 8902<br/>[E-mail]   keylee@gachon.ac.kr<br/>[Address]  Gachon University Global Campus AI Engineering Building Room 312</p></div>",
+        "text": "이강윤 KangYoon Lee Computer Engineering Professor of Gachon University \"We provide creative, innovative design solutions.\" [Office]   +82. 31. 750. 8902 [E-mail]   keylee@gachon.ac.kr [Address]  Gachon University Global Campus AI Engineering Building Room 312",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.66145537b471c615_58",
+        "heading": "Career",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.dxrxzudg8cuz_l\">Career</h2></div>",
+        "text": "Career",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_12",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Professor of Computer Engineering, Director of Gachon Institute of Artificial Intelligence<br/>(컴퓨터공학과 교수, 가천인공지능기술원 원장)</p></div>",
+        "text": "Professor of Computer Engineering, Director of Gachon Institute of Artificial Intelligence (컴퓨터공학과 교수, 가천인공지능기술원 원장)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_17",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Head of Korea IBM Watson Business Headquarters<br/>(한국 IBM 왓슨사업본부장)</p></div>",
+        "text": "Head of Korea IBM Watson Business Headquarters (한국 IBM 왓슨사업본부장)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_21",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Director of IBM Research Center in Korea<br/>(한국 IBM 연구소장)</p></div>",
+        "text": "Director of IBM Research Center in Korea (한국 IBM 연구소장)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_25",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Director, IBM Ubiquitous Computing Lab<br/>(IBM 유비쿼터스컴퓨팅 연구소장)</p></div>",
+        "text": "Director, IBM Ubiquitous Computing Lab (IBM 유비쿼터스컴퓨팅 연구소장)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_29",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Korea IBM chief engineer/executive director<br/>(한국 IBM 최고기술자/상무)</p></div>",
+        "text": "Korea IBM chief engineer/executive director (한국 IBM 최고기술자/상무)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.112994cbfdcc2922_56",
+        "heading": "Education",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.vfplkxozsuz_l\">Education</h2></div>",
+        "text": "Education",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_37",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Bachelor of Electronic Engineering, Yonsei University<br/>(연세대 전자공학 학사)</p></div>",
+        "text": "Bachelor of Electronic Engineering, Yonsei University (연세대 전자공학 학사)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_41",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Master's degree in Electronic Computing, Yonsei University<br/>(연세대 전자계산 석사)</p></div>",
+        "text": "Master's degree in Electronic Computing, Yonsei University (연세대 전자계산 석사)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_45",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>PhD in IT Policy Management Engineering, Soongsil University<br/>(숭실대 IT정책경영 공학박사)</p></div>",
+        "text": "PhD in IT Policy Management Engineering, Soongsil University (숭실대 IT정책경영 공학박사)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_49",
+        "heading": "Now",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.ct2zrz01y2h_l\">Now</h2></div>",
+        "text": "Now",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_65",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Director of Artificial Intelligence Technology Institute<br/>(인공지능기술원 원장)</p></div>",
+        "text": "Director of Artificial Intelligence Technology Institute (인공지능기술원 원장)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4bf21f885428a713_69",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Vice President of the Big Data Society, Director of the Internet Information Society<br/>(빅데이터학회 부회장, 인터넷정보학회 이사)</p></div>",
+        "text": "Vice President of the Big Data Society, Director of the Internet Information Society (빅데이터학회 부회장, 인터넷정보학회 이사)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_69",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Ministry of Public Administration and Security Intelligent Service Civil Committee<br/>(행정안전부 지능형서비스 민간위원)</p></div>",
+        "text": "Ministry of Public Administration and Security Intelligent Service Civil Committee (행정안전부 지능형서비스 민간위원)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1ef1eee6b2445c2d_73",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Anti-Corruption and Civil Rights Commission Advisory Committee<br/>(국민권익위원회 자문위원)</p></div>",
+        "text": "Anti-Corruption and Civil Rights Commission Advisory Committee (국민권익위원회 자문위원)",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 17,
+      "imageCount": 1,
+      "linkCount": 0,
+      "embedCount": 0,
+      "textCharacters": 1210
+    }
+  },
+  "cloud-seminar": {
+    "title": "Cloud Seminar",
+    "url": "https://sites.google.com/view/keylee/cloud-seminar",
+    "sections": [
+      {
+        "id": "h.114ccc43fc1fd601_104",
+        "heading": "Cloud Open Seminar",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.eeuelurpuk15_l\">Cloud Open Seminar</h1></div>",
+        "text": "Cloud Open Seminar",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.470c9a2f4ac0a246_12",
+        "heading": "NAVER Clou d",
+        "html": "<div class=\"archive-text\"><p>9/18 세미나</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/18e700fb593e2a872166.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/f8b4b086fcc730ca2bb8.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ff0bb6e0362841950333.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><h2 id=\"h.gosg8bx77j4a_l\">NAVER Cloud</h2><p>김홍진  </p><p>네이버클라우드 테크 서비스 총괄 전무</p></div>",
+        "text": "9/18 세미나 NAVER Cloud 김홍진 네이버클라우드 테크 서비스 총괄 전무",
+        "imageCount": 3,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.39d563407caba052_0",
+        "heading": "Metanet",
+        "html": "<div class=\"archive-text\"><p>9/25 세미나</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/4d0edb245ebbf5b51895.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.8u82alnimcfd_l\">Metanet</h2><p>서경진  </p><p>메타넷 T 플랫폼 상무</p></div>",
+        "text": "9/25 세미나 Metanet 서경진 메타넷 T 플랫폼 상무",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3d1b7a04b1fbcb8_8",
+        "heading": "Akamai Technologies",
+        "html": "<div class=\"archive-text\"><p>10/16 세미나</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/a5948cfc424d5045763b.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0c3a7e67fc519d86a0a3.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/b78777b972edaf59f8f8.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/dc834e0e21fc1988d628.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/2ed9dcce0ebf5c1d2a1b.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><h2 id=\"h.uubye3frys1v_l\">Akamai Technologies</h2><p>강상진</p><p>아카마이</p></div>",
+        "text": "10/16 세미나 Akamai Technologies 강상진 아카마이",
+        "imageCount": 5,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.59e7c0c1ae0e973b_0",
+        "heading": "Google",
+        "html": "<div class=\"archive-text\"><p>10/30 세미나</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/574d21861b555f9ae69c.png\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c537ed1ce93c917aaf8d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/5f339a0dfd508a4e11f7.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ea032f036d8e08044ee9.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/fd2956bddcf1683fdb53.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d90cd506cf20a42c3d5c.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><h2 id=\"h.gn0h25d5wn01_l\">Google</h2><p>구글코리아 견학</p><p><a href=\"https://drive.google.com/file/d/1924-dO_lALIADcAheY08q9cUVfNMnL22/view?usp=drive_link\">구글 코리아 발표 자료</a></p></div>",
+        "text": "10/30 세미나 Google 구글코리아 견학 구글 코리아 발표 자료",
+        "imageCount": 6,
+        "linkCount": 1,
+        "embedCount": 0
+      },
+      {
+        "id": "h.275aaf32de303e32_0",
+        "heading": "LG",
+        "html": "<div class=\"archive-text\"><p>11/06 세미나</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/94e7e76d8b59fc4b707e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/a0eef6161ec0053fbe8a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/197adbbe900f4a7b33fd.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c0bd8accc1c1588ade7c.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><h2 id=\"h.1yzjxx5j8uox_l\">LG</h2><p>송영석 상무, 손은영 총괄마이스터</p><p>LG CNS AWS Launch센터</p></div>",
+        "text": "11/06 세미나 LG 송영석 상무, 손은영 총괄마이스터 LG CNS AWS Launch센터",
+        "imageCount": 4,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.5a162bd3d5be5055_0",
+        "heading": "MicroSoft",
+        "html": "<div class=\"archive-text\"><p>11/06 세미나</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/2461f124ba1d5bfd8627.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/52ca1484bb140945e4e1.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><h2 id=\"h.yyw67kytuj10_l\">MicroSoft</h2><p>이한성 본부장</p><p>마이크로소프트 견학</p><p><a href=\"https://ignite.microsoft.com/en-US/home\">https://ignite.microsoft.com/en-US/home</a></p><p>Microsoft Ignite 행사 웹사이트</p><p>VoD는 누구나 무상으로 접근 가능하니 많은 관심 바랍니다.</p></div>",
+        "text": "11/06 세미나 MicroSoft 이한성 본부장 마이크로소프트 견학 https://ignite.microsoft.com/en-US/home Microsoft Ignite 행사 웹사이트 VoD는 누구나 무상으로 접근 가능하니 많은 관심 바랍니다.",
+        "imageCount": 2,
+        "linkCount": 1,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 7,
+      "imageCount": 21,
+      "linkCount": 2,
+      "embedCount": 0,
+      "textCharacters": 360
+    }
+  },
+  "members": {
+    "title": "Members",
+    "url": "https://sites.google.com/view/keylee/members",
+    "sections": [
+      {
+        "id": "h.76d49d7b5680140a_74",
+        "heading": "Members",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.cv47kvhfqw90_l\">Members</h1></div>",
+        "text": "Members",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1a1e241e9b1b9b_0",
+        "heading": "SHI JINGYAO",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/8712ae7346d601ad4999.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.fmqk6b77k8gr_l\">SHI JINGYAO</h3><p>PhD.program</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail] </p><p>qq490800573@gmail.com</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/76e6e6ed9e11425449fd.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.4hhjqrwg8oou_l\">MinHyck Jung</h3><p>PhD.program</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>bvnm0121@gachon.ac.kr</p></div>",
+        "text": "SHI JINGYAO PhD.program Department of IT Convergence Engineering Computer Engineering [E-mail] qq490800573@gmail.com MinHyck Jung PhD.program Department of IT Convergence Engineering Computer Engineering [E-mail] bvnm0121@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.7174d3025d112383_32",
+        "heading": "InSeo Song",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/674311d47c8f90587995.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.54lvqscwax07_l\">InSeo Song</h3><p>Master's course</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>z8086486@gachon.ac.kr</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/556273443466ed634010.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.qah39sph0re4_l\">Jinyong Jeong</h3><p>Bachelor's Degree</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>wlsdyd5373@gachon.ac.kr</p></div>",
+        "text": "InSeo Song Master's course Department of IT Convergence Engineering Computer Engineering [E-mail] z8086486@gachon.ac.kr Jinyong Jeong Bachelor's Degree Department of IT Convergence Engineering Computer Engineering [E-mail] wlsdyd5373@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6335f397c246a9d8_13",
+        "heading": "MinSoo Cho",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/043888009631e61b499b.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.5q0nulx7mknx_l\">MinSoo Cho</h3><p>Bachelor's Degree</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>whalstn21@gachon.ac.kr</p></div>",
+        "text": "MinSoo Cho Bachelor's Degree Department of IT Convergence Engineering Computer Engineering [E-mail] whalstn21@gachon.ac.kr",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3f93977b8e482f38_20",
+        "heading": "SeongJin Jo",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/308c55c3b0537318752d.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Mohamed Jismy Akeel </p><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>akeelahamed@gachon.ac.kr</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/7676cf0ec68e12a35a65.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.ynv5bo7k3spb_l\">SeongJin Jo</h3><p>Bachelor's Degree</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>lmsj122@gachon.ac.kr</p></div>",
+        "text": "Mohamed Jismy Akeel Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] akeelahamed@gachon.ac.kr SeongJin Jo Bachelor's Degree Department of IT Convergence Engineering Computer Engineering [E-mail] lmsj122@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3fc3382f5df41f23_0",
+        "heading": "YongGyom Kim",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/89d582875789c8b39a81.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.nbopbae2yqih_l\">YongGyom Kim</h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Software Engineering</p><p>[E-mail]</p><p>gyom1204@gachon.ac.kr</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/2020ae229aa6120ee4e1.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.4r1syflsnl9q_l\">RiRa Kang</h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail] </p><p>rirakang@gachon.ac.kr</p></div>",
+        "text": "YongGyom Kim Master's Graduation Department of IT Convergence Engineering Software Engineering [E-mail] gyom1204@gachon.ac.kr RiRa Kang Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] rirakang@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.7d442f65b0d0ef46_0",
+        "heading": "TaeHo Hwang",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/3b7d662587ebf2476e39.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.uc9ra0iyyzj9_l\">TaeHo Hwang</h3><p>Ph.D.</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>hth77k@gmail.com</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/841a1059c95f733a6391.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.3vb4f4ve8xfw_l\">RUZALIEV RAKHMIDDIN</h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>rakhmiddin1993@gachon.ac.kr </p></div>",
+        "text": "TaeHo Hwang Ph.D. Department of IT Convergence Engineering Computer Engineering [E-mail] hth77k@gmail.com RUZALIEV RAKHMIDDIN Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] rakhmiddin1993@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1a1e241e9b1b9b_99",
+        "heading": "JinSoo Kim",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/4e60f56dc0ef3629fe15.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.kubnxf9h75df_l\">JinSoo Kim</h3><p>Master's Graduation</p><p>researcher in progress</p><p>Department of IT Convergence Engineering Computer Engineering</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/0753607466a4d921f55b.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.vq82tv1j6fki_l\">SeMo Yang </h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail] </p><p>tpah20@gachon.ac.kr</p></div>",
+        "text": "JinSoo Kim Master's Graduation researcher in progress Department of IT Convergence Engineering Computer Engineering SeMo Yang Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] tpah20@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.272078893e0d350d_0",
+        "heading": "SeMin Hyun",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/ee1d721543354905e44b.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.tf8umsb3dpr3_l\">SeMin Hyun</h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>tpalsgus0@gachon.ac.kr</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/cf34f899f51a3c4d20d0.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.1i36jg9cusrn_l\">YUSUBOV FARKHOD</h3><p>Master's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>farxody98@gachon.ac.kr</p></div>",
+        "text": "SeMin Hyun Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] tpalsgus0@gachon.ac.kr YUSUBOV FARKHOD Master's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] farxody98@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.627bd76b7e088f5d_1",
+        "heading": "하 늘",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/4e60f56dc0ef3629fe15.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.cfviy6ew9ryn_l\">하 늘</h3></div>\n<div class=\"archive-text\"><p>Master's Completion</p><p>Department of IT Convergence Engineering Computer Engineering</p><br/></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/e58e94f2922baf1ec4fb.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.qphv4by48yrm_l\">JuHui Lee</h3><p>Master's Completion</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>juhe2082@gmail.com</p></div>",
+        "text": "하 늘 Master's Completion Department of IT Convergence Engineering Computer Engineering JuHui Lee Master's Completion Department of IT Convergence Engineering Computer Engineering [E-mail] juhe2082@gmail.com",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1a1e241e9b1b9b_52",
+        "heading": "YUNUSOV ODILKHON",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/363c350228a55b8c65e6.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.owpik1rffzu2_l\">YUNUSOV ODILKHON</h3><p>Master's Completion</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>odilkhon318@gmail.com</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/853e29d2f33d1af497b5.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.ei2rcl4mzjzg_l\">JaeHwan Kim</h3><p>Bachelor's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail] </p><p>jhsmart98@gachon.ac.kr</p></div>",
+        "text": "YUNUSOV ODILKHON Master's Completion Department of IT Convergence Engineering Computer Engineering [E-mail] odilkhon318@gmail.com JaeHwan Kim Bachelor's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] jhsmart98@gachon.ac.kr",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4bf21f885428a713_36",
+        "heading": "JiHwan Moon",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/f0eda459bcce7dd0c936.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.j5xbdkmb20f9_l\">JiHwan Moon</h3><p>Bachelor's Graduation</p><p>Department of IT Convergence Engineering Computer Engineering</p><p>[E-mail]</p><p>hoho_god@gachon.ac.kr</p></div>",
+        "text": "JiHwan Moon Bachelor's Graduation Department of IT Convergence Engineering Computer Engineering [E-mail] hoho_god@gachon.ac.kr",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 12,
+      "imageCount": 20,
+      "linkCount": 0,
+      "embedCount": 0,
+      "textCharacters": 2436
+    }
+  },
+  "research": {
+    "title": "Research",
+    "url": "https://sites.google.com/view/keylee/research",
+    "sections": [
+      {
+        "id": "h.51b6bd8f10f7b17a_305",
+        "heading": "Research",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.h7x0mk7te6n4_l\">Research</h1></div>",
+        "text": "Research",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.51b6bd8f10f7b17a_374",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p><a href=\"/view/keylee/research/2025\">CCL Research in 2025</a></p></div>",
+        "text": "CCL Research in 2025",
+        "imageCount": 0,
+        "linkCount": 1,
+        "embedCount": 0
+      },
+      {
+        "id": "h.51b6bd8f10f7b17a_333",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p><a href=\"/view/keylee/research/2024\">CCL Research ~ 2024 </a></p></div>",
+        "text": "CCL Research ~ 2024",
+        "imageCount": 0,
+        "linkCount": 1,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 3,
+      "imageCount": 0,
+      "linkCount": 2,
+      "embedCount": 0,
+      "textCharacters": 47
+    }
+  },
+  "research-2025": {
+    "title": "2025",
+    "url": "https://sites.google.com/view/keylee/research/2025",
+    "sections": [
+      {
+        "id": "h.51b6bd8f10f7b17a_172",
+        "heading": "Research",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.8gf166h7bvea\">Research</h1></div>",
+        "text": "Research",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.51b6bd8f10f7b17a_178",
+        "heading": "Federated learning",
+        "html": "<div class=\"archive-text\"><p>2025</p></div>\n<div class=\"archive-text\"><h1 id=\"h.qrtxwdu7u14c_l\">Federated learning</h1></div>",
+        "text": "2025 Federated learning",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.520fce8f5d7293a1_15",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/18e209b470449c2e97e6.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Federated learning is a distributed approach to train machine learning models. Each node in a distributed network trains a global model using its own local data, while a central server improves the global model by aggregating node updates.</p></div>",
+        "text": "Federated learning is a distributed approach to train machine learning models. Each node in a distributed network trains a global model using its own local data, while a central server improves the global model by aggregating node updates.",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.520fce8f5d7293a1_185",
+        "heading": "A Study on the Life Cycle Management of Federated Learning",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/a87398c68b0391258bc1.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.56xbugn5w41d_l\">A Study on the Life Cycle Management of Federated Learning</h3></div>\n<div class=\"archive-text\">Establish FeDOps platform of   Federated Learning + Ops for federated learning life cycle management<br/></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/edd3200f39805701f38d.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Privacy protection artificial intelligence technology</p></div>\n<div class=\"archive-text\"><p>Provides AI learning solutions in data sensitive domains with AI learning method without data sharing</p></div>",
+        "text": "A Study on the Life Cycle Management of Federated Learning Establish FeDOps platform of   Federated Learning + Ops for federated learning life cycle management Privacy protection artificial intelligence technology Provides AI learning solutions in data sensitive domains with AI learning method without data sharing",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.520fce8f5d7293a1_213",
+        "heading": "Building an Ecosystem for Decentralized Artificial  Intelligence",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/e9b58d975a56e7c125ad.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Data diversity</p></div>\n<div class=\"archive-text\"><p>Unrestrict data usage to secure data from various organizations and customers to perform advanced AI learning</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/f89ffbab6f7a9226051b.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h3 id=\"h.4vskamkdwdr3_l\">Building an Ecosystem for Decentralized Artificial  Intelligence</h3></div>\n<div class=\"archive-text\"><p>Establishment of a cooperative learning ecosystem through website, community, etc. and technology exchange with other overseas organizations to realize a cooperative learning ecosystem</p></div>",
+        "text": "Data diversity Unrestrict data usage to secure data from various organizations and customers to perform advanced AI learning Building an Ecosystem for Decentralized Artificial  Intelligence Establishment of a cooperative learning ecosystem through website, community, etc. and technology exchange with other overseas organizations to realize a cooperative learning ecosystem",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_53",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Spain Telefonica federated learning-based </p><p>MyHealthMart Technology Presents</p></div>",
+        "text": "Spain Telefonica federated learning-based MyHealthMart Technology Presents",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.64cbda47cff553d2_261",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/ecd54b722824dbdddcb4.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/45c3543bb706f208e43b.jpg\" alt=\"\" loading=\"lazy\"></figure></div>",
+        "text": "",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_55",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Best institution for joint learning posted on the Flower website</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/0a821f6711c116ad97a1.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "Best institution for joint learning posted on the Flower website",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.797f6c3d600f460d_122",
+        "heading": "AI Agent",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.ank559m4lvv6_l\">AI Agent</h1></div>",
+        "text": "AI Agent",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_40",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/91151f9794bebc3fec50.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>AI agents are autonomous systems that use AI to pursue user-defined goals through reasoning, planning, memory, and decision-making. Powered by generative AI and multimodal models, they can process text, speech, video, audio, and code while learning and adapting.</p></div>",
+        "text": "AI agents are autonomous systems that use AI to pursue user-defined goals through reasoning, planning, memory, and decision-making. Powered by generative AI and multimodal models, they can process text, speech, video, audio, and code while learning and adapting.",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_68",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/c50feef2eec5bffc6498.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>AI Agent System Based on </p><p>Federated Learning</p></div>\n<div class=\"archive-text\"><p>A federated learning-based AI system that leverages user-specific health data to integrate a local AI model from the client into a global model via training FedOps</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/016842917a4c682b2a15.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Utilize global models </p><p>and secure data</p></div>\n<div class=\"archive-text\"><p>Integrated global models are used for a variety of AI functions such as health forecasting and data valuation Securely call and process user data in conjunction with MyData systems</p><br/></div>",
+        "text": "AI Agent System Based on Federated Learning A federated learning-based AI system that leverages user-specific health data to integrate a local AI model from the client into a global model via training FedOps Utilize global models and secure data Integrated global models are used for a variety of AI functions such as health forecasting and data valuation Securely call and process user data in conjunction with MyData systems",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_102",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/5e345453ee41ddeac1a8.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Custom Response </p><p>Generation Mechanism</p></div>\n<div class=\"archive-text\"><p>User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answers with personalized memory, RAG-based discovery, tool calls, and action plans</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/5f814b68fb9d0ce1a356.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Perform tool-based complexity</p></div>\n<div class=\"archive-text\"><p>AI Agent proactively utilizes a variety of tools and functional modules Perform complex artificial intelligence functions such as question-and-answer, data analysis, tool execution, and assetization</p></div>",
+        "text": "Custom Response Generation Mechanism User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answers with personalized memory, RAG-based discovery, tool calls, and action plans Perform tool-based complexity AI Agent proactively utilizes a variety of tools and functional modules Perform complex artificial intelligence functions such as question-and-answer, data analysis, tool execution, and assetization",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.64cbda47cff553d2_256",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>GCCL Medical LLM </p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/6508acd6307839fe84eb.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Healthcare domain-specific data and federated learning-based fine tuning strategies work effectively. High accuracy and consistent performance on healthcare QA benchmarks, improved understanding and reasoning skills for complex healthcare contexts</p></div>",
+        "text": "GCCL Medical LLM Healthcare domain-specific data and federated learning-based fine tuning strategies work effectively. High accuracy and consistent performance on healthcare QA benchmarks, improved understanding and reasoning skills for complex healthcare contexts",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.58574f5297c53afc_61",
+        "heading": "Rank 1 in the NLP leaderboard",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/73df158f8ad42118a62e.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.jc8zly9cwkx4_l\">Rank 1 in the NLP leaderboard</h2></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/513923c77a5ea90982d8.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.em3pvgkvq585_l\">Rank 3 on the Medical leaderboard</h2></div>",
+        "text": "Rank 1 in the NLP leaderboard Rank 3 on the Medical leaderboard",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.797f6c3d600f460d_127",
+        "heading": "TAVR Medical Twin",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.wk68ajef5eit_l\">TAVR Medical Twin </h1></div>",
+        "text": "TAVR Medical Twin",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.442299205a93a2ba_160",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/880a0d0ac5da09ff75f2.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>an existing Post-TAVR Navigator platform is restructured into a federated learning solution, FL Post-TAVR, based on the proposed federated learning approach through lifecycle management by using FedOps.</p></div>",
+        "text": "an existing Post-TAVR Navigator platform is restructured into a federated learning solution, FL Post-TAVR, based on the proposed federated learning approach through lifecycle management by using FedOps.",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3726e2668112b656_139",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>TAVR AI MODEL / XAI</p></div>",
+        "text": "TAVR AI MODEL / XAI",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3726e2668112b656_10",
+        "heading": "Conduction Disorder",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/833fb45171d6ede878dd.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><p>Permanent Pacemaker  Implantation</p></div>\n<div class=\"archive-text\"><p>XGBoost Algorithm</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/03b81674db354d9d04e9.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.tz5j774j9fqz_l\">Conduction Disorder</h2></div>\n<div class=\"archive-text\"><p>Deep Neural Network</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/6a773307b83deeb053e4.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.mh606w3pbv8q_l\">Paravalvular Leekage</h2></div>\n<div class=\"archive-text\"><p>Stacking Ensemble</p></div>",
+        "text": "Permanent Pacemaker  Implantation XGBoost Algorithm Conduction Disorder Deep Neural Network Paravalvular Leekage Stacking Ensemble",
+        "imageCount": 3,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3726e2668112b656_156",
+        "heading": "Provides a basis for predicting",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/93959f212ef05ff66650.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.40vee5mkc5kr_l\">Provides a basis for predicting </h2><h2 id=\"h.2ey69sfcjfm8_l\">complications with Explicable AI</h2></div>\n<div class=\"archive-text\"><p>SHAP Importance Results for Models</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/aaa53f46bf96feebe202.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.ghxus4vrqd27_l\">Provides a basis for predicting </h2><h2 id=\"h.u95ttcizjkwf_l\">complications with Explicable AI</h2></div>\n<div class=\"archive-text\"><p>A single predictive  importance </p><p>result for LIME</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/ba7b97cf88684831af27.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.jhvvuhqgqwwj_l\">Perform ECG outlier visualization</h2></div>\n<div class=\"archive-text\"><p>Heatmap generation of areas affect model decision making and anomalous representation of ECG data</p></div>",
+        "text": "Provides a basis for predicting complications with Explicable AI SHAP Importance Results for Models Provides a basis for predicting complications with Explicable AI A single predictive  importance result for LIME Perform ECG outlier visualization Heatmap generation of areas affect model decision making and anomalous representation of ECG data",
+        "imageCount": 3,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 19,
+      "imageCount": 23,
+      "linkCount": 0,
+      "embedCount": 0,
+      "textCharacters": 3280
+    }
+  },
+  "research-2024": {
+    "title": "~ 2024",
+    "url": "https://sites.google.com/view/keylee/research/2024",
+    "sections": [
+      {
+        "id": "h.1549f7812a96b916_1",
+        "heading": "Research",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.fqpceg6u0cm4\">Research</h1></div>",
+        "text": "Research",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.51b6bd8f10f7b17a_153",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>~2024</p></div>",
+        "text": "~2024",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_11",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>1. Federated Learning</p></div>",
+        "text": "1. Federated Learning",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_85",
+        "heading": null,
+        "html": "<figure class=\"archive-embed\"><iframe src=\"https://www.youtube.com/embed/9Ns0q4zHfLk\" title=\"YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management\" loading=\"lazy\" allowfullscreen></iframe><figcaption><a href=\"https://www.youtube.com/watch?v=9Ns0q4zHfLk\">YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗</a></figcaption></figure>",
+        "text": "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗",
+        "imageCount": 0,
+        "linkCount": 1,
+        "embedCount": 1
+      },
+      {
+        "id": "h.51b6bd8f10f7b17a_130",
+        "heading": null,
+        "html": "<figure class=\"archive-embed\"><iframe src=\"https://www.youtube.com/embed/9mokO0rJayQ\" title=\"YouTube Video, Enhancing Federated Learning with FedOps for the FL Marketplace (Flower AI Summit 2024)\" loading=\"lazy\" allowfullscreen></iframe><figcaption><a href=\"https://www.youtube.com/watch?v=9mokO0rJayQ\">YouTube Video, Enhancing Federated Learning with FedOps for the FL Marketplace (Flower AI Summit 2024) ↗</a></figcaption></figure>\n<figure class=\"archive-embed\"><iframe src=\"https://www.youtube.com/embed/DMbz1_ODD28\" title=\"YouTube Video, Poster Presentations Session 1 (Flower AI Summit 2024)\" loading=\"lazy\" allowfullscreen></iframe><figcaption><a href=\"https://www.youtube.com/watch?v=DMbz1_ODD28\">YouTube Video, Poster Presentations Session 1 (Flower AI Summit 2024) ↗</a></figcaption></figure>",
+        "text": "YouTube Video, Enhancing Federated Learning with FedOps for the FL Marketplace (Flower AI Summit 2024) ↗ YouTube Video, Poster Presentations Session 1 (Flower AI Summit 2024) ↗",
+        "imageCount": 0,
+        "linkCount": 2,
+        "embedCount": 2
+      },
+      {
+        "id": "h.1549f7812a96b916_22",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>FedOps Overview</p></li></ul><p>- FedOps was designed and implemented to enable FL lifecycle operations management by extending the existing MLOps concept.</p><p>- FedOps is to manage the entire FL process of creating a global model by deploying and training the local model created in the experimental environment.</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/54ed79134281682ab58b.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "FedOps Overview - FedOps was designed and implemented to enable FL lifecycle operations management by extending the existing MLOps concept. - FedOps is to manage the entire FL process of creating a global model by deploying and training the local model created in the experimental environment.",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_39",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>FedOps Detail</p></li></ul><p>1. Easily application of data and models to the FL environment  (FL Scalize)</p><p>2. Continuously check and manage FL Client/Server state (Manager)</p><p>3. Contribution Evaluation and Client Selection to give Incentive to Client (CE/CS &amp; BCFL)</p><p>4. Easily deploy FL Client/Server and perform periodic FL rounds (CI/CD/CFL)</p><p>5. FL Client/Server monitoring dashboard for FL Lifecycle Visualization (Monitoring)</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/07aee598555c6a39e90f.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "FedOps Detail 1. Easily application of data and models to the FL environment  (FL Scalize) 2. Continuously check and manage FL Client/Server state (Manager) 3. Contribution Evaluation and Client Selection to give Incentive to Client (CE/CS & BCFL) 4. Easily deploy FL Client/Server and perform periodic FL rounds (CI/CD/CFL) 5. FL Client/Server monitoring dashboard for FL Lifecycle Visualization (Monitoring)",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_33",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>FedOps Demo</p></li></ul><p>- Kubernetes-based Simulation</p></div>",
+        "text": "FedOps Demo - Kubernetes-based Simulation",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_145",
+        "heading": "Client CI/CD Deploying and running client pods using ArgoCD",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/6347c85e835ccc21f9a4.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.t81huq1ci91_l\">Client CI/CD <br/>Deploying and running client pods using ArgoCD</h2></div>",
+        "text": "Client CI/CD Deploying and running client pods using ArgoCD",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_157",
+        "heading": "Creating FL tasks & CFL Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/f960b36aea00135dedf8.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.ph8dc6s241xd_l\">Creating FL tasks &amp; CFL<br/> Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow</h2></div>",
+        "text": "Creating FL tasks & CFL Creating FL tasks to support a workflow using Airflow that creates an FL round using Airflow",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_163",
+        "heading": "FL Lifecycle Monitoring Performance and time cost monitoring of global model and local models using ELK",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/4239895c8f419103564e.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.uw4cwt3gka9y_l\">FL Lifecycle Monitoring <br/>Performance and time cost monitoring of global model and local models using ELK</h2></div>",
+        "text": "FL Lifecycle Monitoring Performance and time cost monitoring of global model and local models using ELK",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_58",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>- Distributed Real Device</p></div>",
+        "text": "- Distributed Real Device",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_179",
+        "heading": "Docker-based FL D eployment to R eal D evices Monitoring the health of data on your device and the performance and time cost of local mode l using ELK",
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/be2f0487f424cc3818e8.png\" alt=\"\" loading=\"lazy\"></figure>\n<figure class=\"archive-media\"><img src=\"assets/archive/8ca999590db47e07154c.png\" alt=\"\" loading=\"lazy\"></figure>\n<div class=\"archive-text\"><h2 id=\"h.few3tgof2idy_l\">Docker-based FL Deployment to Real Devices <br/>Monitoring the health of data on your device and the performance and time cost of local model using ELK</h2></div>",
+        "text": "Docker-based FL Deployment to Real Devices Monitoring the health of data on your device and the performance and time cost of local model using ELK",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1549f7812a96b916_69",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>Ongoing National Project (2022.7 ~ 2024.12)<br/>: Ministry of Science and Technology Employment Technology Promotion Agency</p></li></ul><p>- End Goal<br/>  Blockchain Convergence Federated Learning Remote Clinical Trial Service for Digital Healthcare</p><br/><p>- Utilization Plan <br/>“Blockchain Convergence Federated Learning” developed through this project is used as a core technology for remote clinical trials targeting Digital Therapeutics(DTx), Digital Patient Monitoring, and Software as Medical Device(SaMD)</p><br/><p>- Participating Institutions</p></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/d9f702786d97024bc65c.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "Ongoing National Project (2022.7 ~ 2024.12) : Ministry of Science and Technology Employment Technology Promotion Agency - End Goal Blockchain Convergence Federated Learning Remote Clinical Trial Service for Digital Healthcare - Utilization Plan “Blockchain Convergence Federated Learning” developed through this project is used as a core technology for remote clinical trials targeting Digital Therapeutics(DTx), Digital Patient Monitoring, and Software as Medical Device(SaMD) - Participating Institutions",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6a860c4a9522b98f_4",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2. TAVR Medical Twin based on RWD</p></div>",
+        "text": "2. TAVR Medical Twin based on RWD",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6e76b90e69a1179f_6",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>Post-TAVR Complications</p></li></ul></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/facd78e24233a2a7b5ba.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "Post-TAVR Complications",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6e76b90e69a1179f_51",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>The FL Post-TAVR Complication Prediction System</p></li></ul></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/253d4868d9fbfe333b84.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "The FL Post-TAVR Complication Prediction System",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6a860c4a9522b98f_8",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>3. Sensor-based Behavior Recognition and Risk Detection</p></div>",
+        "text": "3. Sensor-based Behavior Recognition and Risk Detection",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6e76b90e69a1179f_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>Real-Time Risk Prediction for Behavioral Management in Psychiatric Wards </p></li></ul></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/232d53650e90eb591f62.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "Real-Time Risk Prediction for Behavioral Management in Psychiatric Wards",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6e76b90e69a1179f_35",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p> Comprehensive Symptom Prediction in Inpatients With Acute Psychiatric Disorders </p></li></ul></div>\n<figure class=\"archive-media\"><img src=\"assets/archive/1054e042ea99362a547a.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "Comprehensive Symptom Prediction in Inpatients With Acute Psychiatric Disorders",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 20,
+      "imageCount": 12,
+      "linkCount": 3,
+      "embedCount": 3,
+      "textCharacters": 2313
+    }
+  },
+  "project": {
+    "title": "Project",
+    "url": "https://sites.google.com/view/keylee/project",
+    "sections": [
+      {
+        "id": "h.228bb1346f904194_0",
+        "heading": "P roject",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.hzuihegazprb_l\">Project</h1></div>",
+        "text": "Project",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d3bbe9ac024f16a_0",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/dd379486763e17591951.png\" alt=\"\" loading=\"lazy\"></figure>\n<figure class=\"archive-media\"><img src=\"assets/archive/98b3d1e6e606a0ec32fd.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.7de0a9aa259e48fc_13",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><ul><li><p>비접촉 헬스데이터 기반의 지능형 생활환경 헬스 어드바이저와 개인화된 연합학습 MLOps 플랫폼,  한국연구재단(NRF), 2022.2 ~ 2025.2<br/>(Ambient intelligent health advisor and personalization for federated learning MLOps platform with non-contact health data)</p></li><li><p>RWD기반 메디컬트윈 기술 개발,  복지부, 2022.7 ~ 2026.12<br/>(Medical Twin Framework Development with Real World Data)</p></li><li><p>연합학습 수명주기관리 기술 개발,  과기부 일자리기술진흥원, 2022.7 ~ 2024.12</p></li><li><p>인공지능 기반 행동인식 조기위험 감지 알고리즘 개발(센서기반 행동인식 조기위험감지 및 실용화기술개발),  복지부, 2022.7 ~ 2024.12</p></li><li><p>전기 에너지 사용예측 모델 기반 수요이전 추천 서비스,  중소기업기술정보진흥원(TIPA),  2022.6 ~ 2023. 2</p></li><li><p>Adaptive Federated Learning, 정보통신기획평가원(IITP), 2022.1 ~ 2022.12</p></li><li><p>의료 빅데이터를 활용한 뇌질환 예측·예방개발 및 전문인력양성(정보 공유·활용을 위한 오픈 플랫폼 기술개발) ,  정보통신기획평가원(IITP), 2017~2022.12</p></li><li><p>개방형 챗봇마켓플레이스를 위한 융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현,  한국연구재단(NRF), 2019.6 ~ 2022.2</p></li><li><p>AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발, 정보통신기획평가원(IITP), 2020~2021</p></li><li><p>챗봇기반의 지능형 에너지 정보관리/추천을 위한 대화형 다이나믹 서비스 채널의 구현, 중소기업기술정보진흥원(TIPA), 2020~2021</p></li><li><p>인공지능기법 활용 대전시 상수도 분석기술 개발, (주)아이브랩, 2020</p></li><li><p>AI기반의 아웃소싱 플랫폼을 위한 개발자 생산성 검증 모듈 구현, 중소기업기술정보진흥원(TIPA), 2019~2020</p></li><li><p>비접촉센서를 이용하여 휴먼행동의 분류와 이상 예측을 위한 인공지능 모델 구현, 중소기업기술정보진흥원(TIPA), 2019~2020</p></li></ul><br/></div>",
+        "text": "비접촉 헬스데이터 기반의 지능형 생활환경 헬스 어드바이저와 개인화된 연합학습 MLOps 플랫폼,  한국연구재단(NRF), 2022.2 ~ 2025.2 (Ambient intelligent health advisor and personalization for federated learning MLOps platform with non-contact health data) RWD기반 메디컬트윈 기술 개발,  복지부, 2022.7 ~ 2026.12 (Medical Twin Framework Development with Real World Data) 연합학습 수명주기관리 기술 개발,  과기부 일자리기술진흥원, 2022.7 ~ 2024.12 인공지능 기반 행동인식 조기위험 감지 알고리즘 개발(센서기반 행동인식 조기위험감지 및 실용화기술개발),  복지부, 2022.7 ~ 2024.12 전기 에너지 사용예측 모델 기반 수요이전 추천 서비스,  중소기업기술정보진흥원(TIPA),  2022.6 ~ 2023. 2 Adaptive Federated Learning, 정보통신기획평가원(IITP), 2022.1 ~ 2022.12 의료 빅데이터를 활용한 뇌질환 예측·예방개발 및 전문인력양성(정보 공유·활용을 위한 오픈 플랫폼 기술개발) ,  정보통신기획평가원(IITP), 2017~2022.12 개방형 챗봇마켓플레이스를 위한 융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현,  한국연구재단(NRF), 2019.6 ~ 2022.2 AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발, 정보통신기획평가원(IITP), 2020~2021 챗봇기반의 지능형 에너지 정보관리/추천을 위한 대화형 다이나믹 서비스 채널의 구현, 중소기업기술정보진흥원(TIPA), 2020~2021 인공지능기법 활용 대전시 상수도 분석기술 개발, (주)아이브랩, 2020 AI기반의 아웃소싱 플랫폼을 위한 개발자 생산성 검증 모듈 구현, 중소기업기술정보진흥원(TIPA), 2019~2020 비접촉센서를 이용하여 휴먼행동의 분류와 이상 예측을 위한 인공지능 모델 구현, 중소기업기술정보진흥원(TIPA), 2019~2020",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 3,
+      "imageCount": 2,
+      "linkCount": 0,
+      "embedCount": 0,
+      "textCharacters": 1077
+    }
+  },
+  "publication": {
+    "title": "Publication",
+    "url": "https://sites.google.com/view/keylee/publication",
+    "sections": [
+      {
+        "id": "h.747d7ce9e71184e8_62",
+        "heading": "Publication",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.4tpz6d6yqf2i_l\">Publication</h1></div>",
+        "text": "Publication",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.468b60b8eb813151_12",
+        "heading": "202 6",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.2btpgp4sqn5d_l\">2026</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.co7lsra1qs3p_l\">Paper</h3></div>\n<div class=\"archive-text\"><br/><p>BitLoRA: Quantization-Compatible Adapter Tuning for 1.58-bit LLM in Federated On-Device AI-Agent</p><p>InSeo Song, KangYoon Lee*</p><p>Expert Systems with Applications, 2026, ESWA 131397;</p><br/><p>FedTFT: Federated Temporal Fusion Transformer for Interpretable Multi-Horizon Psychiatric Risk Prediction Across Cross-Silo Hospitals</p><p>Akeel Ahamed, Ri-Ra Kang, KangYoon Lee*</p><p>IEEE Journal of Biomedical and Health Informatics, 2026;</p><br/><p>연합학습 환경의 LLM 파인튜닝을 위한 누적 토큰 학습량 정합화 기반 학습 방법 연구</p><p>정진용, 송인서, 이강윤*</p><p>2026 한국데이터사이언스학회 하계 종합학술대회, 2026, 273-276;</p><br/><p>다기관 연합학습 클라이언트 환경 배포를 위한 가상화 방법</p><p>조성진, 정민혁, 이강윤*</p><p>2026 한국데이터사이언스학회 하계 종합학술대회, 2026, 337-341;</p><br/><h3 id=\"h.6310ryafu0rf_l\">Patent</h3><p>2026/03 (출원 10-2026-0050427).  연합학습 환경에서 클라이언트에 대한 기여도를 평가하는 장치 및 방법</p><p>2026/04 (출원 10-2026-0075613).  양자화 모델과 호환되는 어댑터 학습 기반 온디바이스 연합학습 장치 및 방법</p></div>\n<div class=\"archive-text\"><h2 id=\"h.kegsky31aj4o_l\">2025</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.nr9x7pvswy25_l\">Paper</h3></div>\n<div class=\"archive-text\"><br/><p>연합학습 기반 개인건강데이터 프라이버시 보호형 AI-Agent 시스템 연구</p><p>정진용, 송인서, 이강윤*</p><p>한국빅데이터학회 학회지, 2025, 10(2), 229-240;</p><br/><p>Optimizing Communication and Performance in Federated Learning for Large Language Models</p><p>InSeo Song, KangYoon Lee*</p><p>2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Fukuoka, Japan, 2025, pp. 0964-0967;</p><br/><p>Federated Learning Lifecycle Management for Distributed Medical Artificial Intelligence Applications: A Case Study on Post-Transcatheter Aortic Valve Replacement Complication Prediction Solution</p><p>Min Hyuk Jung, InSeo Song, KangYoon Lee*</p><p>Applied Sciences, 2025, 15(1), 378; </p><br/><p><a href=\"https://www.sciencedirect.com/science/article/pii/S1386505625000875\">AI-based personalized real-time risk prediction for behavioral management in psychiatric wards using multimodal data</a></p><p>Rira Kang,Yong-gyom Kim, Minseok Hong, Yong Min Ahn, KangYoon Lee*</p><p><a href=\"https://www.sciencedirect.com/journal/international-journal-of-medical-informatics\">International Journal of Medical Informatics</a>, 2025, 198; </p><br/><p>Trustworthy TAVR navigator system, I: A generative adversarial network-driven medical twin approach for Post-TAVR            pacemaker implantation prediction</p><p>Lilia Tightiz, Min Hyck Jung, InSeo Song, KangYoon Lee*</p><p>     Expert Systems With Applications, 2025, 275; </p><br/><p>Misinformation detection on online social networks using pretrained language models</p><p>Pir Noman Ahmad, Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee*</p><p>     <a href=\"https://www.sciencedirect.com/journal/information-processing-and-management\">Information Processing &amp; Management</a>, 2025, 63; </p><h3 id=\"h.3uu4f68b90vo_l\">Patent</h3><p>2025/08 (등록 10-2848870).  사용자 맞춤형 인공지능 모델 관리 시스템 및 방법</p><p>2025/11 (출원 10-2025-0185930).  온디바이스 에이전트 기반 개인화 서비스 제공 장치 및 방법</p><p>2025/12 (출원 10-2025-0196803).  이질적 클라이언트의 특성을 고려한 연합학습 방법</p></div>",
+        "text": "2026 Paper BitLoRA: Quantization-Compatible Adapter Tuning for 1.58-bit LLM in Federated On-Device AI-Agent InSeo Song, KangYoon Lee* Expert Systems with Applications, 2026, ESWA 131397; FedTFT: Federated Temporal Fusion Transformer for Interpretable Multi-Horizon Psychiatric Risk Prediction Across Cross-Silo Hospitals Akeel Ahamed, Ri-Ra Kang, KangYoon Lee* IEEE Journal of Biomedical and Health Informatics, 2026; 연합학습 환경의 LLM 파인튜닝을 위한 누적 토큰 학습량 정합화 기반 학습 방법 연구 정진용, 송인서, 이강윤* 2026 한국데이터사이언스학회 하계 종합학술대회, 2026, 273-276; 다기관 연합학습 클라이언트 환경 배포를 위한 가상화 방법 조성진, 정민혁, 이강윤* 2026 한국데이터사이언스학회 하계 종합학술대회, 2026, 337-341; Patent 2026/03 (출원 10-2026-0050427).  연합학습 환경에서 클라이언트에 대한 기여도를 평가하는 장치 및 방법 2026/04 (출원 10-2026-0075613).  양자화 모델과 호환되는 어댑터 학습 기반 온디바이스 연합학습 장치 및 방법 2025 Paper 연합학습 기반 개인건강데이터 프라이버시 보호형 AI-Agent 시스템 연구 정진용, 송인서, 이강윤* 한국빅데이터학회 학회지, 2025, 10(2), 229-240; Optimizing Communication and Performance in Federated Learning for Large Language Models InSeo Song, KangYoon Lee* 2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Fukuoka, Japan, 2025, pp. 0964-0967; Federated Learning Lifecycle Management for Distributed Medical Artificial Intelligence Applications: A Case Study on Post-Transcatheter Aortic Valve Replacement Complication Prediction Solution Min Hyuk Jung, InSeo Song, KangYoon Lee* Applied Sciences, 2025, 15(1), 378; AI-based personalized real-time risk prediction for behavioral management in psychiatric wards using multimodal data Rira Kang,Yong-gyom Kim, Minseok Hong, Yong Min Ahn, KangYoon Lee* International Journal of Medical Informatics , 2025, 198; Trustworthy TAVR navigator system, I: A generative adversarial network-driven medical twin approach for Post-TAVR            pacemaker implantation prediction Lilia Tightiz, Min Hyck Jung, InSeo Song, KangYoon Lee* Expert Systems With Applications, 2025, 275; Misinformation detection on online social networks using pretrained language models Pir Noman Ahmad, Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee* Information Processing & Management , 2025, 63; Patent 2025/08 (등록 10-2848870).  사용자 맞춤형 인공지능 모델 관리 시스템 및 방법 2025/11 (출원 10-2025-0185930).  온디바이스 에이전트 기반 개인화 서비스 제공 장치 및 방법 2025/12 (출원 10-2025-0196803).  이질적 클라이언트의 특성을 고려한 연합학습 방법",
+        "imageCount": 0,
+        "linkCount": 3,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6b2e2a90f6a5e73a_0",
+        "heading": "202 4",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.ghqfm27h6j0_l\">2024</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.8c9tlhfef8x2_l\">Paper</h3></div>\n<div class=\"archive-text\"><p>FedOps: A Platform of Federated Learning Operations With Heterogeneity Management</p><p>Jihwan Moon, Semo Yang, KangYoon Lee*</p><p>IEEE Access, 2024/04, 12, 4301-4314;</p><br/><p>Multicenter Analysis of Emergency Patient Severity through Local Model Evaluation Client Selection: Optimizing Client Selection Based on Local Model Evaluation</p><p>Yong-gyom Kim, Semo Yang, KangYoon Lee*</p><p>Applied Sciences, 2024, 14(16), 6876; </p><br/><p>A Platform of Federated Learning Management for Enhanced Mobile Collaboration</p><p>Farkhod Yusubov, KangYoon Lee*</p><p>Electronics, 2024/10, 13(20), 4104;</p><br/><p>A text analytics approach for mining public discussions in online cancer forum: Analysis of multi-intent lung cancer treatment dataset</p><p>Adnan Muhammad Shah, Abdullah Hidayat, Aaron Falchook, Wazir Muhammad, Kang Yoon Lee*</p><p>INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS, 2024, 184;</p><br/><p>Unpacking the dark side of positive online destination brand engagement: effects on stress, disengagement, and switching intention</p><p><a href=\"https://www.tandfonline.com/author/Qayyum%2C+Abdul\">Abdul Qayyum</a>, <a href=\"https://www.tandfonline.com/author/Jamil%2C+Raja+Ahmed\">Raja Ahmed Jamil</a>, <a href=\"https://www.tandfonline.com/author/Shah%2C+Adnan+Muhammad\">Adnan Muhammad Shah</a> &amp;<a href=\"https://www.tandfonline.com/author/Lee%2C+Kang+Yoon\">Kang Yoon Lee</a>*</p><p>CURRENT ISSUES IN TOURISM, 2024;</p><p id=\"h.mr1npq46itga\">정신건강 증례지와 생체 신호를 결합한 LSTM 기반 멀티 모달 자타해 예측 모델</p><p>강리라, 김용겸, 홍민석, 양정훈, 안용민, 이강윤*</p><p>아시아태평양융합연구교류논문지, <a href=\"https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=SER000004906&amp;volIsseId=VOL000174569\">2024, vol.10, no.8, 통권 76호 pp. 11-22</a>;</p><br/><p>연합 학습 환경에서의 랜덤 포레스트 알고리즘 최적화 연구 </p><p>송인서, 이강윤*</p><p>한국빅데이터학회 학회지, 2024, 9(1), 101-113;</p><br/><p>환자의 합병증 예측을 위한 Post-TAVR 디지털 트윈 추적 관리 플랫폼 설계 </p><p>정민혁, 이강윤*</p><p>인터넷정보학회논문지, 2024, 25(5), 31-40;</p><br/><p>POST-TAVR ECG 기반의 PPI 예측 모델 연구</p><p>송인서, 양세모, 이강윤*</p><p>인터넷정보학회논문지, 2024/06, 25(2), 29-38;</p><br/><p>High-Quality Standard Data-Based Pharmacovigilance System for Privacy and Personalization</p><p>Semo Yang, Inseo Song, KangYoon Lee*</p><p>한국빅데이터학회 학회지, 2023/12, 8(2), 125-131;</p><br/><p>Prediction Model of Post-TAVR Complication Using a Medical Twin Web Navigator</p><p>Se-Min Hyun, KangYoon Lee*</p><p>Journal Of Web Engineering, 2023/12, 22(7), 1037-1053;</p></div>\n<div class=\"archive-text\"><h3 id=\"h.ialre1ulvi5e_l\">Patent</h3></div>\n<div class=\"archive-text\"><p>2024/05 (등록 10-2669865).  전력 사용 절감 및 전력 감축을 위한 인공지능 스마트 에뮬레이터 시스템 및 그 제어 방법  </p><p>2024/05 (출원 10-2024-0069831).  심전도 기반의 설명 가능한 심장 질환 학습 장치 및 방법</p><p>2024/07 (출원 10-2024-0100533).  심혈관 시술 이후 환자의 합병증 예측 및 추적 관리 시스템 및 방법</p><p>2024/10 (등록 10-2023-0007779).  원격의료를 위한 개인 맞춤형 관리시스템 및 그 제어방법</p><p>2024/10 (SW 저작권 등록 C-2024-051451).  Post-TAVR(포스트 타브) 합병증 예측을 위한 메디컬 트윈 플랫폼</p><p>2024/10 (SW 저작권 등록 C-2024-039636).  saferx(세이퍼엑스), 정신건강예측 AI 시스템</p><p>2024/12 (출원 10-2024-0199170).  정신건강 질환 환자의 정신건강 상태 예측 장치 및 방법 </p></div>",
+        "text": "2024 Paper FedOps: A Platform of Federated Learning Operations With Heterogeneity Management Jihwan Moon, Semo Yang, KangYoon Lee* IEEE Access, 2024/04, 12, 4301-4314; Multicenter Analysis of Emergency Patient Severity through Local Model Evaluation Client Selection: Optimizing Client Selection Based on Local Model Evaluation Yong-gyom Kim, Semo Yang, KangYoon Lee* Applied Sciences, 2024, 14(16), 6876; A Platform of Federated Learning Management for Enhanced Mobile Collaboration Farkhod Yusubov, KangYoon Lee* Electronics, 2024/10, 13(20), 4104; A text analytics approach for mining public discussions in online cancer forum: Analysis of multi-intent lung cancer treatment dataset Adnan Muhammad Shah, Abdullah Hidayat, Aaron Falchook, Wazir Muhammad, Kang Yoon Lee* INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS, 2024, 184; Unpacking the dark side of positive online destination brand engagement: effects on stress, disengagement, and switching intention Abdul Qayyum , Raja Ahmed Jamil , Adnan Muhammad Shah & Kang Yoon Lee * CURRENT ISSUES IN TOURISM, 2024; 정신건강 증례지와 생체 신호를 결합한 LSTM 기반 멀티 모달 자타해 예측 모델 강리라, 김용겸, 홍민석, 양정훈, 안용민, 이강윤* 아시아태평양융합연구교류논문지, 2024, vol.10, no.8, 통권 76호 pp. 11-22 ; 연합 학습 환경에서의 랜덤 포레스트 알고리즘 최적화 연구 송인서, 이강윤* 한국빅데이터학회 학회지, 2024, 9(1), 101-113; 환자의 합병증 예측을 위한 Post-TAVR 디지털 트윈 추적 관리 플랫폼 설계 정민혁, 이강윤* 인터넷정보학회논문지, 2024, 25(5), 31-40; POST-TAVR ECG 기반의 PPI 예측 모델 연구 송인서, 양세모, 이강윤* 인터넷정보학회논문지, 2024/06, 25(2), 29-38; High-Quality Standard Data-Based Pharmacovigilance System for Privacy and Personalization Semo Yang, Inseo Song, KangYoon Lee* 한국빅데이터학회 학회지, 2023/12, 8(2), 125-131; Prediction Model of Post-TAVR Complication Using a Medical Twin Web Navigator Se-Min Hyun, KangYoon Lee* Journal Of Web Engineering, 2023/12, 22(7), 1037-1053; Patent 2024/05 (등록 10-2669865).  전력 사용 절감 및 전력 감축을 위한 인공지능 스마트 에뮬레이터 시스템 및 그 제어 방법 2024/05 (출원 10-2024-0069831).  심전도 기반의 설명 가능한 심장 질환 학습 장치 및 방법 2024/07 (출원 10-2024-0100533).  심혈관 시술 이후 환자의 합병증 예측 및 추적 관리 시스템 및 방법 2024/10 (등록 10-2023-0007779).  원격의료를 위한 개인 맞춤형 관리시스템 및 그 제어방법 2024/10 (SW 저작권 등록 C-2024-051451).  Post-TAVR(포스트 타브) 합병증 예측을 위한 메디컬 트윈 플랫폼 2024/10 (SW 저작권 등록 C-2024-039636).  saferx(세이퍼엑스), 정신건강예측 AI 시스템 2024/12 (출원 10-2024-0199170).  정신건강 질환 환자의 정신건강 상태 예측 장치 및 방법",
+        "imageCount": 0,
+        "linkCount": 5,
+        "embedCount": 0
+      },
+      {
+        "id": "h.420813f308d1df9c_13",
+        "heading": "202 3",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.oq9riyvtu8g0_l\">2023</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.ss8ab3b586yu_l\">Paper</h3></div>\n<div class=\"archive-text\"><p>Enhancing Privacy-Preserving Personal Identification Through Federated Learning With Multimodal Vital Signs Data</p><p><a href=\"https://www.semanticscholar.org/author/Tae-Ho-Hwang/2262014944\">Tae-Ho Hwang</a>, <a href=\"https://www.semanticscholar.org/author/JingYao-Shi/2263390818\">JingYao Shi</a>, <a href=\"https://www.semanticscholar.org/author/Kangyoon-Lee/2145140280\">Kangyoon Lee</a>*</p><p>IEEE Access, 2023,121556-121566;</p><br/><p>Inclusive advertising featuring disability on instagram: Effect on consumer well-being, brand engagement, and purchase intention</p><p>Abdul Qayyum, Raja Ahmed Jamil, Adnan Muhammad Shah, KangYoon Lee*</p><p>Journal of Retailing And Consumer Services, 2023/11,75;</p><br/><p>Web-based Non-contact Edge Computing Solution for Suspected COVID-19 Infection Classification Model</p><p>Tae-Ho Hwang, KangYoon Lee*</p><p>Journal Of Web Engineering, 2023/10, 597-614;</p><br/><p>FLScalize: Federated Learning Lifecycle Management Platform </p><p>Semo Yang, Jihwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee*</p><p>IEEE Access, 2023/05, 11, 47212-47222;</p><br/><p>Federated Learning for Clinical Event Classification Using Vital Signs Data</p><p>Ruzaliev Rakhmiddin, KangYoon Lee*</p><p>Multimodal Technologies and Interaction, 2023/06, 7(7), 67;</p><br/><p>Investigating the effect of service feedback and physician popularity on physician demand in the virtual healthcare environment</p><p>Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee*</p><p>Information Technology &amp; People, 2023/04, 36(3), 1356-1382;</p><br/><p>A Review on Electronic Health Record Text-Mining for Biomedical Name Entity Recognition in Healthcare Domain</p><p>Pir Noman Ahmad, Adnan Muhammad Shah, KangYoon Lee*</p><p>Healthcare, 2023/04, 11(9), 1268</p><br/><p>에너지 효율 증대를 위한 에너지 사용량 예측과 에너지 수요이전 모델 연구</p><p>김재환, 양세모, 이강윤*</p><p>한국인터넷정보학회, 2023/08, 24(2), 57-66;</p><br/><p>연합학습 개방형 플랫폼의 발전과 문제점에 대한 체계적 비교 분석</p><p>김진수, 양세모, 이강윤, 이광기</p><p>한국인터넷정보학회, 2023/08, 24(4), 1-13;</p></div>\n<div class=\"archive-text\"><h3 id=\"h.vkq8t9a4hx9x_l\">Patent</h3></div>\n<div class=\"archive-text\"><p>2023/03 (등록 10-2517366).  비접촉식 생체센서 기반의 행동 추천 시 스템 및 그 방법</p><p>2023/01 (출원 10-2023-0007779).  원격의료를 위한 개인 맞춤형 관리시스템 및 그 제어방법</p><p>2023/12 (출원 10-2023-0190713).  사용자 맞춤형 인공지능 모델 관리 시스템 및 방법</p></div>",
+        "text": "2023 Paper Enhancing Privacy-Preserving Personal Identification Through Federated Learning With Multimodal Vital Signs Data Tae-Ho Hwang , JingYao Shi , Kangyoon Lee * IEEE Access, 2023,121556-121566; Inclusive advertising featuring disability on instagram: Effect on consumer well-being, brand engagement, and purchase intention Abdul Qayyum, Raja Ahmed Jamil, Adnan Muhammad Shah, KangYoon Lee* Journal of Retailing And Consumer Services, 2023/11,75; Web-based Non-contact Edge Computing Solution for Suspected COVID-19 Infection Classification Model Tae-Ho Hwang, KangYoon Lee* Journal Of Web Engineering, 2023/10, 597-614; FLScalize: Federated Learning Lifecycle Management Platform Semo Yang, Jihwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee* IEEE Access, 2023/05, 11, 47212-47222; Federated Learning for Clinical Event Classification Using Vital Signs Data Ruzaliev Rakhmiddin, KangYoon Lee* Multimodal Technologies and Interaction, 2023/06, 7(7), 67; Investigating the effect of service feedback and physician popularity on physician demand in the virtual healthcare environment Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee* Information Technology & People, 2023/04, 36(3), 1356-1382; A Review on Electronic Health Record Text-Mining for Biomedical Name Entity Recognition in Healthcare Domain Pir Noman Ahmad, Adnan Muhammad Shah, KangYoon Lee* Healthcare, 2023/04, 11(9), 1268 에너지 효율 증대를 위한 에너지 사용량 예측과 에너지 수요이전 모델 연구 김재환, 양세모, 이강윤* 한국인터넷정보학회, 2023/08, 24(2), 57-66; 연합학습 개방형 플랫폼의 발전과 문제점에 대한 체계적 비교 분석 김진수, 양세모, 이강윤, 이광기 한국인터넷정보학회, 2023/08, 24(4), 1-13; Patent 2023/03 (등록 10-2517366).  비접촉식 생체센서 기반의 행동 추천 시 스템 및 그 방법 2023/01 (출원 10-2023-0007779).  원격의료를 위한 개인 맞춤형 관리시스템 및 그 제어방법 2023/12 (출원 10-2023-0190713).  사용자 맞춤형 인공지능 모델 관리 시스템 및 방법",
+        "imageCount": 0,
+        "linkCount": 3,
+        "embedCount": 0
+      },
+      {
+        "id": "h.54b1a45824836418_0",
+        "heading": "2022",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.bwynd1ja71ah_l\">2022</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.wm7zse3g2fpw_l\">Paper</h3></div>\n<div class=\"archive-text\"><p>Customers' dining choice using meal ordering apps: insights from China and Indonesia</p><p>Adnan Muhammad Shah, Abdul Qayyum, KangYoon Lee*</p><p>Asia Pacific Journal of Marketing and Logistics, 2022/05, 35(6), 1443-1473;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:4DMP91E08xMC\">The Role of Emotions Intensity in Helpfulness of Online Physician Reviews </a></p><p>Adnan Muhammad Shah, KangYoon Lee*</p><p>INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2022/03, 31(3), 1719-1735;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:mVmsd5A6BfQC\">Systolic blood pressure measurement algorithm with mmWave radar sensor</a></p><p>JingYao Shi, KangYoon Lee*</p><p>KSII Transactions on Internet and Information Systems (TIIS), 2022/04, 16(4), 1209-1223;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:Wp0gIr-vW9MC\">Examining the Determinants of Patient Perception of Physician Review Helpfulness across Different Disease Severities: A Machine Learning Approach</a></p><p>Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee*</p><p>Computational Intelligence and Neuroscience, 2022/02, 2022;</p><br/><p>The Healthcare Digital Twin Architecture for Risk Prediction Management</p><p>Se-Min Hyun, KangYoon Lee*</p><p>KSII The 17h Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2022, 2021/06/19-22;</p><br/><p>정신건강 위험 예측 및 관리를 위한 멘탈 헬스케어 디지털 트윈 기술</p><p>양세모, 이강윤*</p><p>2022 한국빅데이터학회 춘계학술행사, 2022/04/21-22;</p><br/><p>저전력 블루투스와 와이파이 하이브리드 통신을 활용한 재실 여부 관리 시스템 설계</p><p>문지환, 이강윤*</p><p>2022 한국빅데이터학회 춘계학술행사, 2022/04/29-30;</p></div>\n<div class=\"archive-text\"><h3 id=\"h.jsggbrs34c9t_l\">Patent</h3></div>\n<div class=\"archive-text\"><p>2022/05 (출원 10-2022-0059298).  사용자 특징 기반 전기 기기의 에너지 사용량 패턴 분석 및 예측 시스템과, 이의 사용량 예측 방법</p><p>2022/04 (출원 10-2022-0044885).  레이더 센서 기반 개인 인식 장치 및 방법</p><p>2022/04 (출원 10-2022-0044405).  다중 생체 신호 인식 기반 생활 건강 어드바이저 시스템 및 방법 </p></div>",
+        "text": "2022 Paper Customers' dining choice using meal ordering apps: insights from China and Indonesia Adnan Muhammad Shah, Abdul Qayyum, KangYoon Lee* Asia Pacific Journal of Marketing and Logistics, 2022/05, 35(6), 1443-1473; The Role of Emotions Intensity in Helpfulness of Online Physician Reviews Adnan Muhammad Shah, KangYoon Lee* INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2022/03, 31(3), 1719-1735; Systolic blood pressure measurement algorithm with mmWave radar sensor JingYao Shi, KangYoon Lee* KSII Transactions on Internet and Information Systems (TIIS), 2022/04, 16(4), 1209-1223; Examining the Determinants of Patient Perception of Physician Review Helpfulness across Different Disease Severities: A Machine Learning Approach Adnan Muhammad Shah, Wazir Muhammad, KangYoon Lee* Computational Intelligence and Neuroscience, 2022/02, 2022; The Healthcare Digital Twin Architecture for Risk Prediction Management Se-Min Hyun, KangYoon Lee* KSII The 17h Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2022, 2021/06/19-22; 정신건강 위험 예측 및 관리를 위한 멘탈 헬스케어 디지털 트윈 기술 양세모, 이강윤* 2022 한국빅데이터학회 춘계학술행사, 2022/04/21-22; 저전력 블루투스와 와이파이 하이브리드 통신을 활용한 재실 여부 관리 시스템 설계 문지환, 이강윤* 2022 한국빅데이터학회 춘계학술행사, 2022/04/29-30; Patent 2022/05 (출원 10-2022-0059298).  사용자 특징 기반 전기 기기의 에너지 사용량 패턴 분석 및 예측 시스템과, 이의 사용량 예측 방법 2022/04 (출원 10-2022-0044885).  레이더 센서 기반 개인 인식 장치 및 방법 2022/04 (출원 10-2022-0044405).  다중 생체 신호 인식 기반 생활 건강 어드바이저 시스템 및 방법",
+        "imageCount": 0,
+        "linkCount": 3,
+        "embedCount": 0
+      },
+      {
+        "id": "h.48029216f2d2c598_0",
+        "heading": "2021",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.sfd8i2u15i5a_l\">2021</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.f2a8e5yy5vlp_l\">Paper</h3></div>\n<div class=\"archive-text\"><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:Zph67rFs4hoC\">Exploring Readiness for Birth Control in Improving Women Health Status: Factors Influencing the Adoption of Modern Contraceptives Methods for Family Planning Practices </a></p><p>Adnan Muhammad Shah, KangYoon Lee*, Javaria Nisa Mir</p><p>Int. J. Environ. Res. Public Health, 2021/11, 18(22), 11892;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:kNdYIx-mwKoC\">Examining Different Factors in Web-Based Patients’ Decision-Making Process: Systematic Review on Digital Platforms for Clinical Decision Support System</a></p><p>Adnan Muhammad Shah, Wazir Muhammad, Kangyoon Lee*, Rizwan Ali Naqvi</p><p>Int. J. Environ. Res. Public Health, 2021/10, 18(21), 11226;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:aqlVkmm33-oC\">The Prediction Model for Classification of COVID-19 Infected Patients Using Vital Sign</a></p><p>Se-Min Hyun, Tae-Ho Hwang, KangYoon Lee*</p><p>2021 International Conference on Information and Communication Technology Convergence (ICTC), </p><p>2021/10/20, 678-681;</p><br/><p>Design and Implementation of an Energy-Efficient Chatbot Model Focused on Customer Experience</p><p>JuHui Lee, KangYoon Lee*</p><p>KSII The 13th International Conference on Internet (ICONI) 2021, 2021/12/13;</p><br/><p>CLASSIFICATION MODEL IMPLEMENTATION OF COVID-19 SUSPECTED INFECTION WITH NON-CONTACT BIO-SIGNALS AND SYMPTOM</p><p>Tae-Ho Hwang, KangYoon Lee*</p><p>8th EEECS 2021, 2021/07/22;</p><br/><p>SMART EMULATOR MODEL BY ENERGY CONSUMPTION PREDICTION</p><p>Tae-Ho Hwang, KangYoon Lee*</p><p>8th EEECS 2021, 2021/07/22;</p><br/><p>Untact Blood Pressure Algorithm Based on Pulse Wave Data by Radar Sensor</p><p>JingYao Shi, KangYoon Lee*</p><p>KSII The 16th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2021, 2021/06/21;</p><br/><p>기기별 전력 에너지 예측을 위한 에너지 빅데이터 플랫폼 구현</p><p>양세모, 이강윤*</p><p>2021년도 인터넷정보학회 추계학술발표대회, 2021/10, 22(02), 0121-0122;</p><br/><p><a href=\"https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=bTSrWxsAAAAJ&amp;sortby=pubdate&amp;citation_for_view=bTSrWxsAAAAJ:_kc_bZDykSQC\">가구당 기기별 에너지 사용량 예측을 위한 딥러닝 모델의 설계 및 구현</a></p><p>이주희, 이강윤*</p><p>한국빅데이터학회지, 2021, 6(1), 127-132;</p><br/><p>에너지 절감 솔루션 구현을 위한 효과적인 디지털 트윈 기술 활용 방안 연구</p><p>문지환, 이주희, 이강윤*</p><p>2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 0175-0176;</p><br/><p>비접촉 센서 기반 감염활동 위험도 분석 및 추론 연구 </p><p>양세모, 황태호, 이강윤*</p><p>2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 0171-0172;</p><br/><p>Pytorch RNN 알고리듬의 패디드 데이터 학습 문제 개선 방안 </p><p>홍승후, 현세민, 이강윤*</p><p>2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 045-0146;</p><br/></div>\n<div class=\"archive-text\"><h3 id=\"h.1y6mqnub0ed_l\">Patent</h3></div>\n<div class=\"archive-text\"><p>2021/08 (출원 10-2021-0115713).  전력 사용 절감 및 전력 감축을 위한 인공지능 스마트 에뮬레이터 시스템 및 그 제어 방법  </p><p>2021/08 (SW 저작권 등록 C-2021-035728).  생체데이터 취합 및 등록프로그램</p><p>2021/05 (SW 저작권 등록 C-2021-021600).  TOU 기반 전기요금 계산기</p></div>",
+        "text": "2021 Paper Exploring Readiness for Birth Control in Improving Women Health Status: Factors Influencing the Adoption of Modern Contraceptives Methods for Family Planning Practices Adnan Muhammad Shah, KangYoon Lee*, Javaria Nisa Mir Int. J. Environ. Res. Public Health, 2021/11, 18(22), 11892; Examining Different Factors in Web-Based Patients’ Decision-Making Process: Systematic Review on Digital Platforms for Clinical Decision Support System Adnan Muhammad Shah, Wazir Muhammad, Kangyoon Lee*, Rizwan Ali Naqvi Int. J. Environ. Res. Public Health, 2021/10, 18(21), 11226; The Prediction Model for Classification of COVID-19 Infected Patients Using Vital Sign Se-Min Hyun, Tae-Ho Hwang, KangYoon Lee* 2021 International Conference on Information and Communication Technology Convergence (ICTC), 2021/10/20, 678-681; Design and Implementation of an Energy-Efficient Chatbot Model Focused on Customer Experience JuHui Lee, KangYoon Lee* KSII The 13th International Conference on Internet (ICONI) 2021, 2021/12/13; CLASSIFICATION MODEL IMPLEMENTATION OF COVID-19 SUSPECTED INFECTION WITH NON-CONTACT BIO-SIGNALS AND SYMPTOM Tae-Ho Hwang, KangYoon Lee* 8th EEECS 2021, 2021/07/22; SMART EMULATOR MODEL BY ENERGY CONSUMPTION PREDICTION Tae-Ho Hwang, KangYoon Lee* 8th EEECS 2021, 2021/07/22; Untact Blood Pressure Algorithm Based on Pulse Wave Data by Radar Sensor JingYao Shi, KangYoon Lee* KSII The 16th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2021, 2021/06/21; 기기별 전력 에너지 예측을 위한 에너지 빅데이터 플랫폼 구현 양세모, 이강윤* 2021년도 인터넷정보학회 추계학술발표대회, 2021/10, 22(02), 0121-0122; 가구당 기기별 에너지 사용량 예측을 위한 딥러닝 모델의 설계 및 구현 이주희, 이강윤* 한국빅데이터학회지, 2021, 6(1), 127-132; 에너지 절감 솔루션 구현을 위한 효과적인 디지털 트윈 기술 활용 방안 연구 문지환, 이주희, 이강윤* 2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 0175-0176; 비접촉 센서 기반 감염활동 위험도 분석 및 추론 연구 양세모, 황태호, 이강윤* 2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 0171-0172; Pytorch RNN 알고리듬의 패디드 데이터 학습 문제 개선 방안 홍승후, 현세민, 이강윤* 2021년도 인터넷정보학회 춘계학술발표대회, 2021/04, 22(01), 045-0146; Patent 2021/08 (출원 10-2021-0115713).  전력 사용 절감 및 전력 감축을 위한 인공지능 스마트 에뮬레이터 시스템 및 그 제어 방법 2021/08 (SW 저작권 등록 C-2021-035728).  생체데이터 취합 및 등록프로그램 2021/05 (SW 저작권 등록 C-2021-021600).  TOU 기반 전기요금 계산기",
+        "imageCount": 0,
+        "linkCount": 4,
+        "embedCount": 0
+      },
+      {
+        "id": "h.420813f308d1df9c_45",
+        "heading": "202 0",
+        "html": "<div class=\"archive-text\"><h2 id=\"h.jd04h01bi8yw_l\">2020</h2></div>\n<div class=\"archive-text\"><h3 id=\"h.72u0gns10bon_l\">Paper</h3></div>\n<div class=\"archive-text\"><p>IEEE-Access. Dec.20. </p><p>(SCIE) Untact Abnormal Heartbeat Wave Detection Using Non-contact Sensor through Transfer Learning. </p><p>김진수, 이강윤</p><br/><p>IEEE. Dec.20. <br/>(SCIE) (Scopus) Implementation of interactive healthcare advisor model using chatbot and visualization. </p><p>황태호, 이주희, 현세민, 이강윤</p><br/><p>ICONI 2020. Dec. 20. <br/>Evolution of Information Exchange Models on Open Dynamic Chatbot Marketplace. </p><p>이강윤</p><br/><p>BCPT. Nov.20. <br/>(SCIE) Arrhythmia Detection from Non-Contact Sensor Heart Rate Data by Data Transfer.</p><p>김진수</p><br/><p>JMC MDPI. Nov.20. <br/>(SCIE) Development of Machine Learning Model to Predict the 5-Year Risk of Starting Biologic Agents in Patients with Inflammatory Bowel Disease (IBD): K-CDM Network Study. </p><p>이강윤</p><br/><p>KSII 추계학술대회. Oct. 31. <br/>차량 번호판 인식을 위한 VGGNet 모델과 YOLO 모델의 비교에 관한 연구. </p><p>하늘, 이강윤</p><br/><p>KSII 추계학술대회. Oct. 31. <br/>코로나19 접촉자 전수조사를 위한 영상처리 기반의 마스크 미착용자 감지 시스템 설계. </p><p>현세민, 이강윤</p><br/><p>KSII 추계학술대회. Oct. 31. <br/>상호 음성제어를 통하여 건강 이상 예측을 지원하는 스마트 건강관리 시스템의 구현. </p><p>SHI JINGYAO, 이강윤</p><br/><p>KSII 추계학술대회. Oct. 31. <br/>복합 봇 플랫폼 기반의 헬스케어 어드바이저 챗봇 모델 구현 연구. </p><p>이주희, 이강윤</p><br/><p>ICTC2020. Oct. 20. <br/>Implementation of interactive healthcare advisor model using chatbot and visualization. </p><p>황태호,이주희,현세민,이강윤</p><br/><p>BMC. Sep.20. <br/>(SCIE) A data-driven approach to a chemotherapy recommendation model based on deep learning for patients with colorectal cancer in Korea . </p><p>이강윤</p><br/><p>BETHS2020. Sep. 20. <br/>Arrhythmia Detection from Non-Contact Sensor Heart Rate Data by Data Transfer. </p><p>김진수, 이강윤</p><br/><p>빅데이터학회지. Aug.20. </p><p>언택트 기술 환경에서의 지능형 헬스 어드바이저 모델 접근 방안. </p><p>황태호, 이강윤 </p><br/><p>APIC-IST 2020. Jul. 20. <br/>A study on \"Fire Prevention Algorithm\" by Threshold Temperature and Behavior Method for Realization of Social Safet. </p><p>황태호, 이강윤</p><br/><p>APIC-IST 2020. Jul. 20. <br/>Evaluation of Weather data, Power Demand and SMP Prediction Model by using LightGBM. </p><p>신윤재, 이강윤</p><br/><p>KSII 춘계학술대회. May. 20. <br/>비접촉식 생체센서를 이용한 인공지능 감성기반 행동추천에 관한 연구. </p><p>황태호, 이강윤</p><br/><p>KICS 동계학술대회. Feb. 20. <br/>Interactive 그래프 시각화를 통한 사용자 맞춤형 서비스 모델 제안에 관한 연구. </p><p>현세민, 이강윤 </p><br/></div>\n<div class=\"archive-text\"><h3 id=\"h.7lkx49nv0mgp_l\">Patent</h3></div>\n<div class=\"archive-text\"><p>2019/10 (등록 10-2150937).  융합지능형 안전관리 시스템</p><p>2020/04 (등록 10-2150937).  유니버셜-서브 봇 모델을 통한 챗봇 마켓플레이스 시스템 </p><p>2020/08 (출원 2020-0100122).  비접촉식 생체센서 기반의 행동 추천 시스템 및 그 방법</p></div>",
+        "text": "2020 Paper IEEE-Access. Dec.20. (SCIE) Untact Abnormal Heartbeat Wave Detection Using Non-contact Sensor through Transfer Learning. 김진수, 이강윤 IEEE. Dec.20. (SCIE) (Scopus) Implementation of interactive healthcare advisor model using chatbot and visualization. 황태호, 이주희, 현세민, 이강윤 ICONI 2020. Dec. 20. Evolution of Information Exchange Models on Open Dynamic Chatbot Marketplace. 이강윤 BCPT. Nov.20. (SCIE) Arrhythmia Detection from Non-Contact Sensor Heart Rate Data by Data Transfer. 김진수 JMC MDPI. Nov.20. (SCIE) Development of Machine Learning Model to Predict the 5-Year Risk of Starting Biologic Agents in Patients with Inflammatory Bowel Disease (IBD): K-CDM Network Study. 이강윤 KSII 추계학술대회. Oct. 31. 차량 번호판 인식을 위한 VGGNet 모델과 YOLO 모델의 비교에 관한 연구. 하늘, 이강윤 KSII 추계학술대회. Oct. 31. 코로나19 접촉자 전수조사를 위한 영상처리 기반의 마스크 미착용자 감지 시스템 설계. 현세민, 이강윤 KSII 추계학술대회. Oct. 31. 상호 음성제어를 통하여 건강 이상 예측을 지원하는 스마트 건강관리 시스템의 구현. SHI JINGYAO, 이강윤 KSII 추계학술대회. Oct. 31. 복합 봇 플랫폼 기반의 헬스케어 어드바이저 챗봇 모델 구현 연구. 이주희, 이강윤 ICTC2020. Oct. 20. Implementation of interactive healthcare advisor model using chatbot and visualization. 황태호,이주희,현세민,이강윤 BMC. Sep.20. (SCIE) A data-driven approach to a chemotherapy recommendation model based on deep learning for patients with colorectal cancer in Korea . 이강윤 BETHS2020. Sep. 20. Arrhythmia Detection from Non-Contact Sensor Heart Rate Data by Data Transfer. 김진수, 이강윤 빅데이터학회지. Aug.20. 언택트 기술 환경에서의 지능형 헬스 어드바이저 모델 접근 방안. 황태호, 이강윤 APIC-IST 2020. Jul. 20. A study on \"Fire Prevention Algorithm\" by Threshold Temperature and Behavior Method for Realization of Social Safet. 황태호, 이강윤 APIC-IST 2020. Jul. 20. Evaluation of Weather data, Power Demand and SMP Prediction Model by using LightGBM. 신윤재, 이강윤 KSII 춘계학술대회. May. 20. 비접촉식 생체센서를 이용한 인공지능 감성기반 행동추천에 관한 연구. 황태호, 이강윤 KICS 동계학술대회. Feb. 20. Interactive 그래프 시각화를 통한 사용자 맞춤형 서비스 모델 제안에 관한 연구. 현세민, 이강윤 Patent 2019/10 (등록 10-2150937).  융합지능형 안전관리 시스템 2020/04 (등록 10-2150937).  유니버셜-서브 봇 모델을 통한 챗봇 마켓플레이스 시스템 2020/08 (출원 2020-0100122).  비접촉식 생체센서 기반의 행동 추천 시스템 및 그 방법",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 7,
+      "imageCount": 0,
+      "linkCount": 18,
+      "embedCount": 0,
+      "textCharacters": 11949
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "url": "https://sites.google.com/view/keylee/gallery",
+    "sections": [
+      {
+        "id": "h.76d49d7b5680140a_93",
+        "heading": "Gallery",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.urdw2a4i0ev3_l\">Gallery</h1></div>",
+        "text": "Gallery",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d7f91c9c3db3872_31",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2026</p></div>",
+        "text": "2026",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1e6590a9d90fe9c4_1",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Graduate</p></div>",
+        "text": "CCL  Graduate",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1e6590a9d90fe9c4_5",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/886a371e30329ba8ce6c.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ef42993479bca5043770.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2026.08.19  CCL Graduate Party</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/f50c774d72b40c80bf4d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/f4df890f8e1b6c4b4772.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2026.08.20  CCL Graduation</p></div>",
+        "text": "2026.08.19  CCL Graduate Party 2026.08.20  CCL Graduation",
+        "imageCount": 4,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.2121861f6cbefd20_4",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/dad698fdbeae9307e407.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/13cfd9f6894bc6e1458b.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/47715ff5d1cff55c5a7b.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2026.06.19  Korea Data Science Conference</p></div>",
+        "text": "2026.06.19  Korea Data Science Conference",
+        "imageCount": 3,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.2121861f6cbefd20_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Graduate</p></div>",
+        "text": "CCL  Graduate",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4a46ede1e4fe4ba9_12",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/efeb245c2e8df59a6d12.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/092629a8a50262d70806.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1dbd15eed7519ad308b0.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/59e097cf1724a863e15c.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/69a9d92d3dbf80f6edac.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2026.01.26  CCL Graduate Party</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/0b2ff34faabdfd64d257.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d8c552bda31ed60fe0f9.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2026.02.12  CCL Graduation</p></div>",
+        "text": "2026.01.26  CCL Graduate Party 2026.02.12  CCL Graduation",
+        "imageCount": 7,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.74702166e36cfa7d_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2025</p></div>",
+        "text": "2025",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4a46ede1e4fe4ba9_8",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  FedOps1.2 Release</p></div>",
+        "text": "CCL  FedOps1.2 Release",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.74702166e36cfa7d_8",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/b1278fb16f7ee76dff2a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/11f36183e02de076437c.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2025.11.04  FedOps1.2 Release</p></div>",
+        "text": "2025.11.04  FedOps1.2 Release",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.5d97f5383dbdb1c6_6",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Summer Workshop</p></div>",
+        "text": "CCL  Summer Workshop",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.5d97f5383dbdb1c6_0",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/fdf8bbafb0e83d3cfc3b.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0bb837e4d5fb9c2eea4e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/29bff51c8395662ca973.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/f60cd7e0293cdf9db90a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/e94806141842449d6703.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/95ff2fee90d7a300213e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/10176bada9ee9d7e14e6.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2025.07.24  CCL summer workshop</p></div>",
+        "text": "2025.07.24  CCL summer workshop",
+        "imageCount": 7,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6f90774d3fff080b_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Graduate</p></div>",
+        "text": "CCL  Graduate",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6f90774d3fff080b_4",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/b9991bb3000c572344d1.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/5af33c9be999b702962a.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2025.02.20 CCL  Graduation </p></div>",
+        "text": "2025.02.20 CCL  Graduation",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4a46ede1e4fe4ba9_4",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2024</p></div>",
+        "text": "2024",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.65733748984edfe7_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Summer Workshop</p></div>",
+        "text": "CCL  Summer Workshop",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.627bd76b7e088f5d_21",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/bfc664bf2474d82ad2bc.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/6d29aeee5cf2c41e15e8.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ee22ac514f8f354b0ed3.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/dee33db987f62860892f.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2024.07.22 CCL summer workshop</p></div>",
+        "text": "2024.07.22 CCL summer workshop",
+        "imageCount": 4,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.627bd76b7e088f5d_17",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL  Graduate</p></div>",
+        "text": "CCL  Graduate",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d7f91c9c3db3872_37",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/e8c4b563547fbc71ed12.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/62b434f0afc53a202c20.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2024.08.22 CCL  Graduation </p></div>",
+        "text": "2024.08.22 CCL  Graduation",
+        "imageCount": 2,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.53e25cfb58bfa35a_12",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/53c38dfe02819f5af891.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/393ccbd95afadc5ac65f.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2024.02.22 CCL  Graduation </p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/f1f661b3d4ebacd8331c.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c40b4df9bef38bc1d031.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/420d7408326fa7e138bc.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/382ae52f051be85cbd56.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0c182616ba11a1610d62.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d2b0a997db57f9b6770c.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1a84943b9e6e66ee8270.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/dea3316f7afb2d75886a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/66db02f0230e1071aa75.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/f61d7225fe0f1c7fd2d6.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2024.01.08 CCL Graduate Party </p></div>",
+        "text": "2024.02.22 CCL  Graduation 2024.01.08 CCL Graduate Party",
+        "imageCount": 12,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d7f91c9c3db3872_19",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2023</p></div>",
+        "text": "2023",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.53e25cfb58bfa35a_8",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL Demo &amp; Sports day</p></div>",
+        "text": "CCL Demo & Sports day",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_8",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/4f6cbe13beb1a85c798f.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/611c2b03073415813a6d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1d6334f7be0bf8b29db1.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/79a7b37fc6098b2b86db.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/3dfa5e7d95f34c366211.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/847192dec5088a8a57e8.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ecfc1d604ae578a17728.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/131ed66f95e97e7484b4.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/fe6f1f506c58539cc3bd.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/309e0a9a263099ab7c6a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/834ee5df1e98f5424fd2.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/77dc916a7a6c9e2760ee.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2023.12.04 CCL Demo day</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/ed1818688a51f13cb1ca.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/70667d2804310de7a390.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/8ca2bb8a5d2f0dea4497.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/01900b21445dc87e654a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/10eed2c0d3247695f6dc.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0ed326eed45a53f7c49e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/48f8424b359fa76adb74.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/274674b1f7b9f1f220b1.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/77b234875750e40a3885.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/b1f56be72ffe15b68777.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/15d67e86624706e66789.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/bf6d7db9b16725c83a4a.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2023.12.04 Sports day</p></div>",
+        "text": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+        "imageCount": 24,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.5bed154515baa016_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL Workshop &amp; Seminar</p></div>",
+        "text": "CCL Workshop & Seminar",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.4b749093698fd785_0",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/61726a14489fe97edf6f.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/a916ffedb06057944d25.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c00a2701e0a7eba6996d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/32f1dacb7c35fbdd9bb4.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/816b268562f94a8da25c.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d611e3014511962557e2.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c56666d7fc1a07be3c2a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/7178e977cde672eac425.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/4fc870bf9f88b6ff1b3b.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/13b08b294916f2d13b1a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/00094e9b296f18f7fb57.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/9a2affa2af0c56f363de.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/7092ca1c692f20275be3.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/2f1b39c5f01d311b9588.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1e65cd89eeb304effd14.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2023 KSII FALL conference &amp; Workshop in Yeosu(10.28 ~ 10.30)</p></div>",
+        "text": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+        "imageCount": 15,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.5bed154515baa016_4",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/589d5ed780d316a03135.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/85b946d122e2a47a2231.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2023 Team Lunch (08.28)</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/a3956cca8a69b0b3c2d2.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/5e20491d66f54254fe34.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/24533457d7b74d6746d0.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/a7c96f16ca9f039fd1ab.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/3dd22068b8cda9eab07d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/68432574fa386db563ce.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/7d9d18419e00c4125520.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2023 Summer Workshop in Gapyeong (07.13~14)</p></div>",
+        "text": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+        "imageCount": 9,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_4",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Flower Summit 2023 in University of Cambridge</p></div>",
+        "text": "Flower Summit 2023 in University of Cambridge",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_22",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/1c286b1faa6b59db0563.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<figure class=\"archive-media\"><img src=\"assets/archive/fbf6abdcc68b43223c43.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<figure class=\"archive-media\"><img src=\"assets/archive/fe60d56ea6ddb0b32cb8.jpg\" alt=\"\" loading=\"lazy\"></figure>\n<figure class=\"archive-media\"><img src=\"assets/archive/5602ffc94829debe7345.jpg\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "",
+        "imageCount": 4,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_79",
+        "heading": null,
+        "html": "<figure class=\"archive-embed\"><iframe src=\"https://www.youtube.com/embed/9Ns0q4zHfLk\" title=\"YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management\" loading=\"lazy\" allowfullscreen></iframe><figcaption><a href=\"https://www.youtube.com/watch?v=9Ns0q4zHfLk\">YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗</a></figcaption></figure>\n<div class=\"archive-text\"><p>FedOps: Federated Learning Lifecycle Operations Management</p></div>",
+        "text": "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗ FedOps: Federated Learning Lifecycle Operations Management",
+        "imageCount": 0,
+        "linkCount": 1,
+        "embedCount": 1
+      },
+      {
+        "id": "h.6d7f91c9c3db3872_23",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2022</p></div>",
+        "text": "2022",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_56",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/2ecd0c2d2f2cd4571d12.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1c6529801baf8e53d35e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/7a977068cfca7c828ec2.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2022 Winter Workshop in Grand Hyatt Incheon (12.15~16)</p></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/d47ff325c330934e9665.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d1621784ba16dc302356.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0ce1eed7d4f832c75a01.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/3c1b5f2b8daa4f8af6df.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/3f7489cad24be5ec4e02.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/658e05c2199aecfd034d.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-text\"><p>2022 Summer Workshop in Cheorwon <br/>(07.28~29)</p></div>",
+        "text": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+        "imageCount": 9,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d7f91c9c3db3872_27",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>2017 ~ 2021</p></div>",
+        "text": "2017 ~ 2021",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_72",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Conference &amp; Seminar</p></div>",
+        "text": "Conference & Seminar",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.20c6f1e7574073a1_15",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/029bca794c9a9f8ba93e.png\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/16447e0126182ff075a2.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d9e34a13c3173804025e.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/af55ea7d9aa599022b3d.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/967625d28e3fa6567aa1.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/ffeeb59ba46705e99802.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/46e8f5cbc79e5d6da211.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/c004364fe6ac62d5cb31.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/b8f68bf9849f7ac9e014.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/7db1280c9d11cbf2d063.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/2512a33117e2a326bb03.jpg\" alt=\"\" loading=\"lazy\"></figure></div>\n<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/5f878ffd648d36b8e2f4.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/1a6bcf90532a12aefd1a.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/956f57a0eb92ae613513.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/203f8dfa40b4d5bb1f64.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/61ba90559cd9547ec1e9.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/a5ba35cffd4b693a2c98.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/df7e3aa7ef440e6f38e2.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/b02a24e3b4a429f1c1a6.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/d7c962e6cd584ac17276.jpg\" alt=\"\" loading=\"lazy\"></figure></div>",
+        "text": "",
+        "imageCount": 20,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3ba8af1cb8503438_8",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/dfbb5ab6c8ed611cede1.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3ba8af1cb8503438_20",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>CCL Lab Tour</p></div>",
+        "text": "CCL Lab Tour",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.56de7df6c1e3ccbe_0",
+        "heading": null,
+        "html": "<div class=\"archive-gallery\"><figure class=\"archive-media\"><img src=\"assets/archive/2f9e638219795579e94b.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/9b630ca10a9947dc00eb.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/25bbc8b4d8ee2b48adde.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/0a5fd348223bb41a60fc.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/5935e7cf5f3bd500a9af.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/385f12edf9a7d8dd3abe.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/b9934ddb0e88738f2510.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/8286e2084539ae527c91.jpg\" alt=\"\" loading=\"lazy\"></figure><figure class=\"archive-media\"><img src=\"assets/archive/31b3fa4d38b8d6ce50ad.jpg\" alt=\"\" loading=\"lazy\"></figure></div>",
+        "text": "",
+        "imageCount": 9,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.1e6590a9d90fe9c4_0",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Conference</p></div>",
+        "text": "Conference",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 38,
+      "imageCount": 134,
+      "linkCount": 1,
+      "embedCount": 1,
+      "textCharacters": 1060
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "url": "https://sites.google.com/view/keylee/contact",
+    "sections": [
+      {
+        "id": "h.76d49d7b5680140a_86",
+        "heading": "Contact",
+        "html": "<div class=\"archive-text\"><h1 id=\"h.wk1u29drw4ni_l\">Contact</h1></div>",
+        "text": "Contact",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.516b5be060634cea_225",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Contact to CCL<br/>연구실 입실, 진로 고민, 전공 관련 상담</p></div>",
+        "text": "Contact to CCL 연구실 입실, 진로 고민, 전공 관련 상담",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.6d712152332e4742_7",
+        "heading": null,
+        "html": "<figure class=\"archive-media\"><img src=\"assets/archive/2aa504cb9ed912c18623.png\" alt=\"\" loading=\"lazy\"></figure>",
+        "text": "",
+        "imageCount": 1,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3a2a5a6595c618b9_193",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>Cognitive Computing Lab</p><p>가천대학교 글로벌캠퍼스(13120)경기도 성남시 성남대로 1342, AI공학관 103호</p></div>",
+        "text": "Cognitive Computing Lab 가천대학교 글로벌캠퍼스(13120)경기도 성남시 성남대로 1342, AI공학관 103호",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      },
+      {
+        "id": "h.3a2a5a6595c618b9_194",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>[Professor] <a href=\"mailto:keylee@gachon.ac.kr\">keylee@gachon.ac.kr</a>, 010-4997-7632</p></div>\n<div class=\"archive-text\"><p>[Lab Admin] bvnm0121@gachon.ac.kr, 010-7168-4002</p></div>",
+        "text": "[Professor] keylee@gachon.ac.kr , 010-4997-7632 [Lab Admin] bvnm0121@gachon.ac.kr, 010-7168-4002",
+        "imageCount": 0,
+        "linkCount": 1,
+        "embedCount": 0
+      },
+      {
+        "id": "h.516b5be060634cea_213",
+        "heading": null,
+        "html": "<div class=\"archive-text\"><p>연구실 입실 및 진로, 전공관련 상담은 메일로 학번, 이름, 내용을 적어서 보내주시길 바랍니다.</p></div>",
+        "text": "연구실 입실 및 진로, 전공관련 상담은 메일로 학번, 이름, 내용을 적어서 보내주시길 바랍니다.",
+        "imageCount": 0,
+        "linkCount": 0,
+        "embedCount": 0
+      }
+    ],
+    "stats": {
+      "sectionCount": 6,
+      "imageCount": 1,
+      "linkCount": 1,
+      "embedCount": 0,
+      "textCharacters": 266
+    }
+  }
+}

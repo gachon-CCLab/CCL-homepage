@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+public/assets/** -text
+source/raw/** -text -whitespace
+vendor/** -text -whitespace
+public/licenses/** -text -whitespace
+public/assets/fonts/OFL.txt -whitespace

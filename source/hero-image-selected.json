@@ -1,0 +1,25 @@
+{
+  "selected_on": "2026-11-08",
+  "design_id": "FL-06",
+  "design_title": "Reference Refined",
+  "source_filename": "codex-clipboard-da1da08b-1ac9-4c56-b6c1-6b75b5a41074.png",
+  "asset": "dist/assets/ccl-hero-selected.png",
+  "sha256": "636e571ba553668b5a146353887ebb319ab2d41128f5ff172ff2df61e3b171c6",
+  "dimensions": [
+    1374,
+    1145
+  ],
+  "processing": "User-selected attachment copied byte-for-byte; original transparency preserved.",
+  "previous_selection": {
+    "selected_on": "2026-11-02",
+    "source_filename": "codex-clipboard-3ac9c01c-f03f-427f-b030-7ae2a2a4f342.png",
+    "asset": "dist/assets/ccl-hero-selected.png",
+    "sha256": "42d98c78e534856c11d003b331f89bfcc36a46d14223b50ea13810e26dcab02e",
+    "dimensions": [
+      1374,
+      1145
+    ],
+    "processing": "User-selected attachment copied without alteration."
+  },
+  "previous_asset": "dist/assets/ccl-hero-selected-2026-11-02.png"
+}

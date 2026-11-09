@@ -1,0 +1,1257 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore the Cognitive Computing Lab at Gachon University: research areas, the FedOps platform, selected publications and contact information."
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>CCL · Lab Profile | Cognitive Computing Lab</title>
+    <link rel="icon" href="@@FAVICON@@" />
+    <style>
+      @font-face {
+        font-family: Pretendard;
+        src: url("@@FONT@@") format("woff2");
+        font-weight: 100 900;
+        font-display: swap;
+      }
+      :root {
+        --blue: #006cef;
+        --sky: #6ec1fd;
+        --ink: #14191f;
+        --muted: #647181;
+        --line: #dfe6ee;
+        --tint: #f1f7fe;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        margin: 0;
+        background: #f0f3f7;
+        color: var(--ink);
+        font-family: Pretendard, "Segoe UI", Arial, sans-serif;
+        line-height: 1.7;
+        -webkit-font-smoothing: antialiased;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      a:hover {
+        color: var(--blue);
+      }
+      button {
+        font: inherit;
+        cursor: pointer;
+      }
+      h1,
+      h2,
+      h3,
+      p,
+      figure {
+        margin: 0;
+      }
+      h1,
+      h2,
+      h3 {
+        letter-spacing: -0.035em;
+        line-height: 1.25;
+      }
+      p {
+        word-break: keep-all;
+      }
+      img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
+      a:focus-visible,
+      button:focus-visible {
+        outline: 3px solid var(--blue);
+        outline-offset: 4px;
+      }
+      .toolbar {
+        max-width: 1120px;
+        margin: 22px auto 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 20px;
+        padding: 0 3px;
+        font-size: 12px;
+        color: #566578;
+      }
+      .toolbar > span {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+      }
+      .toolbar > span:before {
+        content: "";
+        height: 7px;
+        width: 7px;
+        border-radius: 50%;
+        background: var(--blue);
+      }
+      .toolbar-actions {
+        display: flex;
+        gap: 8px;
+      }
+      .toolbar button {
+        background: white;
+        border: 1px solid #d6dfe9;
+        border-radius: 4px;
+        padding: 9px 15px;
+        font-size: 12px;
+        color: var(--ink);
+      }
+      .toolbar button:last-child {
+        background: var(--blue);
+        border-color: var(--blue);
+        color: white;
+      }
+      .toolbar button:hover {
+        filter: brightness(0.97);
+      }
+      .sheet {
+        max-width: 1120px;
+        margin: 0 auto 26px;
+        background: white;
+        padding: 40px 54px 25px;
+        box-shadow: 0 5px 30px #20395406;
+        min-width: 0;
+      }
+      .running-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 21px;
+        border-bottom: 1px solid var(--line);
+        gap: 20px;
+      }
+      .wordmark {
+        font-size: 30px;
+        font-weight: 800;
+        letter-spacing: -0.06em;
+        line-height: 1;
+      }
+      .wordmark > span {
+        color: var(--blue);
+      }
+      .affiliation {
+        font-size: 8px;
+        font-weight: 600;
+        letter-spacing: 0.13em;
+        line-height: 1.8;
+        color: #617185;
+        text-align: right;
+      }
+      .eyebrow {
+        font-size: 9px;
+        font-weight: 650;
+        letter-spacing: 0.13em;
+        color: var(--blue);
+        margin-bottom: 15px;
+      }
+      .cover {
+        display: grid;
+        grid-template-columns: 1.15fr 1fr;
+        gap: 32px;
+        align-items: center;
+        padding: 37px 0 31px;
+      }
+      .cover h1 {
+        font-size: 57px;
+        letter-spacing: -0.06em;
+        font-weight: 700;
+        line-height: 1.06;
+      }
+      .cover h1 > span {
+        color: var(--blue);
+      }
+      .korean-name {
+        font-size: 16px;
+        font-weight: 550;
+        margin-top: 20px;
+      }
+      .cover .summary {
+        font-size: 12px;
+        color: var(--muted);
+        margin-top: 14px;
+        line-height: 1.85;
+      }
+      .cover figure img {
+        width: 100%;
+      }
+      .cover figcaption {
+        display: flex;
+        justify-content: space-between;
+        font-size: 7px;
+        letter-spacing: 0.08em;
+        color: #768697;
+        margin-top: 8px;
+      }
+      .section-title {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 20px;
+        border-top: 1px solid var(--line);
+        padding-top: 21px;
+        margin-bottom: 18px;
+      }
+      .section-title h2 {
+        font-size: 21px;
+        font-weight: 650;
+      }
+      .section-title > span {
+        font-size: 8px;
+        letter-spacing: 0.12em;
+        color: var(--blue);
+      }
+      .about {
+        display: grid;
+        grid-template-columns: 1.3fr 1fr;
+        gap: 45px;
+        margin-bottom: 26px;
+      }
+      .about-copy p {
+        font-size: 12px;
+        line-height: 1.85;
+        color: #4e5c6b;
+      }
+      .about-copy p + p {
+        margin-top: 10px;
+      }
+      .faculty {
+        display: grid;
+        grid-template-columns: 73px 1fr;
+        gap: 18px;
+        align-items: start;
+        padding-left: 25px;
+        border-left: 1px solid var(--line);
+      }
+      .faculty > img {
+        width: 73px;
+        height: 98px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 3px;
+      }
+      .faculty .label {
+        font-size: 8px;
+        letter-spacing: 0.09em;
+        color: var(--muted);
+        margin-bottom: 6px;
+      }
+      .faculty h3 {
+        font-size: 19px;
+      }
+      .faculty h3 > small {
+        display: block;
+        font-size: 11px;
+        font-weight: 500;
+        color: var(--muted);
+        margin-top: 5px;
+        letter-spacing: 0;
+      }
+      .faculty p,
+      .faculty a {
+        font-size: 10px;
+        line-height: 1.7;
+      }
+      .faculty p {
+        margin-top: 10px;
+        color: var(--muted);
+      }
+      .faculty a {
+        display: inline-block;
+        margin-top: 5px;
+        color: var(--blue);
+      }
+      .research-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px 35px;
+        margin-top: 4px;
+        margin-bottom: 28px;
+      }
+      .research-item {
+        display: grid;
+        grid-template-columns: 27px minmax(0, 1fr);
+        gap: 12px;
+      }
+      .research-item .number {
+        color: var(--blue);
+        font-size: 9px;
+        font-weight: 600;
+        padding-top: 3px;
+      }
+      .research-item h3 {
+        font-size: 15px;
+        font-weight: 650;
+      }
+      .research-item p {
+        font-size: 11px;
+        color: var(--muted);
+        line-height: 1.8;
+        margin-top: 7px;
+      }
+      .page-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-top: 1px solid var(--line);
+        padding-top: 15px;
+        font-size: 7px;
+        letter-spacing: 0.1em;
+        color: #7a8797;
+      }
+      .page-footer > span:last-child {
+        font-size: 11px;
+        color: var(--blue);
+        font-weight: 600;
+      }
+      .platform {
+        padding-top: 29px;
+      }
+      .platform-heading {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+      .platform-brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .platform-brand img {
+        width: 33px;
+        height: 33px;
+      }
+      .platform-brand h2 {
+        font-size: 35px;
+        letter-spacing: -0.04em;
+      }
+      .platform-brand h2 span {
+        font-size: 11px;
+        color: var(--blue);
+        padding-left: 10px;
+        letter-spacing: 0;
+      }
+      .platform-heading > p {
+        font-size: 10px;
+        color: var(--muted);
+      }
+      .platform-panel {
+        background: var(--tint);
+        border: 1px solid #dfebf8;
+        border-radius: 5px;
+        padding: 24px 28px;
+      }
+      .platform-panel h3 {
+        font-size: 27px;
+        line-height: 1.35;
+        font-weight: 650;
+      }
+      .platform-panel > p {
+        font-size: 12px;
+        color: #53677d;
+        line-height: 1.9;
+        margin-top: 14px;
+        max-width: 790px;
+      }
+      .flow {
+        list-style: none;
+        padding: 0;
+        margin: 23px 0 0;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 18px;
+        border-top: 1px solid #cadff3;
+      }
+      .flow li {
+        padding-top: 14px;
+        position: relative;
+      }
+      .flow li > span {
+        display: block;
+        font-size: 8px;
+        letter-spacing: 0.08em;
+        color: var(--blue);
+        margin-bottom: 5px;
+      }
+      .flow li > strong {
+        display: block;
+        font-size: 12px;
+        font-weight: 650;
+      }
+      .flow li > small {
+        display: block;
+        font-size: 10px;
+        color: #60768e;
+        margin-top: 5px;
+      }
+      .flow li:not(:last-child):after {
+        content: "→";
+        position: absolute;
+        right: 8px;
+        top: 35px;
+        color: #86a8c9;
+        font-size: 13px;
+      }
+      .platform-detail {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        margin-top: 17px;
+      }
+      .platform-detail > p {
+        font-size: 10px;
+        color: var(--muted);
+        line-height: 1.85;
+      }
+      .platform-detail strong {
+        font-weight: 600;
+        color: #35475d;
+      }
+      .platform-links {
+        display: flex;
+        gap: 24px;
+        margin: 15px 0 25px;
+        font-size: 11px;
+        color: var(--blue);
+      }
+      .papers {
+        margin-bottom: 22px;
+      }
+      .paper {
+        display: grid;
+        grid-template-columns: 39px 1fr 15px;
+        gap: 17px;
+        padding: 12px 0;
+        border-bottom: 1px solid var(--line);
+        align-items: start;
+      }
+      .paper .year {
+        font-size: 10px;
+        color: var(--muted);
+        padding-top: 2px;
+      }
+      .paper h3 {
+        font-size: 12px;
+        line-height: 1.5;
+        letter-spacing: -0.01em;
+        font-weight: 600;
+      }
+      .paper p {
+        font-size: 9px;
+        color: var(--muted);
+        margin-top: 4px;
+        line-height: 1.7;
+      }
+      .paper > .arrow {
+        font-size: 14px;
+        color: var(--blue);
+      }
+      .contact {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 35px;
+        padding: 17px 0 21px;
+      }
+      .contact .eyebrow {
+        margin-bottom: 10px;
+        font-size: 8px;
+      }
+      .contact h3 {
+        font-size: 16px;
+      }
+      .contact p,
+      .contact a {
+        font-size: 10px;
+        line-height: 1.9;
+        color: var(--muted);
+      }
+      .contact a {
+        color: var(--blue);
+      }
+      .contact .name {
+        font-weight: 600;
+        color: var(--ink);
+        margin-bottom: 3px;
+      }
+      .source-note {
+        font-size: 7px;
+        line-height: 1.7;
+        color: #7b8797;
+        margin-bottom: 14px;
+      }
+      .afterword {
+        max-width: 1120px;
+        margin: 0 auto 30px;
+        font-size: 11px;
+        color: #788698;
+        text-align: center;
+      }
+      .mobile-break {
+        display: none;
+      }
+      @media (max-width: 800px) {
+        .toolbar {
+          padding: 0 20px;
+          font-size: 10px;
+        }
+        .toolbar-actions {
+          gap: 5px;
+        }
+        .toolbar button {
+          font-size: 10px;
+          padding: 8px 11px;
+        }
+        .sheet {
+          margin-inline: 16px;
+          padding: 28px 28px 22px;
+        }
+        .cover {
+          gap: 22px;
+        }
+        .cover h1 {
+          font-size: 40px;
+        }
+        .korean-name {
+          font-size: 14px;
+        }
+        .cover .summary {
+          font-size: 11px;
+        }
+        .about {
+          gap: 24px;
+        }
+        .faculty {
+          padding-left: 20px;
+          grid-template-columns: 60px 1fr;
+          gap: 12px;
+        }
+        .faculty > img {
+          width: 60px;
+          height: 84px;
+        }
+        .faculty h3 {
+          font-size: 16px;
+        }
+        .research-grid {
+          gap: 20px 25px;
+        }
+        .platform-panel {
+          padding: 22px;
+        }
+        .platform-panel h3 {
+          font-size: 24px;
+        }
+      }
+      @media (max-width: 560px) {
+        .toolbar {
+          align-items: flex-start;
+          margin-block: 17px 12px;
+          gap: 12px;
+        }
+        .toolbar > span {
+          max-width: 130px;
+          line-height: 1.7;
+        }
+        .toolbar > span:before {
+          flex-shrink: 0;
+        }
+        .toolbar-actions {
+          flex-direction: column;
+        }
+        .toolbar button {
+          font-size: 11px;
+        }
+        .sheet {
+          margin-inline: 10px;
+          padding: 24px 21px 20px;
+        }
+        .wordmark {
+          font-size: 28px;
+        }
+        .affiliation {
+          font-size: 6px;
+        }
+        .cover {
+          grid-template-columns: 1fr;
+          padding-top: 30px;
+          gap: 24px;
+        }
+        .cover h1 {
+          font-size: 46px;
+        }
+        .cover figure {
+          max-width: 340px;
+          width: 100%;
+          margin: auto;
+        }
+        .cover .summary {
+          font-size: 13px;
+        }
+        .korean-name {
+          font-size: 16px;
+        }
+        .about {
+          grid-template-columns: 1fr;
+          gap: 22px;
+          margin-bottom: 29px;
+        }
+        .about-copy p {
+          font-size: 13px;
+        }
+        .faculty {
+          padding: 20px 0 0;
+          border-left: 0;
+          border-top: 1px solid var(--line);
+          grid-template-columns: 73px 1fr;
+          gap: 20px;
+        }
+        .faculty > img {
+          width: 73px;
+          height: 100px;
+        }
+        .faculty h3 {
+          font-size: 20px;
+        }
+        .faculty p,
+        .faculty a {
+          font-size: 12px;
+        }
+        .section-title {
+          padding-top: 22px;
+        }
+        .section-title h2 {
+          font-size: 22px;
+        }
+        .section-title > span {
+          font-size: 7px;
+        }
+        .research-grid {
+          grid-template-columns: 1fr;
+          gap: 22px;
+          margin-bottom: 28px;
+        }
+        .research-item {
+          grid-template-columns: 24px minmax(0, 1fr);
+          gap: 12px;
+        }
+        .research-item h3 {
+          font-size: 17px;
+        }
+        .research-item p {
+          font-size: 12px;
+        }
+        .research-item .number {
+          font-size: 10px;
+        }
+        .page-footer {
+          font-size: 6px;
+          gap: 20px;
+        }
+        .platform-heading {
+          align-items: flex-start;
+          flex-direction: column;
+          gap: 8px;
+        }
+        .platform-brand h2 {
+          font-size: 34px;
+        }
+        .platform-heading > p {
+          padding-left: 45px;
+          font-size: 10px;
+        }
+        .platform-panel {
+          padding: 22px 18px;
+        }
+        .platform-panel h3 {
+          font-size: 25px;
+        }
+        .platform-panel > p {
+          font-size: 12px;
+        }
+        .flow {
+          grid-template-columns: 1fr 1fr;
+          gap: 15px 20px;
+        }
+        .flow li {
+          padding-top: 10px;
+        }
+        .flow li:not(:last-child):after {
+          display: none;
+        }
+        .flow li > strong {
+          font-size: 12px;
+        }
+        .flow li > small {
+          font-size: 10px;
+        }
+        .platform-detail {
+          grid-template-columns: 1fr;
+          gap: 12px;
+        }
+        .platform-detail > p {
+          font-size: 12px;
+        }
+        .platform-links {
+          font-size: 12px;
+          gap: 20px;
+          flex-wrap: wrap;
+        }
+        .paper {
+          grid-template-columns: 30px 1fr 12px;
+          gap: 12px;
+          padding-block: 16px;
+        }
+        .paper h3 {
+          font-size: 13px;
+        }
+        .paper p {
+          font-size: 10px;
+        }
+        .contact {
+          grid-template-columns: 1fr;
+          gap: 20px;
+        }
+        .contact h3 {
+          font-size: 18px;
+        }
+        .contact p,
+        .contact a {
+          font-size: 12px;
+        }
+        .source-note {
+          font-size: 8px;
+        }
+        .afterword {
+          font-size: 10px;
+          padding: 0 20px;
+        }
+        .mobile-break {
+          display: block;
+        }
+      }
+      @page {
+        size: A4;
+        margin: 0;
+      }
+      @media print {
+        html {
+          scroll-behavior: auto;
+        }
+        body {
+          background: white;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        .toolbar,
+        .afterword {
+          display: none;
+        }
+        .sheet {
+          box-shadow: none;
+          margin: 0;
+          width: 210mm;
+          max-width: none;
+          height: 296mm;
+          min-height: 296mm;
+          padding: 13mm 15mm 10mm;
+          display: block;
+          position: relative;
+          break-after: page;
+          overflow: visible;
+        }
+        .sheet:last-of-type {
+          break-after: auto;
+        }
+        .sheet:last-of-type .section-title {
+          padding-top: 3mm;
+          margin-bottom: 3mm;
+        }
+        .running-header {
+          padding-bottom: 6mm;
+        }
+        .cover {
+          padding: 9mm 0 8mm;
+          gap: 7mm;
+          grid-template-columns: 1.15fr 1fr;
+        }
+        .cover h1 {
+          font-size: 39pt;
+        }
+        .korean-name {
+          font-size: 12pt;
+          margin-top: 5mm;
+        }
+        .cover .summary {
+          font-size: 9pt;
+          line-height: 1.8;
+          margin-top: 4mm;
+        }
+        .eyebrow {
+          font-size: 7pt;
+          margin-bottom: 4mm;
+        }
+        .cover figcaption {
+          font-size: 5pt;
+        }
+        .about {
+          gap: 8mm;
+          margin-bottom: 6mm;
+        }
+        .about-copy p {
+          font-size: 9pt;
+        }
+        .section-title {
+          padding-top: 5mm;
+          margin-bottom: 5mm;
+        }
+        .section-title h2 {
+          font-size: 15pt;
+        }
+        .section-title > span {
+          font-size: 6pt;
+        }
+        .faculty {
+          padding-left: 6mm;
+          grid-template-columns: 18mm 1fr;
+          gap: 4mm;
+        }
+        .faculty > img {
+          width: 18mm;
+          height: 25mm;
+        }
+        .faculty h3 {
+          font-size: 13pt;
+        }
+        .faculty h3 > small {
+          font-size: 8pt;
+        }
+        .faculty p,
+        .faculty a {
+          font-size: 7pt;
+        }
+        .research-grid {
+          gap: 6mm 8mm;
+          margin-bottom: 6mm;
+        }
+        .research-item {
+          grid-template-columns: 6mm 1fr;
+          gap: 3mm;
+        }
+        .research-item h3 {
+          font-size: 11pt;
+        }
+        .research-item p {
+          font-size: 8.5pt;
+        }
+        .research-item .number {
+          font-size: 7pt;
+        }
+        .page-footer {
+          margin-top: 0;
+          padding-top: 4mm;
+          font-size: 5.5pt;
+          position: absolute;
+          bottom: 10mm;
+          left: 15mm;
+          right: 15mm;
+        }
+        .page-footer > span:last-child {
+          font-size: 8pt;
+        }
+        .platform {
+          padding-top: 5mm;
+        }
+        .platform-heading {
+          margin-bottom: 4mm;
+        }
+        .platform-brand h2 {
+          font-size: 27pt;
+        }
+        .platform-brand img {
+          width: 9mm;
+          height: 9mm;
+        }
+        .platform-heading > p {
+          font-size: 7.5pt;
+        }
+        .platform-panel {
+          padding: 5mm 7mm;
+        }
+        .platform-panel h3 {
+          font-size: 20pt;
+        }
+        .platform-panel > p {
+          font-size: 9pt;
+          margin-top: 3mm;
+        }
+        .flow {
+          margin-top: 4mm;
+          gap: 4mm;
+        }
+        .flow li {
+          padding-top: 3mm;
+        }
+        .flow li > span {
+          font-size: 6pt;
+        }
+        .flow li > strong {
+          font-size: 8.5pt;
+        }
+        .flow li > small {
+          font-size: 7pt;
+        }
+        .platform-detail {
+          gap: 7mm;
+          margin-top: 4mm;
+        }
+        .platform-detail > p {
+          font-size: 7.5pt;
+        }
+        .platform-links {
+          font-size: 8pt;
+          margin: 3mm 0 3mm;
+        }
+        .papers {
+          margin-bottom: 4mm;
+        }
+        .paper {
+          grid-template-columns: 9mm 1fr 4mm;
+          gap: 4mm;
+          padding: 2mm 0;
+        }
+        .paper h3 {
+          font-size: 8.5pt;
+        }
+        .paper p {
+          font-size: 6.5pt;
+        }
+        .paper .year {
+          font-size: 7pt;
+        }
+        .contact {
+          padding: 2mm 0 3mm;
+          gap: 8mm;
+        }
+        .contact h3 {
+          font-size: 12pt;
+        }
+        .contact p,
+        .contact a {
+          font-size: 7.5pt;
+        }
+        .source-note {
+          font-size: 5.5pt;
+          margin-bottom: 3mm;
+        }
+        .mobile-break {
+          display: none;
+        }
+        a {
+          color: inherit;
+        }
+        .sheet * {
+          break-inside: avoid;
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="toolbar">
+      <span>Lab Profile · 2026</span>
+      <div class="toolbar-actions">
+        <button type="button" id="download">Download HTML ↓</button
+        ><button type="button" id="print">Print / Save PDF ↗</button>
+      </div>
+    </div>
+    <main>
+      <article class="sheet" id="profile" aria-labelledby="profile-title">
+        <header class="running-header">
+          <a class="wordmark" href="https://sites.google.com/view/keylee"
+            >CCL<span>.</span></a
+          >
+          <div class="affiliation">
+            GACHON UNIVERSITY<br />DEPARTMENT OF COMPUTER ENGINEERING
+          </div>
+        </header>
+        <section class="cover">
+          <div>
+            <p class="eyebrow">LABORATORY PROFILE / 2026</p>
+            <h1 id="profile-title">
+              Cognitive<br />Computing<br />Lab<span>.</span>
+            </h1>
+            <p class="korean-name">Gachon University</p>
+            <p class="summary">
+              Exploring federated learning, AI agents, healthcare AI and intelligent
+              systems through AI and cognitive computing.
+            </p>
+          </div>
+          <figure>
+            <img
+              src="@@HERO_IMAGE@@"
+              alt="@@HERO_ALT@@"
+              width="@@HERO_WIDTH@@"
+              height="@@HERO_HEIGHT@@"
+            />
+            <figcaption>
+              <span>AI, CONNECTED TO THE REAL WORLD.</span><span>CCL</span>
+            </figcaption>
+          </figure>
+        </section>
+        <div class="section-title">
+          <h2>About the Lab</h2>
+          <span>01 / OVERVIEW</span>
+        </div>
+        <section class="about" aria-label="About the lab and principal investigator">
+          <div class="about-copy">
+            <p>
+              Led by Professor KangYoon Lee in Gachon University's Department of
+              Computer Engineering, CCL studies real-world challenges with AI,
+              cognitive computing, IoT and cloud technologies.
+            </p>
+            <p>
+              Our FedOps platform connects model training and operations in distributed
+              environments. We study post-TAVR complication and psychiatric risk
+              prediction, alongside industry collaborations and national research projects.
+            </p>
+          </div>
+          <div class="faculty">
+            <img src="@@PROFESSOR@@" alt="Professor KangYoon Lee" width="73" height="98" />
+            <div>
+              <p class="label">PRINCIPAL INVESTIGATOR</p>
+              <h3>KangYoon Lee<small>Professor</small></h3>
+              <p>Department of Computer Engineering<br />Gachon University</p>
+              <a href="mailto:keylee@gachon.ac.kr">keylee@gachon.ac.kr</a
+              ><br /><a href="https://sites.google.com/view/keylee/professor"
+                >Professor Profile ↗</a
+              >
+            </div>
+          </div>
+        </section>
+        <div class="section-title">
+          <h2>Research Areas</h2>
+          <span>02 / RESEARCH</span>
+        </div>
+        <section class="research-grid" aria-label="Four research areas">
+          <div class="research-item">
+            <span class="number">01</span>
+            <div>
+              <h3>Federated Learning</h3>
+              <p>
+                Collaborative training and lifecycle management in distributed
+                environments. FedOps connects research with model operations.
+              </p>
+            </div>
+          </div>
+          <div class="research-item">
+            <span class="number">02</span>
+            <div>
+              <h3>AI Agent &amp; LLM</h3>
+              <p>
+                Building, using and improving LLMs and Tool AI, with research on
+                on-device models and efficient fine-tuning.
+              </p>
+            </div>
+          </div>
+          <div class="research-item">
+            <span class="number">03</span>
+            <div>
+              <h3>Healthcare AI</h3>
+              <p>
+                Medical language models, medical twins and risk prediction,
+                including post-TAVR complications and mental health.
+              </p>
+            </div>
+          </div>
+          <div class="research-item">
+            <span class="number">04</span>
+            <div>
+              <h3>Intelligent Systems</h3>
+              <p>
+                IoT and cloud data applications, connecting sensor and
+                multimodal data with intelligent systems.
+              </p>
+            </div>
+          </div>
+        </section>
+        <footer class="page-footer">
+          <span>COGNITIVE COMPUTING LAB · GACHON UNIVERSITY</span
+          ><span>01 / 02</span>
+        </footer>
+      </article>
+      <article class="sheet" aria-label="FedOps, publications and contact">
+        <header class="running-header">
+          <a class="wordmark" href="#profile">CCL<span>.</span></a>
+          <div class="affiliation">
+            RESEARCH PLATFORM<br />PUBLICATIONS &amp; CONTACT
+          </div>
+        </header>
+        <section class="platform">
+          <p class="eyebrow">RESEARCH SOFTWARE</p>
+          <div class="platform-heading">
+            <div class="platform-brand">
+              <img src="@@FEDOPS@@" alt="" width="33" height="33" />
+              <h2>FedOps<span>1.3</span></h2>
+            </div>
+            <p>Federated AI AgentOps</p>
+          </div>
+          <div class="platform-panel">
+            <h3>From local data<br />to federated AI agents.</h3>
+            <p>
+              Train models together while keeping raw data on participants' devices.
+              Use the trained models to build, run and improve AI agents.
+            </p>
+            <ol class="flow">
+              <li>
+                <span>01 / PREPARE</span><strong>Local setup</strong
+                ><small>Connect data<br />Code · Model · Environment</small>
+              </li>
+              <li>
+                <span>02 / COLLABORATE</span><strong>Federated learning</strong
+                ><small>Join a Task<br />Aggregate model updates</small>
+              </li>
+              <li>
+                <span>03 / VERSION</span><strong>Model versions</strong
+                ><small>Global Model<br />Version and lineage tracking</small>
+              </li>
+              <li>
+                <span>04 / BUILD &amp; USE</span><strong>Agent use</strong
+                ><small>Build · Test<br />Local Chat · Serving</small>
+              </li>
+            </ol>
+          </div>
+          <div class="platform-detail">
+            <p>
+              <strong>Web · Registry</strong> coordinates Tasks, participation and
+              model versions. <strong>Agent Studio</strong> supports local development
+              and execution. <strong>FL Server</strong> aggregates model updates.
+            </p>
+            <p>
+              Raw data stays local. Each Agent Build pins a selected model version.
+              After validation, a new model can be used in a new Agent Revision.
+            </p>
+          </div>
+          <div class="platform-links">
+            <a href="https://ccl.gachon.ac.kr/fedops/">FedOps Website ↗</a
+            ><a href="https://gachon-cclab.github.io/fedops-docs-1.3/"
+              >Documentation &amp; Getting Started ↗</a
+            >
+          </div>
+        </section>
+        <div class="section-title">
+          <h2>Selected Publications</h2>
+          <span>03 / PUBLICATIONS</span>
+        </div>
+        <section class="papers" aria-label="Selected publications">
+          <a class="paper" href="https://doi.org/10.1016/j.eswa.2026.131397"
+            ><span class="year">2026</span>
+            <div>
+              <h3>
+                BitLoRA: Quantization-Compatible Adapter Tuning for 1.58-bit LLM
+                in Federated On-Device AI-Agent
+              </h3>
+              <p>
+                InSeo Song, KangYoon Lee · Expert Systems with Applications 311,
+                131397
+              </p>
+            </div>
+            <span class="arrow" aria-hidden="true">↗</span></a
+          ><a class="paper" href="https://doi.org/10.1109/JBHI.2026.3690452"
+            ><span class="year">2026</span>
+            <div>
+              <h3>
+                FedTFT: Federated Temporal Fusion Transformer for Interpretable
+                Multi-Horizon Psychiatric Risk Prediction Across Cross-Silo
+                Hospitals
+              </h3>
+              <p>
+                Akeel Ahamed, Ri-Ra Kang, KangYoon Lee · IEEE Journal of
+                Biomedical and Health Informatics
+              </p>
+            </div>
+            <span class="arrow" aria-hidden="true">↗</span></a
+          ><a class="paper" href="https://doi.org/10.1109/ACCESS.2024.3349691"
+            ><span class="year">2024</span>
+            <div>
+              <h3>
+                FedOps: A Platform of Federated Learning Operations With
+                Heterogeneity Management
+              </h3>
+              <p>
+                Jihwan Moon, Semo Yang, KangYoon Lee · IEEE Access 12, 4301–4314
+              </p>
+            </div>
+            <span class="arrow" aria-hidden="true">↗</span></a
+          >
+        </section>
+        <div class="section-title">
+          <h2>Contact CCL</h2>
+          <span>04 / CONTACT</span>
+        </div>
+        <section class="contact">
+          <div>
+            <p class="name">Professor KangYoon Lee</p>
+            <a href="mailto:keylee@gachon.ac.kr">keylee@gachon.ac.kr</a>
+            <p>031-750-8902 · Office: AI Engineering Building, Room 312</p>
+          </div>
+          <div>
+            <p class="name">Gachon University · Global Campus</p>
+            <p>
+              CCL · AI Engineering Building, Room 103<br />1342 Seongnam-daero,
+              Sujeong-gu, Seongnam-si, Gyeonggi-do 13120, Republic of Korea
+            </p>
+            <a href="https://sites.google.com/view/keylee">Lab Website ↗</a>
+          </div>
+        </section>
+        <p class="source-note">
+          Sources: CCL Research · Publication · Professor · Contact / FedOps 1.3
+          Docs · Reviewed 2026.11.02
+        </p>
+        <footer class="page-footer">
+          <span>© 2026 COGNITIVE COMPUTING LAB, GACHON UNIVERSITY</span
+          ><span>02 / 02</span>
+        </footer>
+      </article>
+    </main>
+    <p class="afterword">
+      Download this HTML file or print / save it as a two-page A4 profile using the buttons above.
+    </p>
+    <script>
+      document
+        .querySelector("#print")
+        .addEventListener("click", () => window.print());
+      document.querySelector("#download").addEventListener("click", () => {
+        const blob = new Blob(
+          ["<!doctype html>\n" + document.documentElement.outerHTML],
+          { type: "text/html;charset=utf-8" },
+        );
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "CCL-Laboratory-Profile.html";
+        a.click();
+        setTimeout(() => URL.revokeObjectURL(url), 1000);
+      });
+    </script>
+  </body>
+</html>

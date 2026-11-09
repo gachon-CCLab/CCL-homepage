@@ -1,0 +1,13 @@
+{
+  "main": {
+    "confirmed_on": "2026-11-02",
+    "reason": "The user requested removal of the imported old Main presentation, retaining the supplied lab description, research fields, research activities and motto in a separate layout.",
+    "removed_text_blocks": [
+      "Welcome to CCL! Cognitive Computing Lab !!"
+    ],
+    "removed_images": [
+      "assets/archive/7e870d84377799430985.png",
+      "assets/archive/ea78a3ea6bea632d628d.png"
+    ]
+  }
+}

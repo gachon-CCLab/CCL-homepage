@@ -1,0 +1,2 @@
+# Python 3.10+; used only for rebuilding/checking, not to open the HTML.
+beautifulsoup4>=4.12,<5

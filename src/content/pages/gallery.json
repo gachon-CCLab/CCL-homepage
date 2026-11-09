@@ -1,0 +1,5463 @@
+{
+  "id": "gallery",
+  "filename": "gallery.html",
+  "title": "Gallery",
+  "description": "Research, learning and moments together — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Gallery"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "LIFE AT CCL"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Gallery"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Research, learning and moments together"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.76d49d7b5680140a_93"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urdw2a4i0ev3_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urdw2a4i0ev3"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.76d49d7b5680140a_93"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urdw2a4i0ev3_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.urdw2a4i0ev3"
+      }
+    },
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "section-index",
+        "aria-label": "Gallery by year"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.6d7f91c9c3db3872_31"
+          },
+          "children": [
+            "2026"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.74702166e36cfa7d_0"
+          },
+          "children": [
+            "2025"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.4a46ede1e4fe4ba9_4"
+          },
+          "children": [
+            "2024"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.6d7f91c9c3db3872_19"
+          },
+          "children": [
+            "2023"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.6d7f91c9c3db3872_23"
+          },
+          "children": [
+            "2022"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "#h.6d7f91c9c3db3872_27"
+          },
+          "children": [
+            "2017 ~ 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "gallery-document"
+      },
+      "children": [
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.6d7f91c9c3db3872_31"
+          },
+          "children": [
+            "2026"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.1e6590a9d90fe9c4_1"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Graduate"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.1e6590a9d90fe9c4_5"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/886a371e30329ba8ce6c.jpg",
+                        "data-photo-index": "0"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/886a371e30329ba8ce6c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/ef42993479bca5043770.jpg",
+                        "data-photo-index": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ef42993479bca5043770.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2026.08.19  CCL Graduate Party"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/f50c774d72b40c80bf4d.jpg",
+                        "data-photo-index": "2"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f50c774d72b40c80bf4d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/f4df890f8e1b6c4b4772.jpg",
+                        "data-photo-index": "3"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f4df890f8e1b6c4b4772.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2026.08.20  CCL Graduation"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.2121861f6cbefd20_4"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/dad698fdbeae9307e407.jpg",
+                        "data-photo-index": "4"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.06.19 Korea Data Science Conference",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/dad698fdbeae9307e407.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/13cfd9f6894bc6e1458b.jpg",
+                        "data-photo-index": "5"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.06.19 Korea Data Science Conference",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/13cfd9f6894bc6e1458b.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/47715ff5d1cff55c5a7b.jpg",
+                        "data-photo-index": "6"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.06.19 Korea Data Science Conference",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/47715ff5d1cff55c5a7b.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2026.06.19  Korea Data Science Conference"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.2121861f6cbefd20_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Graduate"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.4a46ede1e4fe4ba9_12"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/efeb245c2e8df59a6d12.jpg",
+                        "data-photo-index": "7"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/efeb245c2e8df59a6d12.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/092629a8a50262d70806.jpg",
+                        "data-photo-index": "8"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/092629a8a50262d70806.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1dbd15eed7519ad308b0.jpg",
+                        "data-photo-index": "9"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1dbd15eed7519ad308b0.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/59e097cf1724a863e15c.jpg",
+                        "data-photo-index": "10"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/59e097cf1724a863e15c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/69a9d92d3dbf80f6edac.jpg",
+                        "data-photo-index": "11"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/69a9d92d3dbf80f6edac.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2026.01.26  CCL Graduate Party"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0b2ff34faabdfd64d257.jpg",
+                        "data-photo-index": "12"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0b2ff34faabdfd64d257.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d8c552bda31ed60fe0f9.jpg",
+                        "data-photo-index": "13"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d8c552bda31ed60fe0f9.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2026.02.12  CCL Graduation"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.74702166e36cfa7d_0"
+          },
+          "children": [
+            "2025"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.4a46ede1e4fe4ba9_8"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  FedOps1.2 Release"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.74702166e36cfa7d_8"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b1278fb16f7ee76dff2a.jpg",
+                        "data-photo-index": "14"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.11.04 FedOps1.2 Release",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b1278fb16f7ee76dff2a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/11f36183e02de076437c.jpg",
+                        "data-photo-index": "15"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.11.04 FedOps1.2 Release",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/11f36183e02de076437c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2025.11.04  FedOps1.2 Release"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.5d97f5383dbdb1c6_6"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Summer Workshop"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.5d97f5383dbdb1c6_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/fdf8bbafb0e83d3cfc3b.jpg",
+                        "data-photo-index": "16"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/fdf8bbafb0e83d3cfc3b.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0bb837e4d5fb9c2eea4e.jpg",
+                        "data-photo-index": "17"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0bb837e4d5fb9c2eea4e.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/29bff51c8395662ca973.jpg",
+                        "data-photo-index": "18"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/29bff51c8395662ca973.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/f60cd7e0293cdf9db90a.jpg",
+                        "data-photo-index": "19"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f60cd7e0293cdf9db90a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/e94806141842449d6703.jpg",
+                        "data-photo-index": "20"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/e94806141842449d6703.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/95ff2fee90d7a300213e.jpg",
+                        "data-photo-index": "21"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/95ff2fee90d7a300213e.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/10176bada9ee9d7e14e6.jpg",
+                        "data-photo-index": "22"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.07.24 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/10176bada9ee9d7e14e6.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2025.07.24  CCL summer workshop"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.6f90774d3fff080b_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Graduate"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.6f90774d3fff080b_4"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b9991bb3000c572344d1.jpg",
+                        "data-photo-index": "23"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.02.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b9991bb3000c572344d1.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/5af33c9be999b702962a.jpg",
+                        "data-photo-index": "24"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2025.02.20 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5af33c9be999b702962a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2025.02.20 CCL  Graduation "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.4a46ede1e4fe4ba9_4"
+          },
+          "children": [
+            "2024"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.65733748984edfe7_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Summer Workshop"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.627bd76b7e088f5d_21"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/bfc664bf2474d82ad2bc.jpg",
+                        "data-photo-index": "25"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.07.22 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/bfc664bf2474d82ad2bc.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/6d29aeee5cf2c41e15e8.jpg",
+                        "data-photo-index": "26"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.07.22 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/6d29aeee5cf2c41e15e8.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/ee22ac514f8f354b0ed3.jpg",
+                        "data-photo-index": "27"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.07.22 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ee22ac514f8f354b0ed3.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/dee33db987f62860892f.jpg",
+                        "data-photo-index": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.07.22 CCL summer workshop",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/dee33db987f62860892f.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2024.07.22 CCL summer workshop"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.627bd76b7e088f5d_17"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL  Graduate"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.6d7f91c9c3db3872_37"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/e8c4b563547fbc71ed12.jpg",
+                        "data-photo-index": "29"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.08.22 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/e8c4b563547fbc71ed12.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/62b434f0afc53a202c20.jpg",
+                        "data-photo-index": "30"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.08.22 CCL Graduation",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/62b434f0afc53a202c20.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2024.08.22 CCL  Graduation "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.53e25cfb58bfa35a_12"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/53c38dfe02819f5af891.jpg",
+                        "data-photo-index": "31"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/53c38dfe02819f5af891.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/393ccbd95afadc5ac65f.jpg",
+                        "data-photo-index": "32"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/393ccbd95afadc5ac65f.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2024.02.22 CCL  Graduation "
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/f1f661b3d4ebacd8331c.jpg",
+                        "data-photo-index": "33"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f1f661b3d4ebacd8331c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/c40b4df9bef38bc1d031.jpg",
+                        "data-photo-index": "34"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/c40b4df9bef38bc1d031.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/420d7408326fa7e138bc.jpg",
+                        "data-photo-index": "35"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/420d7408326fa7e138bc.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/382ae52f051be85cbd56.jpg",
+                        "data-photo-index": "36"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/382ae52f051be85cbd56.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0c182616ba11a1610d62.jpg",
+                        "data-photo-index": "37"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0c182616ba11a1610d62.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d2b0a997db57f9b6770c.jpg",
+                        "data-photo-index": "38"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d2b0a997db57f9b6770c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1a84943b9e6e66ee8270.jpg",
+                        "data-photo-index": "39"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1a84943b9e6e66ee8270.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/dea3316f7afb2d75886a.jpg",
+                        "data-photo-index": "40"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/dea3316f7afb2d75886a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/66db02f0230e1071aa75.jpg",
+                        "data-photo-index": "41"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/66db02f0230e1071aa75.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/f61d7225fe0f1c7fd2d6.jpg",
+                        "data-photo-index": "42"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f61d7225fe0f1c7fd2d6.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2024.01.08 CCL Graduate Party "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.6d7f91c9c3db3872_19"
+          },
+          "children": [
+            "2023"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.53e25cfb58bfa35a_8"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL Demo & Sports day"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.20c6f1e7574073a1_8"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/4f6cbe13beb1a85c798f.jpg",
+                        "data-photo-index": "43"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/4f6cbe13beb1a85c798f.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/611c2b03073415813a6d.jpg",
+                        "data-photo-index": "44"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/611c2b03073415813a6d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1d6334f7be0bf8b29db1.jpg",
+                        "data-photo-index": "45"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1d6334f7be0bf8b29db1.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/79a7b37fc6098b2b86db.jpg",
+                        "data-photo-index": "46"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/79a7b37fc6098b2b86db.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/3dfa5e7d95f34c366211.jpg",
+                        "data-photo-index": "47"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/3dfa5e7d95f34c366211.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/847192dec5088a8a57e8.jpg",
+                        "data-photo-index": "48"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/847192dec5088a8a57e8.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/ecfc1d604ae578a17728.jpg",
+                        "data-photo-index": "49"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ecfc1d604ae578a17728.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/131ed66f95e97e7484b4.jpg",
+                        "data-photo-index": "50"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/131ed66f95e97e7484b4.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/fe6f1f506c58539cc3bd.jpg",
+                        "data-photo-index": "51"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/fe6f1f506c58539cc3bd.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/309e0a9a263099ab7c6a.jpg",
+                        "data-photo-index": "52"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/309e0a9a263099ab7c6a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/834ee5df1e98f5424fd2.jpg",
+                        "data-photo-index": "53"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/834ee5df1e98f5424fd2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/77dc916a7a6c9e2760ee.jpg",
+                        "data-photo-index": "54"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/77dc916a7a6c9e2760ee.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2023.12.04 CCL Demo day"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/ed1818688a51f13cb1ca.jpg",
+                        "data-photo-index": "55"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ed1818688a51f13cb1ca.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/70667d2804310de7a390.jpg",
+                        "data-photo-index": "56"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/70667d2804310de7a390.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/8ca2bb8a5d2f0dea4497.jpg",
+                        "data-photo-index": "57"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/8ca2bb8a5d2f0dea4497.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/01900b21445dc87e654a.jpg",
+                        "data-photo-index": "58"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/01900b21445dc87e654a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/10eed2c0d3247695f6dc.jpg",
+                        "data-photo-index": "59"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/10eed2c0d3247695f6dc.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0ed326eed45a53f7c49e.jpg",
+                        "data-photo-index": "60"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0ed326eed45a53f7c49e.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/48f8424b359fa76adb74.jpg",
+                        "data-photo-index": "61"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/48f8424b359fa76adb74.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/274674b1f7b9f1f220b1.jpg",
+                        "data-photo-index": "62"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/274674b1f7b9f1f220b1.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/77b234875750e40a3885.jpg",
+                        "data-photo-index": "63"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/77b234875750e40a3885.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b1f56be72ffe15b68777.jpg",
+                        "data-photo-index": "64"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b1f56be72ffe15b68777.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/15d67e86624706e66789.jpg",
+                        "data-photo-index": "65"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/15d67e86624706e66789.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/bf6d7db9b16725c83a4a.jpg",
+                        "data-photo-index": "66"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/bf6d7db9b16725c83a4a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2023.12.04 Sports day"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.5bed154515baa016_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL Workshop & Seminar"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.4b749093698fd785_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/61726a14489fe97edf6f.jpg",
+                        "data-photo-index": "67"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/61726a14489fe97edf6f.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/a916ffedb06057944d25.jpg",
+                        "data-photo-index": "68"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/a916ffedb06057944d25.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/c00a2701e0a7eba6996d.jpg",
+                        "data-photo-index": "69"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/c00a2701e0a7eba6996d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/32f1dacb7c35fbdd9bb4.jpg",
+                        "data-photo-index": "70"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/32f1dacb7c35fbdd9bb4.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/816b268562f94a8da25c.jpg",
+                        "data-photo-index": "71"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/816b268562f94a8da25c.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d611e3014511962557e2.jpg",
+                        "data-photo-index": "72"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d611e3014511962557e2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/c56666d7fc1a07be3c2a.jpg",
+                        "data-photo-index": "73"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/c56666d7fc1a07be3c2a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/7178e977cde672eac425.jpg",
+                        "data-photo-index": "74"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/7178e977cde672eac425.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/4fc870bf9f88b6ff1b3b.jpg",
+                        "data-photo-index": "75"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/4fc870bf9f88b6ff1b3b.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/13b08b294916f2d13b1a.jpg",
+                        "data-photo-index": "76"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/13b08b294916f2d13b1a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/00094e9b296f18f7fb57.jpg",
+                        "data-photo-index": "77"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/00094e9b296f18f7fb57.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/9a2affa2af0c56f363de.jpg",
+                        "data-photo-index": "78"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/9a2affa2af0c56f363de.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/7092ca1c692f20275be3.jpg",
+                        "data-photo-index": "79"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/7092ca1c692f20275be3.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/2f1b39c5f01d311b9588.jpg",
+                        "data-photo-index": "80"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/2f1b39c5f01d311b9588.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1e65cd89eeb304effd14.jpg",
+                        "data-photo-index": "81"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1e65cd89eeb304effd14.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.5bed154515baa016_4"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/589d5ed780d316a03135.jpg",
+                        "data-photo-index": "82"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/589d5ed780d316a03135.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/85b946d122e2a47a2231.jpg",
+                        "data-photo-index": "83"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/85b946d122e2a47a2231.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2023 Team Lunch (08.28)"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/a3956cca8a69b0b3c2d2.jpg",
+                        "data-photo-index": "84"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/a3956cca8a69b0b3c2d2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/5e20491d66f54254fe34.jpg",
+                        "data-photo-index": "85"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5e20491d66f54254fe34.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/24533457d7b74d6746d0.jpg",
+                        "data-photo-index": "86"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/24533457d7b74d6746d0.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/a7c96f16ca9f039fd1ab.jpg",
+                        "data-photo-index": "87"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/a7c96f16ca9f039fd1ab.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/3dd22068b8cda9eab07d.jpg",
+                        "data-photo-index": "88"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/3dd22068b8cda9eab07d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/68432574fa386db563ce.jpg",
+                        "data-photo-index": "89"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/68432574fa386db563ce.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/7d9d18419e00c4125520.jpg",
+                        "data-photo-index": "90"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/7d9d18419e00c4125520.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2023 Summer Workshop in Gapyeong (07.13~14)"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.20c6f1e7574073a1_4"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "Flower Summit 2023 in University of Cambridge"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.20c6f1e7574073a1_22"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "gallery",
+                    "href": "assets/archive/1c286b1faa6b59db0563.jpg",
+                    "data-photo-index": "91"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research, learning and moments together",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/1c286b1faa6b59db0563.jpg"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "gallery",
+                    "href": "assets/archive/fbf6abdcc68b43223c43.jpg",
+                    "data-photo-index": "92"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research, learning and moments together",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/fbf6abdcc68b43223c43.jpg"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "gallery",
+                    "href": "assets/archive/fe60d56ea6ddb0b32cb8.jpg",
+                    "data-photo-index": "93"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research, learning and moments together",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/fe60d56ea6ddb0b32cb8.jpg"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "gallery",
+                    "href": "assets/archive/5602ffc94829debe7345.jpg",
+                    "data-photo-index": "94"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research, learning and moments together",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/5602ffc94829debe7345.jpg"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.20c6f1e7574073a1_79"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "video"
+              },
+              "children": [
+                {
+                  "tag": "iframe",
+                  "attrs": {
+                    "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                    "allowfullscreen": "",
+                    "height": "540",
+                    "loading": "lazy",
+                    "referrerpolicy": "strict-origin-when-cross-origin",
+                    "src": "https://www.youtube.com/embed/9Ns0q4zHfLk",
+                    "title": "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management",
+                    "width": "960"
+                  }
+                },
+                {
+                  "tag": "figcaption",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://www.youtube.com/watch?v=9Ns0q4zHfLk"
+                      },
+                      "children": [
+                        "YouTube Video, Flower Summit 2023 | FedOps: Federated Learning Lifecycle Operations Management ↗"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "FedOps: Federated Learning Lifecycle Operations Management"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.6d7f91c9c3db3872_23"
+          },
+          "children": [
+            "2022"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.20c6f1e7574073a1_56"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/2ecd0c2d2f2cd4571d12.jpg",
+                        "data-photo-index": "95"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/2ecd0c2d2f2cd4571d12.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1c6529801baf8e53d35e.jpg",
+                        "data-photo-index": "96"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1c6529801baf8e53d35e.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/7a977068cfca7c828ec2.jpg",
+                        "data-photo-index": "97"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/7a977068cfca7c828ec2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16)"
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d47ff325c330934e9665.jpg",
+                        "data-photo-index": "98"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d47ff325c330934e9665.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d1621784ba16dc302356.jpg",
+                        "data-photo-index": "99"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d1621784ba16dc302356.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0ce1eed7d4f832c75a01.jpg",
+                        "data-photo-index": "100"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0ce1eed7d4f832c75a01.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/3c1b5f2b8daa4f8af6df.jpg",
+                        "data-photo-index": "101"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/3c1b5f2b8daa4f8af6df.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/3f7489cad24be5ec4e02.jpg",
+                        "data-photo-index": "102"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/3f7489cad24be5ec4e02.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/658e05c2199aecfd034d.jpg",
+                        "data-photo-index": "103"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/658e05c2199aecfd034d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "2022 Summer Workshop in Cheorwon ",
+                    {
+                      "tag": "br",
+                      "attrs": {}
+                    },
+                    "(07.28~29)"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "class": "gallery-year",
+            "id": "h.6d7f91c9c3db3872_27"
+          },
+          "children": [
+            "2017 ~ 2021"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.20c6f1e7574073a1_72"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "Conference & Seminar"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.20c6f1e7574073a1_15"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/029bca794c9a9f8ba93e.png",
+                        "data-photo-index": "104"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/029bca794c9a9f8ba93e.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/16447e0126182ff075a2.jpg",
+                        "data-photo-index": "105"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/16447e0126182ff075a2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d9e34a13c3173804025e.jpg",
+                        "data-photo-index": "106"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d9e34a13c3173804025e.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/af55ea7d9aa599022b3d.jpg",
+                        "data-photo-index": "107"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/af55ea7d9aa599022b3d.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/967625d28e3fa6567aa1.jpg",
+                        "data-photo-index": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/967625d28e3fa6567aa1.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/ffeeb59ba46705e99802.jpg",
+                        "data-photo-index": "109"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ffeeb59ba46705e99802.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/46e8f5cbc79e5d6da211.jpg",
+                        "data-photo-index": "110"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/46e8f5cbc79e5d6da211.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/c004364fe6ac62d5cb31.jpg",
+                        "data-photo-index": "111"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/c004364fe6ac62d5cb31.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b8f68bf9849f7ac9e014.jpg",
+                        "data-photo-index": "112"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b8f68bf9849f7ac9e014.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/7db1280c9d11cbf2d063.jpg",
+                        "data-photo-index": "113"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/7db1280c9d11cbf2d063.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/2512a33117e2a326bb03.jpg",
+                        "data-photo-index": "114"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/2512a33117e2a326bb03.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/5f878ffd648d36b8e2f4.jpg",
+                        "data-photo-index": "115"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5f878ffd648d36b8e2f4.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/1a6bcf90532a12aefd1a.jpg",
+                        "data-photo-index": "116"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/1a6bcf90532a12aefd1a.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/956f57a0eb92ae613513.jpg",
+                        "data-photo-index": "117"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/956f57a0eb92ae613513.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/203f8dfa40b4d5bb1f64.jpg",
+                        "data-photo-index": "118"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/203f8dfa40b4d5bb1f64.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/61ba90559cd9547ec1e9.jpg",
+                        "data-photo-index": "119"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/61ba90559cd9547ec1e9.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/a5ba35cffd4b693a2c98.jpg",
+                        "data-photo-index": "120"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/a5ba35cffd4b693a2c98.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/df7e3aa7ef440e6f38e2.jpg",
+                        "data-photo-index": "121"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/df7e3aa7ef440e6f38e2.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b02a24e3b4a429f1c1a6.jpg",
+                        "data-photo-index": "122"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b02a24e3b4a429f1c1a6.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/d7c962e6cd584ac17276.jpg",
+                        "data-photo-index": "123"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/d7c962e6cd584ac17276.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.3ba8af1cb8503438_8"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "gallery",
+                    "href": "assets/archive/dfbb5ab6c8ed611cede1.png",
+                    "data-photo-index": "124"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research, learning and moments together",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/dfbb5ab6c8ed611cede1.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.3ba8af1cb8503438_20"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "CCL Lab Tour"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block gallery-album",
+            "id": "h.56de7df6c1e3ccbe_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "media-grid"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/2f9e638219795579e94b.jpg",
+                        "data-photo-index": "125"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/2f9e638219795579e94b.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/9b630ca10a9947dc00eb.jpg",
+                        "data-photo-index": "126"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/9b630ca10a9947dc00eb.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/25bbc8b4d8ee2b48adde.jpg",
+                        "data-photo-index": "127"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/25bbc8b4d8ee2b48adde.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/0a5fd348223bb41a60fc.jpg",
+                        "data-photo-index": "128"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0a5fd348223bb41a60fc.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/5935e7cf5f3bd500a9af.jpg",
+                        "data-photo-index": "129"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5935e7cf5f3bd500a9af.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/385f12edf9a7d8dd3abe.jpg",
+                        "data-photo-index": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/385f12edf9a7d8dd3abe.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/b9934ddb0e88738f2510.jpg",
+                        "data-photo-index": "131"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/b9934ddb0e88738f2510.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/8286e2084539ae527c91.jpg",
+                        "data-photo-index": "132"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/8286e2084539ae527c91.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "gallery",
+                        "href": "assets/archive/31b3fa4d38b8d6ce50ad.jpg",
+                        "data-photo-index": "133"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Research, learning and moments together",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/31b3fa4d38b8d6ce50ad.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "album-title",
+            "id": "h.1e6590a9d90fe9c4_0"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "Conference"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "gallery": [
+      {
+        "src": "assets/archive/886a371e30329ba8ce6c.jpg",
+        "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/ef42993479bca5043770.jpg",
+        "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/f50c774d72b40c80bf4d.jpg",
+        "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/f4df890f8e1b6c4b4772.jpg",
+        "alt": "2026.08.19 CCL Graduate Party 2026.08.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/dad698fdbeae9307e407.jpg",
+        "alt": "2026.06.19 Korea Data Science Conference"
+      },
+      {
+        "src": "assets/archive/13cfd9f6894bc6e1458b.jpg",
+        "alt": "2026.06.19 Korea Data Science Conference"
+      },
+      {
+        "src": "assets/archive/47715ff5d1cff55c5a7b.jpg",
+        "alt": "2026.06.19 Korea Data Science Conference"
+      },
+      {
+        "src": "assets/archive/efeb245c2e8df59a6d12.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/092629a8a50262d70806.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/1dbd15eed7519ad308b0.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/59e097cf1724a863e15c.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/69a9d92d3dbf80f6edac.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/0b2ff34faabdfd64d257.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/d8c552bda31ed60fe0f9.jpg",
+        "alt": "2026.01.26 CCL Graduate Party 2026.02.12 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/b1278fb16f7ee76dff2a.jpg",
+        "alt": "2025.11.04 FedOps1.2 Release"
+      },
+      {
+        "src": "assets/archive/11f36183e02de076437c.jpg",
+        "alt": "2025.11.04 FedOps1.2 Release"
+      },
+      {
+        "src": "assets/archive/fdf8bbafb0e83d3cfc3b.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/0bb837e4d5fb9c2eea4e.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/29bff51c8395662ca973.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/f60cd7e0293cdf9db90a.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/e94806141842449d6703.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/95ff2fee90d7a300213e.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/10176bada9ee9d7e14e6.jpg",
+        "alt": "2025.07.24 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/b9991bb3000c572344d1.jpg",
+        "alt": "2025.02.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/5af33c9be999b702962a.jpg",
+        "alt": "2025.02.20 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/bfc664bf2474d82ad2bc.jpg",
+        "alt": "2024.07.22 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/6d29aeee5cf2c41e15e8.jpg",
+        "alt": "2024.07.22 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/ee22ac514f8f354b0ed3.jpg",
+        "alt": "2024.07.22 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/dee33db987f62860892f.jpg",
+        "alt": "2024.07.22 CCL summer workshop"
+      },
+      {
+        "src": "assets/archive/e8c4b563547fbc71ed12.jpg",
+        "alt": "2024.08.22 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/62b434f0afc53a202c20.jpg",
+        "alt": "2024.08.22 CCL Graduation"
+      },
+      {
+        "src": "assets/archive/53c38dfe02819f5af891.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/393ccbd95afadc5ac65f.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/f1f661b3d4ebacd8331c.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/c40b4df9bef38bc1d031.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/420d7408326fa7e138bc.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/382ae52f051be85cbd56.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/0c182616ba11a1610d62.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/d2b0a997db57f9b6770c.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/1a84943b9e6e66ee8270.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/dea3316f7afb2d75886a.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/66db02f0230e1071aa75.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/f61d7225fe0f1c7fd2d6.jpg",
+        "alt": "2024.02.22 CCL Graduation 2024.01.08 CCL Graduate Party"
+      },
+      {
+        "src": "assets/archive/4f6cbe13beb1a85c798f.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/611c2b03073415813a6d.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/1d6334f7be0bf8b29db1.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/79a7b37fc6098b2b86db.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/3dfa5e7d95f34c366211.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/847192dec5088a8a57e8.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/ecfc1d604ae578a17728.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/131ed66f95e97e7484b4.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/fe6f1f506c58539cc3bd.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/309e0a9a263099ab7c6a.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/834ee5df1e98f5424fd2.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/77dc916a7a6c9e2760ee.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/ed1818688a51f13cb1ca.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/70667d2804310de7a390.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/8ca2bb8a5d2f0dea4497.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/01900b21445dc87e654a.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/10eed2c0d3247695f6dc.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/0ed326eed45a53f7c49e.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/48f8424b359fa76adb74.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/274674b1f7b9f1f220b1.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/77b234875750e40a3885.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/b1f56be72ffe15b68777.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/15d67e86624706e66789.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/bf6d7db9b16725c83a4a.jpg",
+        "alt": "2023.12.04 CCL Demo day 2023.12.04 Sports day"
+      },
+      {
+        "src": "assets/archive/61726a14489fe97edf6f.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/a916ffedb06057944d25.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/c00a2701e0a7eba6996d.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/32f1dacb7c35fbdd9bb4.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/816b268562f94a8da25c.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/d611e3014511962557e2.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/c56666d7fc1a07be3c2a.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/7178e977cde672eac425.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/4fc870bf9f88b6ff1b3b.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/13b08b294916f2d13b1a.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/00094e9b296f18f7fb57.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/9a2affa2af0c56f363de.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/7092ca1c692f20275be3.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/2f1b39c5f01d311b9588.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/1e65cd89eeb304effd14.jpg",
+        "alt": "2023 KSII FALL conference & Workshop in Yeosu(10.28 ~ 10.30)"
+      },
+      {
+        "src": "assets/archive/589d5ed780d316a03135.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/85b946d122e2a47a2231.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/a3956cca8a69b0b3c2d2.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/5e20491d66f54254fe34.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/24533457d7b74d6746d0.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/a7c96f16ca9f039fd1ab.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/3dd22068b8cda9eab07d.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/68432574fa386db563ce.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/7d9d18419e00c4125520.jpg",
+        "alt": "2023 Team Lunch (08.28) 2023 Summer Workshop in Gapyeong (07.13~14)"
+      },
+      {
+        "src": "assets/archive/1c286b1faa6b59db0563.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/fbf6abdcc68b43223c43.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/fe60d56ea6ddb0b32cb8.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/5602ffc94829debe7345.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/2ecd0c2d2f2cd4571d12.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/1c6529801baf8e53d35e.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/7a977068cfca7c828ec2.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/d47ff325c330934e9665.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/d1621784ba16dc302356.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/0ce1eed7d4f832c75a01.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/3c1b5f2b8daa4f8af6df.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/3f7489cad24be5ec4e02.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/658e05c2199aecfd034d.jpg",
+        "alt": "2022 Winter Workshop in Grand Hyatt Incheon (12.15~16) 2022 Summer Workshop in Cheorwon (07.28~29)"
+      },
+      {
+        "src": "assets/archive/029bca794c9a9f8ba93e.png",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/16447e0126182ff075a2.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/d9e34a13c3173804025e.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/af55ea7d9aa599022b3d.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/967625d28e3fa6567aa1.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/ffeeb59ba46705e99802.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/46e8f5cbc79e5d6da211.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/c004364fe6ac62d5cb31.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/b8f68bf9849f7ac9e014.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/7db1280c9d11cbf2d063.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/2512a33117e2a326bb03.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/5f878ffd648d36b8e2f4.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/1a6bcf90532a12aefd1a.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/956f57a0eb92ae613513.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/203f8dfa40b4d5bb1f64.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/61ba90559cd9547ec1e9.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/a5ba35cffd4b693a2c98.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/df7e3aa7ef440e6f38e2.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/b02a24e3b4a429f1c1a6.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/d7c962e6cd584ac17276.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/dfbb5ab6c8ed611cede1.png",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/2f9e638219795579e94b.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/9b630ca10a9947dc00eb.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/25bbc8b4d8ee2b48adde.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/0a5fd348223bb41a60fc.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/5935e7cf5f3bd500a9af.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/385f12edf9a7d8dd3abe.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/b9934ddb0e88738f2510.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/8286e2084539ae527c91.jpg",
+        "alt": "Research, learning and moments together"
+      },
+      {
+        "src": "assets/archive/31b3fa4d38b8d6ce50ad.jpg",
+        "alt": "Research, learning and moments together"
+      }
+    ]
+  }
+}

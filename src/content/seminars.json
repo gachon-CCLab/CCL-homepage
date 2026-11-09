@@ -1,0 +1,112 @@
+[
+  {
+    "id": "seminar-1",
+    "order": 1,
+    "date": "9/18 세미나",
+    "organization": "NAVER Cloud",
+    "details": [
+      "김홍진",
+      "네이버클라우드 테크 서비스 총괄 전무"
+    ],
+    "links": [],
+    "images": [
+      "assets/archive/18e700fb593e2a872166.jpg",
+      "assets/archive/f8b4b086fcc730ca2bb8.jpg",
+      "assets/archive/ff0bb6e0362841950333.jpg"
+    ]
+  },
+  {
+    "id": "seminar-2",
+    "order": 2,
+    "date": "9/25 세미나",
+    "organization": "Metanet",
+    "details": [
+      "서경진",
+      "메타넷 T 플랫폼 상무"
+    ],
+    "links": [],
+    "images": [
+      "assets/archive/4d0edb245ebbf5b51895.jpg"
+    ]
+  },
+  {
+    "id": "seminar-3",
+    "order": 3,
+    "date": "10/16 세미나",
+    "organization": "Akamai Technologies",
+    "details": [
+      "강상진",
+      "아카마이"
+    ],
+    "links": [],
+    "images": [
+      "assets/archive/a5948cfc424d5045763b.jpg",
+      "assets/archive/0c3a7e67fc519d86a0a3.jpg",
+      "assets/archive/b78777b972edaf59f8f8.jpg",
+      "assets/archive/dc834e0e21fc1988d628.jpg",
+      "assets/archive/2ed9dcce0ebf5c1d2a1b.jpg"
+    ]
+  },
+  {
+    "id": "seminar-4",
+    "order": 4,
+    "date": "10/30 세미나",
+    "organization": "Google",
+    "details": [
+      "구글코리아 견학"
+    ],
+    "links": [
+      {
+        "label": "구글 코리아 발표 자료",
+        "href": "https://drive.google.com/file/d/1924-dO_lALIADcAheY08q9cUVfNMnL22/view?usp=drive_link"
+      }
+    ],
+    "images": [
+      "assets/archive/574d21861b555f9ae69c.png",
+      "assets/archive/c537ed1ce93c917aaf8d.jpg",
+      "assets/archive/5f339a0dfd508a4e11f7.jpg",
+      "assets/archive/ea032f036d8e08044ee9.jpg",
+      "assets/archive/fd2956bddcf1683fdb53.jpg",
+      "assets/archive/d90cd506cf20a42c3d5c.jpg"
+    ]
+  },
+  {
+    "id": "seminar-5",
+    "order": 5,
+    "date": "11/06 세미나",
+    "organization": "LG",
+    "details": [
+      "송영석 상무, 손은영 총괄마이스터",
+      "LG CNS AWS Launch센터"
+    ],
+    "links": [],
+    "images": [
+      "assets/archive/94e7e76d8b59fc4b707e.jpg",
+      "assets/archive/a0eef6161ec0053fbe8a.jpg",
+      "assets/archive/197adbbe900f4a7b33fd.jpg",
+      "assets/archive/c0bd8accc1c1588ade7c.jpg"
+    ]
+  },
+  {
+    "id": "seminar-6",
+    "order": 6,
+    "date": "11/06 세미나",
+    "organization": "MicroSoft",
+    "details": [
+      "이한성 본부장",
+      "마이크로소프트 견학",
+      "Microsoft Ignite 행사 웹사이트",
+      "VoD는 누구나 무상으로 접근 가능하니 많은 관심 바랍니다."
+    ],
+    "links": [
+      {
+        "label": "https://ignite.microsoft.com/en-US/home",
+        "href": "https://ignite.microsoft.com/en-US/home"
+      }
+    ],
+    "images": [
+      "assets/archive/2461f124ba1d5bfd8627.jpg",
+      "assets/archive/52ca1484bb140945e4e1.jpg"
+    ]
+  }
+]

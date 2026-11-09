@@ -1,0 +1,61 @@
+[
+  {
+    "label": "Main",
+    "href": "index.html",
+    "children": []
+  },
+  {
+    "label": "Professor",
+    "href": "professor.html",
+    "children": []
+  },
+  {
+    "label": "Cloud Seminar",
+    "href": "cloud-seminar.html",
+    "children": []
+  },
+  {
+    "label": "Members",
+    "href": "members.html",
+    "children": []
+  },
+  {
+    "label": "FedOps",
+    "href": "https://ccl.gachon.ac.kr/fedops/",
+    "children": []
+  },
+  {
+    "label": "Research",
+    "href": "research.html",
+    "children": [
+      {
+        "label": "2025",
+        "href": "research-2025.html"
+      },
+      {
+        "label": "~ 2024",
+        "href": "research-2024.html"
+      }
+    ]
+  },
+  {
+    "label": "Project",
+    "href": "project.html",
+    "children": []
+  },
+  {
+    "label": "Publication",
+    "href": "publication.html",
+    "children": []
+  },
+  {
+    "label": "Gallery",
+    "href": "gallery.html",
+    "children": []
+  },
+  {
+    "label": "Contact",
+    "href": "contact.html",
+    "children": []
+  }
+]

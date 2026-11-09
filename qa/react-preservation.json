@@ -1,0 +1,96 @@
+{
+  "status": "passed",
+  "pages": [
+    {
+      "file": "ccl-introduction.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "cloud-seminar.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "contact.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "department.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "gallery.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "index.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "members.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "professor.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "project.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "publication.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "research-2024.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "research-2025.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    },
+    {
+      "file": "research.html",
+      "text_match": true,
+      "images_match": true,
+      "videos_match": true,
+      "missing_anchors": []
+    }
+  ]
+}

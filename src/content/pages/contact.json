@@ -1,0 +1,355 @@
+{
+  "id": "contact",
+  "filename": "contact.html",
+  "title": "Contact",
+  "description": "Get in touch about research and opportunities at CCL — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Contact"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "VISIT & CONNECT"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Contact"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Get in touch about research and opportunities at CCL"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.76d49d7b5680140a_86"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.wk1u29drw4ni_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.wk1u29drw4ni"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.76d49d7b5680140a_86"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.wk1u29drw4ni_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.wk1u29drw4ni"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "contact-layout"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "contact-map"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "micro-label"
+              },
+              "children": [
+                "GACHON UNIVERSITY · GLOBAL CAMPUS"
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.6d712152332e4742_7"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "contact",
+                        "href": "assets/archive/2aa504cb9ed912c18623.png",
+                        "data-photo-index": "0"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Get in touch about research and opportunities at CCL",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/2aa504cb9ed912c18623.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "contact-information"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.516b5be060634cea_225"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Contact to CCL",
+                        {
+                          "tag": "br",
+                          "attrs": {}
+                        },
+                        "연구실 입실, 진로 고민, 전공 관련 상담"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.3a2a5a6595c618b9_193"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Cognitive Computing Lab"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "가천대학교 글로벌캠퍼스(13120)경기도 성남시 성남대로 1342, AI공학관 103호"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.3a2a5a6595c618b9_194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "[Professor] ",
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "mailto:keylee@gachon.ac.kr"
+                          },
+                          "children": [
+                            "keylee@gachon.ac.kr"
+                          ]
+                        },
+                        ", 010-4997-7632"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "[Lab Admin] bvnm0121@gachon.ac.kr, 010-7168-4002"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.516b5be060634cea_213"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "연구실 입실 및 진로, 전공관련 상담은 메일로 학번, 이름, 내용을 적어서 보내주시길 바랍니다."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "contact": [
+      {
+        "src": "assets/archive/2aa504cb9ed912c18623.png",
+        "alt": "Get in touch about research and opportunities at CCL"
+      }
+    ]
+  }
+}

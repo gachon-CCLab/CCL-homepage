@@ -1,0 +1,656 @@
+{
+  "verified_at": "2026-10-30",
+  "discovery": "Cloud Seminar URL found in original Main navigation anchors, not guessed.",
+  "source_urls": {
+    "members": "https://sites.google.com/view/keylee/members",
+    "seminars": "https://sites.google.com/view/keylee/cloud-seminar"
+  },
+  "members": {
+    "count": 20,
+    "photo_occurrences": 20,
+    "unique_photo_urls": 19,
+    "email_count": 18,
+    "original_status_counts": {
+      "PhD.program": 2,
+      "Master's course": 1,
+      "Bachelor's Degree": 3,
+      "Master's Graduation": 8,
+      "Ph.D.": 1,
+      "Master's Completion": 3,
+      "Bachelor's Graduation": 2
+    },
+    "preservation_notes": [
+      "Preserve source order and literal names/statuses. Separate five user-confirmed Current Members from the remaining fifteen Former Members. Do not infer membership from degree/status labels.",
+      "Mohamed Jismy Akeel name uses a regular paragraph, not h3; heading-only extraction loses this person.",
+      "JinSoo Kim and 하 늘 have no public email in this page; do not fabricate email.",
+      "JinSoo Kim includes extra original note researcher in progress.",
+      "Photos use signed Google Sites URLs and must be saved locally; duplicates may be intentional placeholders.",
+      "Source emails are plain text rather than original mailto links. Converting to mailto is a presentation change, preserve exact address."
+    ],
+    "records": [
+      {
+        "order": 1,
+        "source_section_id": "h.1a1e241e9b1b9b_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72uD6rHiYVDw97pvW-vzyF49CusLASTi_cY3i7Hkvt15-hO1jS56XebyCVwzRwJGWu1F1kTVVpEhA6b8s4no7N6ndD0ETPHTWo90mNZtFGDQ4vHg2DKTdRzMj-fYMESnaq6yYkPpc6Ng21SO-8q2soVhugg1Wt5Z8IndeA40DZddMfMRjBBU2UaOrLkeHfr9ExS6aFFNKH16r7pb7GbAIVJF3RjAgJTWjY1ypoLKklA=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "SHI JINGYAO",
+          "PhD.program",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "qq490800573@gmail.com"
+        ],
+        "links": [],
+        "name": "SHI JINGYAO",
+        "status_original": "PhD.program",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "qq490800573@gmail.com",
+        "notes_original": [],
+        "membership": "current"
+      },
+      {
+        "order": 2,
+        "source_section_id": "h.1a1e241e9b1b9b_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72tuFBgvoYfVX-ZdEMAyoulKrZMx9Y1MnfUFoHrlhLE_m27EkVM_hmHxtXkk7xzhOteTlHT9Du9J4jp_GhjRiyAOV4siZAs5Dj8dTs7h-ZHniZh2b0mNPQXPBePV8OtgicHgRjm2SV55Mkjum-NFaOq6j5JJAxiDYGwrsWG6gwlbksw7l1shq22SNJElA6c0QtUgVZgE_WgSNATjxYctGkNCPdog0b3lCX89qKJw=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "MinHyck Jung",
+          "PhD.program",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "bvnm0121@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "MinHyck Jung",
+        "status_original": "PhD.program",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "bvnm0121@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "current"
+      },
+      {
+        "order": 3,
+        "source_section_id": "h.7174d3025d112383_32",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72utrkDNYDN-JEQJnGbIeFYwwqnmZ6ChOu7zdy3SOqPzAgE19buhI9NrfO2JCLZRJ8PA-ZjuVlf7RLa7ncJzJXYWYOblnLhJHiTUSEiPCfjFVWnUSmT1a2J5vRUh_V8oj8YDqy-WUgsQ-LO1_aZEAwXJdGmY1MxridGnAizKqKD5bdk4S4nb8ZbYvUqaLa94IMkUUv4lsvnbvs6JHlFBVLAhH_btipNe5MnVpK1ufT0=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "InSeo Song",
+          "Master's course",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "z8086486@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "InSeo Song",
+        "status_original": "Master's course",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "z8086486@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "current"
+      },
+      {
+        "order": 4,
+        "source_section_id": "h.7174d3025d112383_32",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72s1cIOU3bDySKc9ETYkUju-jcOdm3WQ2ZYzkJZLBwc10x78bL_YVLj00zRsAuKgeMX2V7IA5MospodW0y9GVyRcVDxYTTAFZDja37FgTboxLvU5FbeIj79tVbuYl8z_bswpUm_t2QKI2-o_quFRYAWYfvWVcVMTHZ0SB4fxFvLQOCyJvzpfSjQCHJ6hqdqZMWjF5QDMF1B_Q0TcMFq0ZsYZmINEqWI_JehSonbwcYU=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "Jinyong Jeong",
+          "Bachelor's Degree",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "wlsdyd5373@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "Jinyong Jeong",
+        "status_original": "Bachelor's Degree",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "wlsdyd5373@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "current"
+      },
+      {
+        "order": 5,
+        "source_section_id": "h.6335f397c246a9d8_13",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72tOuA5wvBgdRDoi8vGE2Nfhz_rxSn-jOLo_EzLJ04u91VeVCwM561i6GhpsTf8eBuhHVrFIil_AWootrgOcfkR6V8vBG5DI5EmSoOXq89-W0iJNRJtJv0GI40lTvrnjyQAVcAh3uwcDBHoL1-HDGADYK_VoZRJrJgo7eSPLJ72gn33ZscapAA7_kVijGWW4I4nh-vsQn5K2UvsuLsPGEQKfqaLUVdmR0Ee6jb32pRs=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "MinSoo Cho",
+          "Bachelor's Degree",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "whalstn21@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "MinSoo Cho",
+        "status_original": "Bachelor's Degree",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "whalstn21@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "current"
+      },
+      {
+        "order": 6,
+        "source_section_id": "h.3f93977b8e482f38_20",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72vkONGDfyD7LJ1TPnf323e1wEhuMFZ7SEFp867u0BjbS_rhC4sPj7mibijrBWHNsaDDXaA6bb8XVxfWKYBIkxWaXt5rixCk1xFDGN7tTQ082CXjD09SWmR3bSctRgfJ3EYOqwsjiaSBxtucjn03v9HwGVB1DAzFZezYEeDlYgBrbAu1ZuMDUO_-Ezvh94jagYl4ntSCMmte2oZj3JwWYSrHcrY3j2AgqztJ31fLz7Q=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "Mohamed Jismy Akeel",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "akeelahamed@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "Mohamed Jismy Akeel",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "akeelahamed@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 7,
+        "source_section_id": "h.3f93977b8e482f38_20",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72tYpO0Y2FPJ5vT1u2g7IqWdXJkNz6xSUn21RiEH3MSkGI_mUzPaVCeGGp6Xbv9hfoCHiX8Lyt7oGNXlmFWZwq9NS8CtKYTkFGVxp2dIsxaOxoYfxoe7a91KaB-xLBK-R9XpJPNDOycnl-uYBuvrT40eJ5d9538l4C_weD0kc761MpQKdz82as3byWFhhM2MloiR_DJ9O69m-hH2_zKHzPgd2OaiBxmbP4oBsbZhLs0=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "SeongJin Jo",
+          "Bachelor's Degree",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "lmsj122@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "SeongJin Jo",
+        "status_original": "Bachelor's Degree",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "lmsj122@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 8,
+        "source_section_id": "h.3fc3382f5df41f23_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72s-CvS5E0bNFBGkLUNdv272f4zlZbbOtkxUaH0oLyMqySYJm3qX9qQ_XiiMVr5vcZgFO6dOAdxmQeDZX5uUXtx-Hcp3zo1Z3W7FKlKOGotxt1UzLnp1aayMa3SA6wyhBTb8AEvcHb-iguOYgs-QwCWDZDlQG9_2xTQnCLX9QE-jeYVUNsircdWAuo7bCylAofFYYp2mkwYLuaDE6wu9YVc5kzH0cUKV_vzN28NcMzo=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "YongGyom Kim",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Software Engineering",
+          "[E-mail]",
+          "gyom1204@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "YongGyom Kim",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Software Engineering",
+        "email_original": "gyom1204@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 9,
+        "source_section_id": "h.3fc3382f5df41f23_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72uznlDOqbhLRdLbXLBkvN7e4YpWaVj3dV8lhZ8bXNbRj6iO4Xum2mkERNRoXJptHXdoxTh1bWEN2H5Ipz7YDGbKMXMHTYrWPjlwdZkYvcXTfkqR-z69bTwg2c_QFmXLo3ekhqqLWTnkHpfDXiwMeKP8-Pv2-56vmErdHrjRWtsH0ZUgzEafQ0xFVKt3mPgLes1-wNiGvIQCf9CrZD9uFkTeU-7dpg2f1qU6AEsc=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "RiRa Kang",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "rirakang@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "RiRa Kang",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "rirakang@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 10,
+        "source_section_id": "h.7d442f65b0d0ef46_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72vbY2lpI27cq9IN8mgiL1L6nFprbtwIuUUUl1eWOMODY7cmcP1N56gmoBqOroOAOMOhNbXaIZdNuFsbkkN9_vmn4bZj73nIkk0_WZ93I6SyBe6w52ao20-ZnQ9NavvALOitprkktTUxmhzdezMueGafOWJqLiMl67bcIajXnJjg3ZEJcZSQcnI3VXQMsn-AnIUZV7uHJxMqxRBZeUzde-sY4JmGJwLCaIbqCFxQRw0=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "TaeHo Hwang",
+          "Ph.D.",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "hth77k@gmail.com"
+        ],
+        "links": [],
+        "name": "TaeHo Hwang",
+        "status_original": "Ph.D.",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "hth77k@gmail.com",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 11,
+        "source_section_id": "h.7d442f65b0d0ef46_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72upfBcW-6LkY-6jSRmXjTx1HibtFFi-tvH1L0QzIm0xtnIBNE6FiyPEMUtYa9scuQlxbn9YqhWO_ZNCiRQirHWKZduf0hWZBrb_UgmaYMrdFHbC8PwSHeCVRnQl5yqQsrrV67xUS_WLtvZIijcNtZ5mY8Qxc25rN_pYdKs2Hl5rKTlSEVptdUfMqKJwuDnWmaLuDwiyPvJDpNF-VZobxWvWo2JiV3OBr2Iu9ChFU1Y=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "RUZALIEV RAKHMIDDIN",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "rakhmiddin1993@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "RUZALIEV RAKHMIDDIN",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "rakhmiddin1993@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 12,
+        "source_section_id": "h.1a1e241e9b1b9b_99",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72sVta2QNXf-56jYtPngh0HSr3jPj-SyhfTxzQQEwb1-jbQ6woufMEXzlpAxeXZaxNISUwNyi5_TE7Wo5miY5IYpxposJ1zlBEE8UV3IHbsIN6aLCOHOaocwjOzYwnMut25cB_MY9O-NMgZbMBHrbnCs_elUQ1di1n_Hk-GIDd8pRjxe-tvOu2NzHGbY1QhNvvjsIveG_gQGmG3MCPNOhgCbeUWcSPfXo_LDb4RUux4=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "JinSoo Kim",
+          "Master's Graduation",
+          "researcher in progress",
+          "Department of IT Convergence Engineering Computer Engineering"
+        ],
+        "links": [],
+        "name": "JinSoo Kim",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": null,
+        "notes_original": [
+          "researcher in progress"
+        ],
+        "membership": "former"
+      },
+      {
+        "order": 13,
+        "source_section_id": "h.1a1e241e9b1b9b_99",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72sG8AAiJF6UZIRb-1uQI2phEkEIz9UuQqohIdlNOI0koawuTskXvPHpi4234S9A2U8LTfsT8WxpjP3pjTIPotQFGv9WDNqFbSw1UnJYkRSzGWyQkhufeazxwlXTSZWeS47D7epn-XvFnE6ikYGKuqSspaE99DxiZyy_LrPS0iQYnL2hq66tRXl9f5GrpIZyMyTjx-vH3Ha8aM_4hRHbiG8WXxUuan4sVcxxlcKD4Yo=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "SeMo Yang",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "tpah20@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "SeMo Yang",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "tpah20@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 14,
+        "source_section_id": "h.272078893e0d350d_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72vLvjX7r8m4SCw9xy63jALQB7xhGjuljzqgacMXIZpQMxqGCJfTL2tF3JSOFe1vtVVwewW1sQ58CG7tGL3d1Ww8j7zpkhCizMH1eXGFWVRN4kSjY-ebFo_N8NJ-4r38Ykh8bGg_2pbZoSCogQLUdyRObvxhtOtOdXQMjA4EV6MSjd__pxH5XTdx70h5SRtxQChQqnQ48vzH3vRtN60ZmKw8vn1kEGYBcyfTrH52=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "SeMin Hyun",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "tpalsgus0@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "SeMin Hyun",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "tpalsgus0@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 15,
+        "source_section_id": "h.272078893e0d350d_0",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72uxYjaENr4UNA8zo8PnKMP_Fch7SU1rbCvl0i0wpJqVNpFfeaqJ9_z4yDcIMR28MylddBh1U6yPOCCjsAJLOntuJtRvp9t1WiJUp8lEj7fVA9Ry37gjNfLSd-gn5RN7oXrgbI98HQP5zrPVsB-WRGmMfq___xiVqmr9MoivtOk4o46izgHAg87PLjz7h6SGFMfmIiFoy6bwCUh2W-XVoq_nTkT2GPscLzy4V5qilSU=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "YUSUBOV FARKHOD",
+          "Master's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "farxody98@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "YUSUBOV FARKHOD",
+        "status_original": "Master's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "farxody98@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 16,
+        "source_section_id": "h.627bd76b7e088f5d_1",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72sVta2QNXf-56jYtPngh0HSr3jPj-SyhfTxzQQEwb1-jbQ6woufMEXzlpAxeXZaxNISUwNyi5_TE7Wo5miY5IYpxposJ1zlBEE8UV3IHbsIN6aLCOHOaocwjOzYwnMut25cB_MY9O-NMgZbMBHrbnCs_elUQ1di1n_Hk-GIDd8pRjxe-tvOu2NzHGbY1QhNvvjsIveG_gQGmG3MCPNOhgCbeUWcSPfXo_LDb4RUux4=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "하 늘",
+          "Master's Completion",
+          "Department of IT Convergence Engineering Computer Engineering"
+        ],
+        "links": [],
+        "name": "하 늘",
+        "status_original": "Master's Completion",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": null,
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 17,
+        "source_section_id": "h.627bd76b7e088f5d_1",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72swDnzW69dOlMNkG7ZNYMLXxSZ0zRmW3kx0lyjn7bjlUoIJ6AQEQSMDvLQMWjNogPJdUpGy0ZR1qaq34y_Pk-tQ3BnkNjJ-m92nT5vqgd3ESVn7CDIu_ywk6NFMY70BmkMvvRFxQUFjIf5cJ3wW7yMtdsItPSK8NbGpMxVtc4y08dlKfzWKHkkqsBXz-TJyv9xE949kS501WAPxCjJZHbrjkzSCiqVNvdFD3EHtYSU=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "JuHui Lee",
+          "Master's Completion",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "juhe2082@gmail.com"
+        ],
+        "links": [],
+        "name": "JuHui Lee",
+        "status_original": "Master's Completion",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "juhe2082@gmail.com",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 18,
+        "source_section_id": "h.1a1e241e9b1b9b_52",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72uobxYwf0beHTGu7Y9T9oPOvqk5IsJFBPgsLCNXOI0mfT8rosb1igCmlQ36SDNyk3g3LWYmhUfOejS0vYkdONvOLhCr9CtJP4o41B3TVKe0pTQXJkRRAO3Y-MCmmNS_kFWCem7uhPDV_5HpJ26Lj7hzikx83OgNiayqevDtMQ1aW2PGFoPK1tMvCVp7CzRNlZpI2KPubpZO0Q2vbkqFThYcLIbfh7eV7121qdlrtrY=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "YUNUSOV ODILKHON",
+          "Master's Completion",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "odilkhon318@gmail.com"
+        ],
+        "links": [],
+        "name": "YUNUSOV ODILKHON",
+        "status_original": "Master's Completion",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "odilkhon318@gmail.com",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 19,
+        "source_section_id": "h.1a1e241e9b1b9b_52",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72vNcX9ITb5-BsZtgWbaeWc34p6ATy3KYm3O5ysIuI4SqOes0Nx-Qibhvj1lRWASho2YBwWjI6B53ayxoX0gZLaQXokD69AuYAXnJBVpUcF0sRWDBWuyKt0CqlyYn7ROXgs-nWJv19K0lD0J7hXi1LdK2zlDHrsJ3WUVrW6gvPocDcs2lK1pnHTMykR8YBUUCb4EvoyqDME6W0XBJS46Eus7kTCUK_izm3bejHqUKC0=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "JaeHwan Kim",
+          "Bachelor's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "jhsmart98@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "JaeHwan Kim",
+        "status_original": "Bachelor's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "jhsmart98@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      },
+      {
+        "order": 20,
+        "source_section_id": "h.4bf21f885428a713_36",
+        "photo_url": "https://sites.google.com/sitesv-images-rt/AMxu72uwNNBGVVGCbwbA0ouO4tNkeYOsAYoEWRb1rGCYMRZukTLiid550RzYZbNbA0FPRxvp5lg98IZM3X-fgoAWDocNShiBrJBoFakTasF1uIljq467FgkgNfAxw19QQ5hP0FL9WGOfIy-tg6qUUBaVQM1tuAJuxw144ph75eJs8KfjYALCHpVHBXMxK2h7Q0qhvigTu3ekUtS9e-JQQp_hJ7EjVJZDX7vh8l9QAyUPKJw=w1280",
+        "photo_alt_original": "",
+        "original_blocks": [
+          "JiHwan Moon",
+          "Bachelor's Graduation",
+          "Department of IT Convergence Engineering Computer Engineering",
+          "[E-mail]",
+          "hoho_god@gachon.ac.kr"
+        ],
+        "links": [],
+        "name": "JiHwan Moon",
+        "status_original": "Bachelor's Graduation",
+        "department_original": "Department of IT Convergence Engineering Computer Engineering",
+        "email_original": "hoho_god@gachon.ac.kr",
+        "notes_original": [],
+        "membership": "former"
+      }
+    ],
+    "membership_confirmed_at": "2026-11-02",
+    "membership_source": "User explicitly confirmed five current member email addresses; all other existing profiles are former members."
+  },
+  "seminars": {
+    "event_count": 6,
+    "image_occurrences": 21,
+    "material_link_count": 2,
+    "preservation_notes": [
+      "Preserve original event order. Dates have no year in the original; do not invent year.",
+      "LG and MicroSoft both say 11/06 세미나; retain duplicate date rather than correcting on assumption.",
+      "20 of 21 event photos are CSS background-image carousel images, not img elements. Retain all carousel frames.",
+      "Google uses 구글 코리아 발표 자료 Drive file link. MicroSoft uses https://ignite.microsoft.com/en-US/home, followed by VoD access text.",
+      "Organization spelling MicroSoft is original. NAVER Cloud is split into styled spans in source, but joined rendered text is NAVER Cloud."
+    ],
+    "records": [
+      {
+        "order": 1,
+        "source_section_id": "h.470c9a2f4ac0a246_12",
+        "date_original": "9/18 세미나",
+        "organization_original": "NAVER Cloud",
+        "original_blocks": [
+          "9/18 세미나",
+          "NAVER Cloud",
+          "김홍진",
+          "네이버클라우드 테크 서비스 총괄 전무"
+        ],
+        "links": [],
+        "images": [
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t6iAY805xUDHHv-hmzuV5CWTcR5fbzR75o4n1-lCIu-u4f2hFCdOX_FreZD6UlEeURQJT7lHQXUcoKzW9jaAx7A_W1DFvOZauS6BCxJyFrNE37dRSou9cQFd3yFRB_qCHrCDCLIHdFAQUAxal8DaESpNi7_oj64E7Oppyh29s_IvyuSdH4pNzjRJoeH40=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqVwf3vLm4VLhhkgO9INoM0ycbM3vXRBULqpIbrj8zwNgrST7NSo8rKT4-2XbqTeIVqD2hb2HafGCVJrZ2eRJqvXTAEMDupnvwMdI1E8rdAH367TxdL8e-jqBEHAmoQXFUC9UTa6jsnwRlFst--s1fX-KSds8JvVeL-25kPh_mJ2LMrAyr00YQHjLO=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ua_l81bOkaq_OsN1230-XLZI1iAhHcj21KiU6IRgrM5R2dODo1EGFnhHnQcgpt9-kjtx924W1CdBZl9V9BOOIPVaJNqWxQ3lnSax9cQVav8YUZoRX03NRNSXVk2OMvZtZ7654chI38ah4Fa1y1kD1Eyi2XcotosRHbziRGkkhAGZ02Js6sXSUa8g=w16383",
+            "alt_original": "Carousel image"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "source_section_id": "h.39d563407caba052_0",
+        "date_original": "9/25 세미나",
+        "organization_original": "Metanet",
+        "original_blocks": [
+          "9/25 세미나",
+          "Metanet",
+          "서경진",
+          "메타넷 T 플랫폼 상무"
+        ],
+        "links": [],
+        "images": [
+          {
+            "type": "img",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vxfm-nryAqgdYnvyepR-a5qqNqK0fEVWJtVMlwUxZnJjMBb9ArfOF5PahhcWO0SbPgyY09e_8R5TjyQw5w70rDQXRaHwZXxfsHIW121M6g1m-Vb5ODNp3NmHhNnfm-euKtH7flSPKWwVpBwFR3p2TCHoE2Wfa6JBMhNo7vFbwdoSQUyFooOoQYl7ff7uPTeSTbTKeg8xeHgWYlJIhuk3rOk8KEjjSdYCFPrXJm=w1280",
+            "alt_original": ""
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "source_section_id": "h.3d1b7a04b1fbcb8_8",
+        "date_original": "10/16 세미나",
+        "organization_original": "Akamai Technologies",
+        "original_blocks": [
+          "10/16 세미나",
+          "Akamai Technologies",
+          "강상진",
+          "아카마이"
+        ],
+        "links": [],
+        "images": [
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uVYkvUWcQsWYv0bWSe8OuiPJJl_VKLUYLscdryMUEvVA5dxDR86Xiw9_twjPKIiP2_5xyI2_Nk74ntngrEkgbc6nvmouUun_itgNpt94uIGNcKmekcu8jnATW3VnxbYuxDTeMa4D0i9-yUg-X_SkuYIsZx2U0UyXp0A2mb64q5oBjZsCYDR5pOQmL1eAc=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vovFcBmnhmzXlNWsoAQSVktu2NAg6FraQV4X5aRSDMvA9v1pamc-JDqop59hcgPcqjA6-obMlwUsaertVAb9WGFZ9C8Hm7COD-odsd_H7r2Ef_6I1gnJKdgeNTVPwHHyL3O_skL-D035_WIOa1J1TzJdzJZd7VqVEIP2GXXs7CIoe5kM1w7AInKx2YPeE=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sHR5CXNy7qqafgsVjEVLOoiMT0Pl2td6Eb_1Ft1SrNsElFLnr90hLVr14EVlEZecPsYByh8wqD3JDF5LoXDIicqrHejdi8SRUotwWsVYrihSB8eHI-j98QWDedZC4b-JGKeXq1njM6OhSh02LQzygImlgGdEaoJ-EXaeuqurmS-TVd9RCR0kcTmWFiydE=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8g8tRIT1BYsbk9QGc1gVgtHDGpGuQmfm6FJheEd1v6Enx7DLwSasdfWMzNrO5p7tAFd2FMLx0O67AUA30tRV9ic4kMc2oO0LPztvECceNAra2Ugz730V4MU5SmVOUWSVudClb1cu31qNwVWoLjNntzC-1uLyf6GElF_Kay9DhHBuO1KBbXlH42L-EM9o=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tdAPbfjCgGbJpHOGZmdCXeKpYeEv34JeL15LjXBYMJtoalDRplD9vXKPyNubzGQU6DQlRJPs4ooCY6Dt--7roQPw3f8eJo4vgu3vZE3-yeCNd4igzs-NWcQ--BO86VwDYXL8Spg0UiO946hn7IUrEy0XZOeYmG_M1cJPKTzuq89GCYBegzw83_qpwKIog=w16383",
+            "alt_original": "Carousel image"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "source_section_id": "h.59e7c0c1ae0e973b_0",
+        "date_original": "10/30 세미나",
+        "organization_original": "Google",
+        "original_blocks": [
+          "10/30 세미나",
+          "Google",
+          "구글코리아 견학",
+          "구글 코리아 발표 자료"
+        ],
+        "links": [
+          {
+            "label": "구글 코리아 발표 자료",
+            "href": "https://drive.google.com/file/d/1924-dO_lALIADcAheY08q9cUVfNMnL22/view?usp=drive_link"
+          }
+        ],
+        "images": [
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sUtgxRAFZJrTmIwaWmcdhzzHkoyJtDiglb-uRavZdlDI4r3-0js5drfk56NZBGgFH2iCzXAoBvrlHGniI7VgzCIqlnUweyXCjey5Bprq-UTktGgbtD7Vz5DG3AsWboQSUgReA1DFXlA9004aM1__7xGBVCIrwu6SArW53liIOcSUSPhscAzCmfBwCF=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vp3VAXrEeYt4RO8Gf9bGWE9WX1-ndGZD-M-4gxRjE3wpz-0zcU2rdWc4o-epT_zTwMiBuNKMbTdEDiY4GnR96Z25kMkhDKUQNnWCsS76T7Qt07xf2IpQZcQQ3qfH7J3Z_OnKMndTXBjXPOTlb_XB60CJBJzGrtUkdCDDccA146pZDOxLR9r6dFmO8w5zs=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s5LjB5zZkxtNC0doWTIGtZkpJQy9p8AYpaAkW2NG0_nl7ROar_v4tL5MztofzfFdFG8utBPmXn5GtA5G_6ApLyGmnp0y7gX3YlZfxXlREo4lsxYmNn_CT9rPucO7-SQCDJPipLZ74ZbnugIy3Dq4Gt-oLf5HRGGvmlhMNBksPA1BnQGapJT5gOUdEOaJg=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s_DjHp09BxKb3_Zy6yVjzX66_x2yoDpxQhIPEdiEHCPV7LZ-lttxZKLqU7BJu8pQDPchdgPF2V4mdKSkQfKMkeivDEc4sKpPaJfU8KKs8Wkfx0y2eHFYuI3sBG8iyMAuWA1BjaH6k0WxawM537m3B8UPmVZVyTSb04spxCnaPMvWROxqY5nK4PaKTdg84=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vzzA6Z3zZpscX7PJ8neiH1gA-g3KnHT0iXGDhubGlPJtS1C4jaE3vc2uYeUiIpXe4aVCTDABn-IoYf8maqoPpDKUh92LbNLIwG17FjZe3ubI4TIaP1tlFXm6mBbM2jTFKORFEWg9JSwFYJoDJhcPwNTS3f-VuLI8KW2EKExWC4iqZXRcJksslm7cRDPDg=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u3O1l4cnV_xucnwxA41jbM_EGsBRGaKIjBPKhGjSuFCYt9q9Mag0AjdoU1loP-f5UuyPbW9bzdeAnfmZ6Ud-v0FBXL-QGj7Zd2ETxLg8z5JUr6DRD8as_mogaUyVU0v0UhDXTpXuCfb6lHm2DKVdLljWWpMYbBFUNccuJDEIKm1YYZZ9KJYGJjszHk3Mc=w16383",
+            "alt_original": "Carousel image"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "source_section_id": "h.275aaf32de303e32_0",
+        "date_original": "11/06 세미나",
+        "organization_original": "LG",
+        "original_blocks": [
+          "11/06 세미나",
+          "LG",
+          "송영석 상무, 손은영 총괄마이스터",
+          "LG CNS AWS Launch센터"
+        ],
+        "links": [],
+        "images": [
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72slvU2_gRk2ujNzeCRC7b7lN3EAZY-ZA5hZ7Yi21PKfbEaa8d_RTeEj9bKZKA_c-5Q-01tEDSr6i7s4kZhKw6qST_vzztyJTRM2LHrhJOcJLFERGrYeyVm5M9UNi2Modz5T8rFsmkC6k4KQQwXmJ6skZLyiHF467AQQAtlksmBjXQVsAFleErr0CeIL=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uo8g9tN8kVngeeMi0z4lyNDwoV8rSc0gr6nsBWcKPzUwPjXP1LiA9XWZbCZb6qawTAEZR-FSJWUjaytqTEvSwbuzShUR_BQzQWBI1BVdlEn67aWeoGBINUidC40vyhIJ1uquI6R4HSmAjZP-zzxA4Pomr6s1LNwc5S_5uUHINIpAY_bKOgxlPaGOOUd_k=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sI5Z-MOmEeMo1iHj-iSKzyoMBfOkM8uI00SnLTA68wLLf2g2ZtilZvRmIpSUgGlH-JuOPRM_VwxAiWZTlxPwq_s3_ALMtVY-MFQjMuqbCcOa-gfVH35WpCYa8xATyfO-nnyhebGLnCJ7zL5CpxmXZM0Eq15wp8iJAa2ZSnRajswyN9HJPhMyuG7GKFbbM=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sZkJB5v_3iDRhel0fjIQcQK_akWIMDAlBPf4nny7lFA9ohA10HHmeVywQgovLILO2jN8Y0EQSrqBm7xBD7CVucg5xthe1YquuvYaTI3g1pbewpr-HkzTmPseTErd-ygvpzX4F2tMBTdzpRduusWPZd7wygtA74pvzscoy0w44b5mmos9Smpb2SzGwXKi4=w16383",
+            "alt_original": "Carousel image"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "source_section_id": "h.5a162bd3d5be5055_0",
+        "date_original": "11/06 세미나",
+        "organization_original": "MicroSoft",
+        "original_blocks": [
+          "11/06 세미나",
+          "MicroSoft",
+          "이한성 본부장",
+          "마이크로소프트 견학",
+          "https://ignite.microsoft.com/en-US/home",
+          "Microsoft Ignite 행사 웹사이트",
+          "VoD는 누구나 무상으로 접근 가능하니 많은 관심 바랍니다."
+        ],
+        "links": [
+          {
+            "label": "https://ignite.microsoft.com/en-US/home",
+            "href": "https://ignite.microsoft.com/en-US/home"
+          }
+        ],
+        "images": [
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72thmW0wTPsY57o1gC_Lnr5A-ZTqCdIQAj2Xmeohue7zrqQf3yD8gN1nZ_3twmZd02kmHYOzfN3aekecD23NexbghHXjJzM492xql2ysOOw6rLDQ__B2O4D9Xzbs5E-JlLbO5QcRgeYm2Msuisdifk3lAH7O8_COZX_hN35uplx_BvJG_Yxvs_6apGr6q2U=w16383",
+            "alt_original": "Carousel image"
+          },
+          {
+            "type": "carousel-background",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u00KNpSVw9eIFFaRYHBWtE0GbArbGQg9HkymX7bbhyVXwxRZC8JRhGYpvCP4C3dOFTQ83MkMrL-k6Xt0-Os7RRR2PlGF6FGW5QsHmC1z-t_sS66pbo4ClFxVwBKkoU2aGVNaYoCCHevZmIyzHZn-Oiv5UUMrV9Ik56RMWa53lSHXVDyOqVw-wbS7wbCPE=w16383",
+            "alt_original": "Carousel image"
+          }
+        ]
+      }
+    ]
+  }
+}

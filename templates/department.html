@@ -1,0 +1,1098 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="가천대학교 컴퓨터공학과 인지컴퓨팅 연구실. AI, 연합학습과 헬스케어, IoT·클라우드를 연구합니다."
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Cognitive Computing Lab | 가천대학교 컴퓨터공학과 연구실</title>
+    <link rel="icon" href="@@FAVICON@@" />
+    <style>
+      @font-face {
+        font-family: Pretendard;
+        src: url("@@FONT@@") format("woff2");
+        font-weight: 100 900;
+        font-display: swap;
+      }
+      :root {
+        --blue: #006cef;
+        --sky: #6ec1fd;
+        --ink: #14191f;
+        --muted: #637182;
+        --line: #dfe6ee;
+        --tint: #f1f7fe;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+        scroll-padding-top: 36px;
+      }
+      body {
+        margin: 0;
+        background: white;
+        color: var(--ink);
+        font-family: Pretendard, "Segoe UI", Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.8;
+        -webkit-font-smoothing: antialiased;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      a:hover {
+        color: var(--blue);
+      }
+      a:focus-visible {
+        outline: 3px solid var(--blue);
+        outline-offset: 5px;
+      }
+      h1,
+      h2,
+      h3,
+      p,
+      figure {
+        margin: 0;
+      }
+      h1,
+      h2,
+      h3 {
+        letter-spacing: -0.035em;
+        line-height: 1.3;
+      }
+      p {
+        word-break: keep-all;
+      }
+      img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
+      .wrap {
+        max-width: 1200px;
+        width: calc(100% - 112px);
+        margin: auto;
+      }
+      .skip {
+        position: fixed;
+        top: -80px;
+        left: 20px;
+        background: var(--blue);
+        color: white;
+        padding: 10px 20px;
+        z-index: 10;
+      }
+      .skip:focus {
+        top: 12px;
+      }
+      .site-header {
+        border-bottom: 1px solid var(--line);
+      }
+      .header-row {
+        min-height: 84px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 25px;
+      }
+      .university {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+      }
+      .university strong {
+        font-size: 20px;
+        letter-spacing: -0.05em;
+        font-weight: 750;
+      }
+      .university strong > span {
+        display: block;
+        font-size: 8px;
+        font-weight: 500;
+        letter-spacing: 0.17em;
+        color: var(--blue);
+        margin-top: 2px;
+      }
+      .university > span {
+        border-left: 1px solid var(--line);
+        padding-left: 18px;
+        font-size: 12px;
+        color: #596a7e;
+        line-height: 1.4;
+      }
+      .header-link {
+        display: flex;
+        gap: 25px;
+        align-items: center;
+        font-size: 12px;
+      }
+      .header-link > span {
+        color: var(--blue);
+        font-size: 17px;
+      }
+      .breadcrumb {
+        display: flex;
+        gap: 11px;
+        font-size: 11px;
+        color: var(--muted);
+        padding-block: 22px 0;
+      }
+      .breadcrumb > span[aria-hidden] {
+        color: #aab7c4;
+      }
+      .hero {
+        display: grid;
+        grid-template-columns: 1.3fr 0.8fr;
+        gap: 60px;
+        align-items: center;
+        padding-block: 43px 47px;
+      }
+      .eyebrow {
+        font-size: 10px;
+        letter-spacing: 0.13em;
+        font-weight: 650;
+        color: var(--blue);
+        margin-bottom: 19px;
+      }
+      .hero h1 {
+        font-size: 64px;
+        line-height: 1.05;
+        letter-spacing: -0.06em;
+        font-weight: 700;
+      }
+      .hero h1 > span {
+        color: var(--blue);
+      }
+      .hero .name {
+        font-size: 20px;
+        font-weight: 550;
+        margin-top: 23px;
+      }
+      .hero .tagline {
+        font-size: 15px;
+        line-height: 1.8;
+        color: var(--muted);
+        margin-top: 13px;
+      }
+      .button {
+        display: inline-flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 30px;
+        padding: 12px 19px;
+        border: 1px solid var(--blue);
+        border-radius: 4px;
+        background: var(--blue);
+        color: white;
+        font-size: 13px;
+        line-height: 1.6;
+        font-weight: 550;
+      }
+      .button:hover {
+        background: #005cc9;
+        color: white;
+      }
+      .hero .button {
+        margin-top: 27px;
+      }
+      .hero > figure {
+        min-width: 0;
+      }
+      .hero > figure img {
+        width: 100%;
+      }
+      .hero > figure figcaption {
+        font-size: 8px;
+        letter-spacing: 0.11em;
+        color: #8593a3;
+        text-align: right;
+        margin-top: 8px;
+      }
+      .content-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 270px;
+        gap: 67px;
+        border-top: 1px solid var(--ink);
+        padding-top: 38px;
+        padding-bottom: 52px;
+      }
+      .content {
+        min-width: 0;
+      }
+      .section-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        align-items: baseline;
+        margin-bottom: 22px;
+      }
+      .section-header h2 {
+        font-size: 28px;
+        font-weight: 650;
+      }
+      .section-header > span {
+        color: var(--blue);
+        font-size: 9px;
+        letter-spacing: 0.12em;
+      }
+      .intro {
+        margin-bottom: 40px;
+      }
+      .intro-content {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 75px;
+        gap: 30px;
+      }
+      .intro h3 {
+        font-size: 20px;
+        line-height: 1.5;
+        font-weight: 600;
+        margin-bottom: 17px;
+      }
+      .intro p {
+        font-size: 14px;
+        line-height: 1.9;
+        color: #5d6a79;
+      }
+      .intro p + p {
+        margin-top: 13px;
+      }
+      .intro-content > figure {
+        margin-top: 4px;
+      }
+      .intro-content > figure img {
+        width: 75px;
+        border-radius: 3px;
+      }
+      .fields {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 25px;
+        border-top: 1px solid var(--line);
+        padding-top: 18px;
+        font-size: 11px;
+        color: #61778e;
+      }
+      .fields strong {
+        font-weight: 600;
+        color: #243c56;
+        min-width: 65px;
+      }
+      .areas {
+        margin-bottom: 40px;
+      }
+      .area-list {
+        border-top: 1px solid var(--line);
+      }
+      .area {
+        display: grid;
+        grid-template-columns: 28px minmax(0, 1fr);
+        gap: 17px;
+        padding: 22px 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .area > span {
+        font-size: 10px;
+        color: var(--blue);
+        font-weight: 600;
+        padding-top: 2px;
+      }
+      .area h3 {
+        font-size: 17px;
+        font-weight: 650;
+      }
+      .area h3 small {
+        display: block;
+        font-size: 10px;
+        letter-spacing: 0.01em;
+        font-weight: 400;
+        margin-top: 6px;
+        color: var(--muted);
+      }
+      .area p {
+        font-size: 13px;
+        color: var(--muted);
+        margin-top: 10px;
+        line-height: 1.9;
+      }
+      .platform {
+        background: var(--tint);
+        padding: 28px 30px;
+        border-radius: 5px;
+        border: 1px solid #e0ebf7;
+      }
+      .platform .eyebrow {
+        font-size: 9px;
+        margin-bottom: 13px;
+      }
+      .platform-brand {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        margin-bottom: 16px;
+      }
+      .platform-brand img {
+        width: 29px;
+        height: 29px;
+      }
+      .platform-brand h2 {
+        font-size: 29px;
+        line-height: 1.1;
+      }
+      .platform-brand h2 small {
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0;
+        color: var(--blue);
+        padding-left: 10px;
+      }
+      .platform h3 {
+        font-size: 20px;
+        line-height: 1.45;
+        margin-bottom: 12px;
+      }
+      .platform > p {
+        font-size: 13px;
+        line-height: 1.9;
+        color: #5a7088;
+      }
+      .platform-links {
+        display: flex;
+        gap: 24px;
+        flex-wrap: wrap;
+        margin-top: 19px;
+        font-size: 12px;
+        color: var(--blue);
+      }
+      .sidebar {
+        min-width: 0;
+      }
+      .professor-card {
+        padding: 0 0 28px;
+        border-bottom: 1px solid var(--line);
+      }
+      .professor-card .eyebrow {
+        font-size: 9px;
+        margin-bottom: 20px;
+      }
+      .professor-photo {
+        width: 128px;
+        margin-bottom: 22px;
+      }
+      .professor-photo img {
+        border-radius: 4px;
+        width: 128px;
+        height: auto;
+      }
+      .professor-card h2 {
+        font-size: 24px;
+      }
+      .professor-card .english {
+        font-size: 13px;
+        color: var(--muted);
+        margin-top: 4px;
+      }
+      .professor-card .department {
+        font-size: 11px;
+        color: var(--muted);
+        margin-top: 13px;
+      }
+      .professor-info {
+        margin: 22px 0 17px;
+        font-size: 12px;
+      }
+      .professor-info > div {
+        display: grid;
+        grid-template-columns: 50px 1fr;
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+      .professor-info dt {
+        color: var(--muted);
+      }
+      .professor-info dd {
+        margin: 0;
+        overflow-wrap: anywhere;
+      }
+      .small-link {
+        font-size: 12px;
+        display: inline-flex;
+        gap: 20px;
+        align-items: center;
+        color: var(--blue);
+      }
+      .lab-contact {
+        padding-top: 25px;
+      }
+      .lab-contact h3 {
+        font-size: 17px;
+        margin-bottom: 14px;
+      }
+      .lab-contact p {
+        font-size: 12px;
+        color: var(--muted);
+        line-height: 1.9;
+      }
+      .lab-contact .label {
+        font-size: 9px;
+        letter-spacing: 0.1em;
+        margin: 19px 0 5px;
+        color: #8a98a9;
+      }
+      .lab-contact a {
+        font-size: 13px;
+        color: var(--blue);
+      }
+      .lab-contact .small-link {
+        font-size: 12px;
+        margin-top: 14px;
+      }
+      .quote-section {
+        border-block: 1px solid var(--line);
+        padding: 32px 0;
+        text-align: center;
+        background: #fbfdff;
+      }
+      .quote-section blockquote {
+        font-size: 24px;
+        font-weight: 500;
+        letter-spacing: -0.03em;
+        margin: 0;
+      }
+      .quote-section p {
+        font-size: 9px;
+        letter-spacing: 0.13em;
+        color: var(--blue);
+        margin-top: 12px;
+      }
+      .more {
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        align-items: center;
+        padding-block: 35px;
+      }
+      .more h2 {
+        font-size: 21px;
+        font-weight: 600;
+      }
+      .more p {
+        font-size: 12px;
+        color: var(--muted);
+        margin-top: 8px;
+      }
+      .more-links {
+        display: flex;
+        gap: 23px;
+        align-items: center;
+        white-space: nowrap;
+      }
+      .more-links .small-link {
+        font-size: 12px;
+      }
+      .site-footer {
+        border-top: 1px solid var(--line);
+        padding: 22px 0;
+        color: #7f8d9e;
+        font-size: 10px;
+      }
+      .site-footer .wrap {
+        display: flex;
+        justify-content: space-between;
+        gap: 25px;
+      }
+      .site-footer a {
+        color: #687c92;
+      }
+      @media (max-width: 1000px) {
+        .wrap {
+          width: calc(100% - 72px);
+        }
+        .hero {
+          gap: 32px;
+          grid-template-columns: 1.1fr 0.8fr;
+        }
+        .hero h1 {
+          font-size: 54px;
+        }
+        .content-grid {
+          grid-template-columns: minmax(0, 1fr) 230px;
+          gap: 40px;
+        }
+        .intro-content {
+          grid-template-columns: 1fr 65px;
+          gap: 22px;
+        }
+        .intro-content > figure img {
+          width: 65px;
+        }
+        .intro h3 {
+          font-size: 18px;
+        }
+        .more {
+          gap: 25px;
+        }
+        .more h2 {
+          font-size: 19px;
+        }
+        .more-links {
+          gap: 20px;
+        }
+      }
+      @media (max-width: 760px) {
+        .wrap {
+          width: calc(100% - 40px);
+        }
+        .header-row {
+          min-height: 74px;
+        }
+        .university {
+          gap: 13px;
+        }
+        .university strong {
+          font-size: 18px;
+        }
+        .university strong > span {
+          font-size: 6px;
+        }
+        .university > span {
+          font-size: 10px;
+          padding-left: 13px;
+        }
+        .header-link {
+          font-size: 10px;
+          gap: 10px;
+        }
+        .breadcrumb {
+          font-size: 10px;
+          gap: 9px;
+        }
+        .hero {
+          grid-template-columns: 1fr;
+          padding-top: 31px;
+          gap: 29px;
+          padding-bottom: 32px;
+        }
+        .hero h1 {
+          font-size: clamp(44px, 10vw, 64px);
+        }
+        .hero .eyebrow {
+          font-size: 9px;
+          margin-bottom: 20px;
+        }
+        .hero .name {
+          font-size: 18px;
+          margin-top: 20px;
+        }
+        .hero .tagline {
+          font-size: 14px;
+          margin-top: 12px;
+        }
+        .hero > figure {
+          width: min(390px, 100%);
+          margin-inline: auto;
+        }
+        .hero > figure img {
+          max-height: 300px;
+        }
+        .content-grid {
+          grid-template-columns: 1fr;
+          gap: 35px;
+          padding-top: 29px;
+          padding-bottom: 34px;
+        }
+        .section-header h2 {
+          font-size: 26px;
+        }
+        .section-header > span {
+          font-size: 8px;
+        }
+        .intro {
+          margin-bottom: 30px;
+        }
+        .intro-content {
+          gap: 20px;
+          grid-template-columns: minmax(0, 1fr) 58px;
+        }
+        .intro-content > figure img {
+          width: 58px;
+        }
+        .intro h3 {
+          font-size: 18px;
+        }
+        .intro p {
+          font-size: 13px;
+        }
+        .fields {
+          font-size: 10px;
+          gap: 8px;
+        }
+        .areas {
+          margin-bottom: 30px;
+        }
+        .area {
+          gap: 13px;
+          grid-template-columns: 24px minmax(0, 1fr);
+          padding-block: 21px;
+        }
+        .area h3 {
+          font-size: 18px;
+        }
+        .area p {
+          font-size: 13px;
+        }
+        .platform {
+          padding: 25px 23px;
+        }
+        .platform h3 {
+          font-size: 22px;
+        }
+        .platform > p {
+          font-size: 13px;
+        }
+        .sidebar {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 25px;
+          border-top: 1px solid var(--line);
+          padding-top: 27px;
+        }
+        .professor-card {
+          padding: 0;
+          border-bottom: 0;
+        }
+        .professor-photo {
+          width: 90px;
+          margin-bottom: 17px;
+        }
+        .professor-photo img {
+          width: 90px;
+        }
+        .professor-card h2 {
+          font-size: 21px;
+        }
+        .professor-card .english {
+          font-size: 12px;
+        }
+        .professor-info {
+          font-size: 11px;
+        }
+        .professor-info > div {
+          grid-template-columns: 35px 1fr;
+          gap: 8px;
+        }
+        .lab-contact {
+          padding: 0;
+        }
+        .lab-contact h3 {
+          font-size: 17px;
+        }
+        .lab-contact p {
+          font-size: 11px;
+        }
+        .lab-contact a {
+          font-size: 12px;
+          overflow-wrap: anywhere;
+        }
+        .quote-section {
+          padding: 27px 0;
+        }
+        .quote-section blockquote {
+          font-size: 20px;
+          line-height: 1.5;
+        }
+        .quote-section p {
+          font-size: 8px;
+        }
+        .more {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 22px;
+          padding-block: 29px;
+        }
+        .more h2 {
+          font-size: 21px;
+          line-height: 1.4;
+        }
+        .more p {
+          font-size: 12px;
+        }
+        .more-links .button {
+          font-size: 12px;
+        }
+        .site-footer {
+          font-size: 9px;
+        }
+        .site-footer .wrap {
+          flex-direction: column;
+          gap: 7px;
+        }
+      }
+      @media (max-width: 400px) {
+        .header-link {
+          font-size: 9px;
+          gap: 5px;
+        }
+        .university > span {
+          font-size: 9px;
+        }
+        .university {
+          gap: 10px;
+        }
+        .university > span {
+          padding-left: 10px;
+        }
+        .intro-content {
+          grid-template-columns: minmax(0, 1fr) 48px;
+          gap: 17px;
+        }
+        .intro-content > figure img {
+          width: 48px;
+        }
+        .sidebar {
+          grid-template-columns: 1fr;
+          gap: 26px;
+        }
+        .professor-card {
+          border-bottom: 1px solid var(--line);
+          padding-bottom: 25px;
+        }
+        .professor-photo {
+          float: left;
+          margin: 0 22px 15px 0;
+          width: 94px;
+        }
+        .professor-photo img {
+          width: 94px;
+        }
+        .professor-card .eyebrow {
+          margin-bottom: 17px;
+        }
+        .professor-info {
+          clear: both;
+          padding-top: 7px;
+        }
+        .professor-info > div {
+          grid-template-columns: 50px minmax(0, 1fr);
+        }
+        .professor-card .english {
+          font-size: 13px;
+        }
+        .lab-contact p {
+          font-size: 12px;
+        }
+        .more-links {
+          gap: 18px;
+        }
+        .quote-section blockquote {
+          font-size: 18px;
+        }
+      }
+      @media print {
+        body {
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        .wrap {
+          width: 100%;
+        }
+        .hero {
+          padding-top: 20px;
+        }
+        .hero h1 {
+          font-size: 42px;
+        }
+        .header-row {
+          min-height: 60px;
+        }
+        .content-grid {
+          grid-template-columns: minmax(0, 1fr) 210px;
+          gap: 30px;
+        }
+        .area,
+        .platform,
+        .professor-card {
+          break-inside: avoid;
+        }
+        .site-footer,
+        .more {
+          font-size: 9px;
+        }
+        .button {
+          border-color: #9bb4cd;
+          background: white;
+          color: var(--blue);
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <a class="skip" href="#main">본문으로 바로가기</a>
+    <header class="site-header">
+      <div class="wrap header-row">
+        <a href="https://ce.gachon.ac.kr/" class="university"
+          ><strong>가천대학교<span>GACHON UNIVERSITY</span></strong
+          ><span>컴퓨터공학과<br />연구실 소개</span></a
+        ><a class="header-link" href="https://sites.google.com/view/keylee"
+          >CCL 홈페이지 <span aria-hidden="true">↗</span></a
+        >
+      </div>
+    </header>
+    <main id="main">
+      <div class="wrap">
+        <nav class="breadcrumb" aria-label="현재 위치">
+          <a href="https://ce.gachon.ac.kr/">컴퓨터공학과 연구실</a
+          ><span aria-hidden="true">/</span
+          ><span aria-current="page">Cognitive Computing Lab</span>
+        </nav>
+        <section class="hero" aria-labelledby="lab-title">
+          <div>
+            <p class="eyebrow">GACHON UNIVERSITY · COMPUTER ENGINEERING</p>
+            <h1 id="lab-title">Cognitive<br />Computing Lab<span>.</span></h1>
+            <p class="name">인지컴퓨팅 연구실</p>
+            <p class="tagline">
+              인공지능과 인지컴퓨팅으로<br />의료·산업 현장의 문제를 연구합니다.
+            </p>
+            <a class="button" href="https://sites.google.com/view/keylee"
+              >CCL 홈페이지 바로가기 <span aria-hidden="true">↗</span></a
+            >
+          </div>
+          <figure>
+            <img
+              src="@@MAP@@"
+              alt="인지컴퓨팅을 중심으로 AI, Healthcare, IoT, Cloud를 연결하는 연구 분야"
+              width="520"
+              height="440"
+            />
+            <figcaption>AI, CONNECTED TO THE REAL WORLD.</figcaption>
+          </figure>
+        </section>
+        <div class="content-grid">
+          <div class="content">
+            <section class="intro" aria-labelledby="intro-title">
+              <div class="section-header">
+                <h2 id="intro-title">연구실 소개</h2>
+                <span>ABOUT THE LAB</span>
+              </div>
+              <div class="intro-content">
+                <div>
+                  <h3>
+                    Cognitive Computing Lab은<br />AI 기술을 활용하여 다양한
+                    분야를 연구합니다.
+                  </h3>
+                  <p>
+                    Cognitive Computing Lab은 Artificial Intelligence, Cognitive
+                    Computing, IoT, Cloud를 활용하여 Healthcare 분야에 대해
+                    중점적으로 연구하며, 다수 기업들과 활발한 공동연구, 국가
+                    연구사업 과제를 수행하고 있습니다.
+                  </p>
+                  <p>
+                    연구결과를 특허 출원 및 등록, 국제 및 국내 학술대회와 연구
+                    논문지에 다수 발표하고 있습니다.
+                  </p>
+                </div>
+                <figure>
+                  <img
+                    src="@@DEPARTMENT_IMAGE@@"
+                    alt="기존 학과 CCL 소개 페이지의 인지컴퓨팅 이미지"
+                    width="189"
+                    height="461"
+                  />
+                </figure>
+              </div>
+              <div class="fields">
+                <strong>연구 분야</strong
+                ><span
+                  >Artificial Intelligence, Cognitive Computing, IoT,
+                  Healthcare, Cloud</span
+                >
+              </div>
+            </section>
+            <section class="areas" aria-labelledby="areas-title">
+              <div class="section-header">
+                <h2 id="areas-title">주요 연구</h2>
+                <span>RESEARCH AREAS</span>
+              </div>
+              <div class="area-list">
+                <div class="area">
+                  <span>01</span>
+                  <div>
+                    <h3>
+                      연합학습 · AI 운영<small
+                        >Federated Learning &amp; AI Operations</small
+                      >
+                    </h3>
+                    <p>
+                      원본 데이터를 각 참여 기관에 둔 채 모델을 함께 학습하고,
+                      FedOps를 통해 모델 개발과 연합학습의 운영 과정을
+                      연결합니다.
+                    </p>
+                  </div>
+                </div>
+                <div class="area">
+                  <span>02</span>
+                  <div>
+                    <h3>
+                      AI Agent · 온디바이스 모델<small
+                        >AI Agents &amp; On-Device Models</small
+                      >
+                    </h3>
+                    <p>
+                      언어모델과 도구 모델의 구성·활용을 연구하고, 장치 환경에
+                      적합한 경량 모델과 효율적인 튜닝 방법을 탐구합니다.
+                    </p>
+                  </div>
+                </div>
+                <div class="area">
+                  <span>03</span>
+                  <div>
+                    <h3>
+                      헬스케어 AI · 메디컬 트윈<small
+                        >Healthcare AI &amp; Medical Twins</small
+                      >
+                    </h3>
+                    <p>
+                      의료 데이터 기반 예측, Medical LLM과 메디컬 트윈을
+                      연구합니다. Post-TAVR 합병증 예측과 정신건강 위험 예측 등
+                      의료 문제에 연합학습을 적용합니다.
+                    </p>
+                  </div>
+                </div>
+                <div class="area">
+                  <span>04</span>
+                  <div>
+                    <h3>
+                      지능형 시스템 · IoT·Cloud<small
+                        >Intelligent Systems</small
+                      >
+                    </h3>
+                    <p>
+                      IoT·Cloud 환경의 센서·임상 데이터를 활용하고, 모델의
+                      판단을 이해할 수 있는 지능형 예측 시스템을 연구합니다.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="platform" aria-labelledby="fedops-title">
+              <p class="eyebrow">RESEARCH SOFTWARE</p>
+              <div class="platform-brand">
+                <img src="@@FEDOPS@@" alt="" width="29" height="29" />
+                <h2 id="fedops-title">
+                  FedOps<small>Federated AI AgentOps</small>
+                </h2>
+              </div>
+              <h3>내 데이터와 모델에서,<br />함께 학습하고 활용하는 AI까지.</h3>
+              <p>
+                FedOps 1.3은 로컬 개발과 연합학습, Global Model 버전 관리, Agent
+                Build와 실행을 연결합니다. 원본 데이터는 참여 환경에 유지되며,
+                선택한 모델 버전을 검증해 Agent를 구성합니다.
+              </p>
+              <div class="platform-links">
+                <a href="https://ccl.gachon.ac.kr/fedops/">FedOps 홈페이지 ↗</a
+                ><a href="https://gachon-cclab.github.io/fedops-docs-1.3/"
+                  >Documentation ↗</a
+                >
+              </div>
+            </section>
+          </div>
+          <aside class="sidebar" aria-label="지도교수 및 연구실 연락처">
+            <section class="professor-card">
+              <p class="eyebrow">PRINCIPAL INVESTIGATOR</p>
+              <figure class="professor-photo">
+                <img
+                  src="@@PROFESSOR@@"
+                  alt="이강윤 교수"
+                  width="128"
+                  height="170"
+                />
+              </figure>
+              <h2>이강윤 교수</h2>
+              <p class="english">KangYoon Lee</p>
+              <p class="department">
+                가천대학교 컴퓨터공학과<br />Cognitive Computing Lab
+              </p>
+              <dl class="professor-info">
+                <div>
+                  <dt>이메일</dt>
+                  <dd>
+                    <a href="mailto:keylee@gachon.ac.kr">keylee@gachon.ac.kr</a>
+                  </dd>
+                </div>
+                <div>
+                  <dt>교수실</dt>
+                  <dd>AI공학관 312호</dd>
+                </div>
+                <div>
+                  <dt>전화</dt>
+                  <dd><a href="tel:+82317508902">031-750-8902</a></dd>
+                </div>
+              </dl>
+              <a
+                class="small-link"
+                href="https://sites.google.com/view/keylee/professor"
+                >교수 소개 자세히 <span aria-hidden="true">↗</span></a
+              >
+            </section>
+            <section class="lab-contact">
+              <h3>연구실 문의</h3>
+              <p>연구와 진로 상담은<br />이메일로 문의해 주세요.</p>
+              <p class="label">EMAIL</p>
+              <a href="mailto:keylee@gachon.ac.kr">keylee@gachon.ac.kr</a>
+              <p class="label">LOCATION</p>
+              <p>
+                가천대학교 글로벌캠퍼스<br />AI공학관 103호<br />(13120) 경기도
+                성남시 수정구<br />성남대로 1342
+              </p>
+              <a
+                class="small-link"
+                href="https://sites.google.com/view/keylee/contact"
+                >찾아오시는 길 <span aria-hidden="true">↗</span></a
+              >
+            </section>
+          </aside>
+        </div>
+      </div>
+      <section class="quote-section" aria-label="연구실 모토">
+        <div class="wrap">
+          <blockquote>“Chance favors only the prepared mind.”</blockquote>
+          <p>COGNITIVE COMPUTING LAB · GACHON UNIVERSITY</p>
+        </div>
+      </section>
+      <section class="wrap more">
+        <div>
+          <h2>연구실의 프로젝트와 연구 성과를 살펴보세요.</h2>
+          <p>자세한 내용은 CCL 홈페이지에서 확인 가능합니다.</p>
+        </div>
+        <div class="more-links">
+          <a class="button" href="https://sites.google.com/view/keylee"
+            >CCL 홈페이지 <span aria-hidden="true">↗</span></a
+          ><a
+            class="small-link"
+            href="https://sites.google.com/view/keylee/publication"
+            >연구 실적 ↗</a
+          >
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>© 2026 Cognitive Computing Lab, Gachon University.</span
+        ><a href="https://ce.gachon.ac.kr/cognitive-computing-lab"
+          >학과 연구실 소개</a
+        >
+      </div>
+    </footer>
+  </body>
+</html>

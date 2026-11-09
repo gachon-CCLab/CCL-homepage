@@ -1,0 +1,206 @@
+{
+  "id": "members",
+  "filename": "members.html",
+  "title": "Members",
+  "description": "People who learn, question and research together — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Members"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "PEOPLE AT CCL"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Members"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "People who learn, question and research together"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.76d49d7b5680140a_74"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.cv47kvhfqw90_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.cv47kvhfqw90"
+      }
+    }
+  ],
+  "content": [],
+  "photos": {
+    "members": [
+      {
+        "src": "assets/archive/8712ae7346d601ad4999.jpg",
+        "alt": "SHI JINGYAO"
+      },
+      {
+        "src": "assets/archive/76e6e6ed9e11425449fd.jpg",
+        "alt": "MinHyck Jung"
+      },
+      {
+        "src": "assets/archive/674311d47c8f90587995.png",
+        "alt": "InSeo Song"
+      },
+      {
+        "src": "assets/archive/556273443466ed634010.jpg",
+        "alt": "Jinyong Jeong"
+      },
+      {
+        "src": "assets/archive/043888009631e61b499b.jpg",
+        "alt": "MinSoo Cho"
+      },
+      {
+        "src": "assets/archive/308c55c3b0537318752d.png",
+        "alt": "Mohamed Jismy Akeel"
+      },
+      {
+        "src": "assets/archive/7676cf0ec68e12a35a65.png",
+        "alt": "SeongJin Jo"
+      },
+      {
+        "src": "assets/archive/89d582875789c8b39a81.jpg",
+        "alt": "YongGyom Kim"
+      },
+      {
+        "src": "assets/archive/2020ae229aa6120ee4e1.jpg",
+        "alt": "RiRa Kang"
+      },
+      {
+        "src": "assets/archive/3b7d662587ebf2476e39.jpg",
+        "alt": "TaeHo Hwang"
+      },
+      {
+        "src": "assets/archive/841a1059c95f733a6391.jpg",
+        "alt": "RUZALIEV RAKHMIDDIN"
+      },
+      {
+        "src": "assets/archive/4e60f56dc0ef3629fe15.png",
+        "alt": "JinSoo Kim"
+      },
+      {
+        "src": "assets/archive/0753607466a4d921f55b.jpg",
+        "alt": "SeMo Yang"
+      },
+      {
+        "src": "assets/archive/ee1d721543354905e44b.jpg",
+        "alt": "SeMin Hyun"
+      },
+      {
+        "src": "assets/archive/cf34f899f51a3c4d20d0.jpg",
+        "alt": "YUSUBOV FARKHOD"
+      },
+      {
+        "src": "assets/archive/4e60f56dc0ef3629fe15.png",
+        "alt": "하 늘"
+      },
+      {
+        "src": "assets/archive/e58e94f2922baf1ec4fb.jpg",
+        "alt": "JuHui Lee"
+      },
+      {
+        "src": "assets/archive/363c350228a55b8c65e6.jpg",
+        "alt": "YUNUSOV ODILKHON"
+      },
+      {
+        "src": "assets/archive/853e29d2f33d1af497b5.jpg",
+        "alt": "JaeHwan Kim"
+      },
+      {
+        "src": "assets/archive/f0eda459bcce7dd0c936.jpg",
+        "alt": "JiHwan Moon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="{{DESCRIPTION}} — Cognitive Computing Lab, Gachon University"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>{{TITLE}} | Cognitive Computing Lab</title>
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+    <link rel="stylesheet" href="site.css" />
+    <script src="site.js" defer></script>
+  </head>
+  <body class="page-{{PAGE}}">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container brand-row">
+        <a class="brand" href="index.html" aria-label="CCL home"
+          ><span class="brand-symbol">CCL<span>.</span></span
+          ><span class="brand-name"
+            >Cognitive Computing Lab<small>GACHON UNIVERSITY</small></span
+          ></a
+        ><a class="header-profile" href="ccl-introduction.html"
+          >Lab Profile <span aria-hidden="true">↗</span></a
+        ><button
+          class="menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="primary-navigation"
+          aria-label="Open menu"
+        >
+          <span></span><span></span>
+        </button>
+      </div>
+      <div class="nav-border">
+        <nav
+          class="container primary-navigation"
+          id="primary-navigation"
+          aria-label="Main navigation"
+        >
+          {{NAV}}
+        </nav>
+      </div>
+    </header>
+    <main id="main">{{BODY}}</main>
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <div>
+          <a class="footer-name" href="index.html"
+            >Cognitive Computing Lab<span>.</span></a
+          >
+          <p>Gachon University · Global Campus<br />AI Engineering Building, Room 103</p>
+          <a class="footer-email" href="mailto:keylee@gachon.ac.kr"
+            >keylee@gachon.ac.kr ↗</a
+          >
+        </div>
+        <nav class="footer-navigation" aria-label="Footer navigation">
+          <a href="professor.html">Professor</a
+          ><a href="members.html">Members</a><a href="contact.html">Contact</a
+          ><a href="ccl-introduction.html">Lab Profile ↗</a
+          ><a href="department.html" hreflang="ko">Department Profile ↗</a>
+        </nav>
+      </div>
+      {{UNIVERSITY_FOOTER}}
+      <div class="container footer-bottom">
+        <span>© 2026 Cognitive Computing Lab, Gachon University</span
+        ><a href="#main">Back to top ↑</a>
+      </div>
+    </footer>
+    <dialog class="photo-viewer" aria-label="Photo viewer">
+      <button class="viewer-close" type="button" aria-label="Close photo">
+        ×
+      </button>
+      <div class="viewer-image">
+        <button class="viewer-prev" type="button" aria-label="Previous photo">
+          ←</button
+        ><img alt="" /><button
+          class="viewer-next"
+          type="button"
+          aria-label="Next photo"
+        >
+          →
+        </button>
+      </div>
+      <div class="viewer-caption">
+        <p></p>
+        <span class="viewer-count"></span>
+      </div>
+    </dialog>
+  </body>
+</html>

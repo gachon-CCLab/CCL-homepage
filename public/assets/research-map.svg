@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" fill="none">
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#d7e6f5"/></pattern></defs>
+<rect x="1" y="1" width="518" height="438" rx="8" fill="#f4f9ff"/>
+<rect x="1" y="1" width="518" height="438" rx="8" fill="url(#dots)"/>
+<circle cx="260" cy="224" r="153" stroke="#c8ddf2" stroke-dasharray="3 7"/>
+<circle cx="260" cy="224" r="110" stroke="#d8e8f7"/>
+<g stroke="#006cef" stroke-opacity=".4" stroke-width="1.2"><path d="M260 154V92M337 224h94M260 294v61M183 224H87"/><path d="m314 171 57-57M314 277l44 44M206 277l-44 44M206 171l-44-44"/></g>
+<g fill="#006cef"><circle cx="260" cy="114" r="3"/><circle cx="370" cy="224" r="3"/><circle cx="260" cy="334" r="3"/><circle cx="150" cy="224" r="3"/></g>
+<rect x="175" y="159" width="170" height="130" rx="65" fill="white" stroke="#006cef" stroke-width="1.5"/>
+<text x="260" y="210" text-anchor="middle" fill="#121820" font-family="Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="-1">Cognitive</text>
+<text x="260" y="238" text-anchor="middle" fill="#121820" font-family="Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="-1">Computing</text>
+<text x="260" y="262" text-anchor="middle" fill="#006cef" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">RESEARCH AT CCL</text>
+<g fill="white" stroke="#d5e3f1"><rect x="166" y="54" width="188" height="42" rx="21"/><rect x="364" y="203" width="130" height="42" rx="21"/><rect x="201" y="350" width="118" height="42" rx="21"/><rect x="27" y="203" width="127" height="42" rx="21"/></g>
+<g fill="#25364a" font-family="Arial,sans-serif" font-size="12" text-anchor="middle"><text x="260" y="80">Artificial Intelligence</text><text x="429" y="229">Healthcare</text><text x="260" y="376">Cloud</text><text x="90" y="229">IoT</text></g>
+<g fill="#6ec1fd"><circle cx="155" cy="119" r="6"/><circle cx="371" cy="114" r="6"/><circle cx="361" cy="323" r="6"/><circle cx="158" cy="325" r="6"/></g>
+<g stroke="#a7c5e3" stroke-width="1"><path d="M24 29h16M32 21v16M480 403h16M488 395v16"/></g>
+<text x="26" y="416" fill="#7390ac" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.6">GACHON UNIVERSITY</text>
+</svg>

@@ -1,0 +1,163 @@
+{
+  "framework": "React 19.3.1 + TypeScript + Vite 8.3.6",
+  "source": "existing local standalone HTML",
+  "pages": [
+    {
+      "file": "professor.html",
+      "images": 2,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Professor",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "cloud-seminar.html",
+      "images": 22,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Cloud Open Seminar",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "research.html",
+      "images": 1,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Research",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "research-2025.html",
+      "images": 24,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Research · 2025",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "research-2024.html",
+      "images": 13,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Research · ~ 2024",
+      "videos": 3,
+      "width": 1481
+    },
+    {
+      "file": "project.html",
+      "images": 3,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Project",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "publication.html",
+      "images": 1,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Publication",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "contact.html",
+      "images": 2,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Contact",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "members.html",
+      "images": 21,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Members",
+      "videos": 0,
+      "width": 1481
+    },
+    {
+      "file": "gallery.html",
+      "images": 135,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Gallery",
+      "videos": 1,
+      "width": 1481
+    },
+    {
+      "file": "index.html",
+      "images": 4,
+      "menuItems": 10,
+      "root": true,
+      "scrollWidth": 1481,
+      "title": "Cognitive\nComputing Lab.",
+      "videos": 0,
+      "width": 1481
+    }
+  ],
+  "interactions": {
+    "mobileMenu": true,
+    "researchSubmenu": true,
+    "currentMembers": 5,
+    "formerMembers": 15,
+    "memberDivider": true,
+    "memberPhotoNext": true,
+    "galleryPhotoCount": 134,
+    "galleryPhotoNext": true,
+    "galleryKeyboardArrows": true,
+    "galleryEscapeClose": true
+  },
+  "viewports": [
+    {
+      "page": "index.html",
+      "width": 743,
+      "scrollWidth": 743
+    },
+    {
+      "page": "gallery.html",
+      "width": 469,
+      "scrollWidth": 469
+    },
+    {
+      "page": "members.html",
+      "width": 381,
+      "scrollWidth": 381
+    }
+  ],
+  "developmentServer": {
+    "members": true,
+    "current": 5,
+    "former": 15,
+    "consoleErrors": [],
+    "standaloneProfile": true,
+    "profileImagesEmbedded": true,
+    "profileControls": 2
+  },
+  "videoPlayback": {
+    "currentTime": 313.598259,
+    "duration": 1059.701,
+    "error": null,
+    "paused": false,
+    "readyState": 4
+  },
+  "consoleErrors": [],
+  "status": "passed"
+}

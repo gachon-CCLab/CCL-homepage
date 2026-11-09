@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "checks": {
+    "source_content": [
+      {
+        "page": "index.html",
+        "source_text_blocks": 5,
+        "missing_text_blocks": 0,
+        "source_images": 0,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "professor.html",
+        "source_text_blocks": 20,
+        "missing_text_blocks": 0,
+        "source_images": 1,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "cloud-seminar.html",
+        "source_text_blocks": 28,
+        "missing_text_blocks": 0,
+        "source_images": 21,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "members.html",
+        "source_text_blocks": 80,
+        "missing_text_blocks": 0,
+        "source_images": 20,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "research.html",
+        "source_text_blocks": 3,
+        "missing_text_blocks": 0,
+        "source_images": 0,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "research-2025.html",
+        "source_text_blocks": 49,
+        "missing_text_blocks": 0,
+        "source_images": 23,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "research-2024.html",
+        "source_text_blocks": 37,
+        "missing_text_blocks": 0,
+        "source_images": 12,
+        "source_videos": 3,
+        "links_preserved": true
+      },
+      {
+        "page": "project.html",
+        "source_text_blocks": 27,
+        "missing_text_blocks": 0,
+        "source_images": 2,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "publication.html",
+        "source_text_blocks": 230,
+        "missing_text_blocks": 0,
+        "source_images": 0,
+        "source_videos": 0,
+        "links_preserved": true
+      },
+      {
+        "page": "gallery.html",
+        "source_text_blocks": 40,
+        "missing_text_blocks": 0,
+        "source_images": 134,
+        "source_videos": 1,
+        "links_preserved": true
+      },
+      {
+        "page": "contact.html",
+        "source_text_blocks": 7,
+        "missing_text_blocks": 0,
+        "source_images": 1,
+        "source_videos": 0,
+        "links_preserved": true
+      }
+    ],
+    "user_requested_presentation_changes": {
+      "main": {
+        "confirmed_on": "2026-11-02",
+        "reason": "The user requested removal of the imported old Main presentation, retaining the supplied lab description, research fields, research activities and motto in a separate layout.",
+        "removed_text_blocks": [
+          "Welcome to CCL! Cognitive Computing Lab !!"
+        ],
+        "removed_images": [
+          "assets/archive/7e870d84377799430985.png",
+          "assets/archive/ea78a3ea6bea632d628d.png"
+        ]
+      }
+    },
+    "navigation": {
+      "pages": 11,
+      "top_level_items": 10,
+      "research_children": 2
+    },
+    "local_references": 768,
+    "fragments": 54,
+    "members": 20,
+    "seminars": 6,
+    "member_groups": {
+      "current": 5,
+      "former": 15,
+      "current_emails": [
+        "qq490800573@gmail.com",
+        "bvnm0121@gachon.ac.kr",
+        "z8086486@gachon.ac.kr",
+        "wlsdyd5373@gachon.ac.kr",
+        "whalstn21@gachon.ac.kr"
+      ],
+      "separator": true
+    },
+    "single_file_documents": [
+      {
+        "file": "ccl-introduction.html",
+        "embedded_dependencies": 5,
+        "external_dependencies": 0
+      },
+      {
+        "file": "department.html",
+        "embedded_dependencies": 6,
+        "external_dependencies": 0
+      }
+    ]
+  },
+  "errors": []
+}

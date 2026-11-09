@@ -1,0 +1,472 @@
+{
+  "id": "project",
+  "filename": "project.html",
+  "title": "Project",
+  "description": "Research addressing challenges across healthcare and industry — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Project"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "COLLABORATIVE RESEARCH"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Project"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Research addressing challenges across healthcare and industry"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.228bb1346f904194_0"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.hzuihegazprb_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.hzuihegazprb"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.228bb1346f904194_0"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.hzuihegazprb_l"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.hzuihegazprb"
+      }
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "project-section"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "project-label"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {
+                "class": "micro-label"
+              },
+              "children": [
+                "PLATFORM & ROADMAP"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block",
+            "id": "h.6d3bbe9ac024f16a_0"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "project",
+                    "href": "assets/archive/dd379486763e17591951.png",
+                    "data-photo-index": "0"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research addressing challenges across healthcare and industry",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/dd379486763e17591951.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "\n",
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "media"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "data-photo": "project",
+                    "href": "assets/archive/98b3d1e6e606a0ec32fd.png",
+                    "data-photo-index": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "Research addressing challenges across healthcare and industry",
+                        "decoding": "async",
+                        "loading": "lazy",
+                        "src": "assets/archive/98b3d1e6e606a0ec32fd.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "project-section"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "project-label"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {
+                "class": "micro-label"
+              },
+              "children": [
+                "PROJECT ARCHIVE"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "document-block",
+            "id": "h.7de0a9aa259e48fc_13"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "prose"
+              },
+              "children": [
+                {
+                  "tag": "ul",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "비접촉 헬스데이터 기반의 지능형 생활환경 헬스 어드바이저와 개인화된 연합학습 MLOps 플랫폼,  한국연구재단(NRF), 2022.2 ~ 2025.2",
+                            {
+                              "tag": "br",
+                              "attrs": {}
+                            },
+                            "(Ambient intelligent health advisor and personalization for federated learning MLOps platform with non-contact health data)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "RWD기반 메디컬트윈 기술 개발,  복지부, 2022.7 ~ 2026.12",
+                            {
+                              "tag": "br",
+                              "attrs": {}
+                            },
+                            "(Medical Twin Framework Development with Real World Data)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "연합학습 수명주기관리 기술 개발,  과기부 일자리기술진흥원, 2022.7 ~ 2024.12"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "인공지능 기반 행동인식 조기위험 감지 알고리즘 개발(센서기반 행동인식 조기위험감지 및 실용화기술개발),  복지부, 2022.7 ~ 2024.12"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "전기 에너지 사용예측 모델 기반 수요이전 추천 서비스,  중소기업기술정보진흥원(TIPA),  2022.6 ~ 2023. 2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "Adaptive Federated Learning, 정보통신기획평가원(IITP), 2022.1 ~ 2022.12"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "의료 빅데이터를 활용한 뇌질환 예측·예방개발 및 전문인력양성(정보 공유·활용을 위한 오픈 플랫폼 기술개발) ,  정보통신기획평가원(IITP), 2017~2022.12"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "개방형 챗봇마켓플레이스를 위한 융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현,  한국연구재단(NRF), 2019.6 ~ 2022.2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발, 정보통신기획평가원(IITP), 2020~2021"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "챗봇기반의 지능형 에너지 정보관리/추천을 위한 대화형 다이나믹 서비스 채널의 구현, 중소기업기술정보진흥원(TIPA), 2020~2021"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "인공지능기법 활용 대전시 상수도 분석기술 개발, (주)아이브랩, 2020"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "AI기반의 아웃소싱 플랫폼을 위한 개발자 생산성 검증 모듈 구현, 중소기업기술정보진흥원(TIPA), 2019~2020"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "비접촉센서를 이용하여 휴먼행동의 분류와 이상 예측을 위한 인공지능 모델 구현, 중소기업기술정보진흥원(TIPA), 2019~2020"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "project": [
+      {
+        "src": "assets/archive/dd379486763e17591951.png",
+        "alt": "Research addressing challenges across healthcare and industry"
+      },
+      {
+        "src": "assets/archive/98b3d1e6e606a0ec32fd.png",
+        "alt": "Research addressing challenges across healthcare and industry"
+      }
+    ]
+  }
+}

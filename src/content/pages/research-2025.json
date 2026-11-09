@@ -1,0 +1,2022 @@
+{
+  "id": "research-2025",
+  "filename": "research-2025.html",
+  "title": "2025",
+  "description": "Federated learning · AI agents · Healthcare AI — Cognitive Computing Lab, Gachon University",
+  "heading": {
+    "tag": "header",
+    "attrs": {
+      "class": "container page-header"
+    },
+    "children": [
+      "\n",
+      {
+        "tag": "nav",
+        "attrs": {
+          "class": "breadcrumb",
+          "aria-label": "Breadcrumb"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "index.html"
+            },
+            "children": [
+              "Main"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "research.html"
+            },
+            "children": [
+              "Research"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-hidden": "true"
+            },
+            "children": [
+              "/"
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {
+              "aria-current": "page"
+            },
+            "children": [
+              "Research · 2025"
+            ]
+          }
+        ]
+      },
+      "\n",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "page-header-main"
+        },
+        "children": [
+          "\n",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n",
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "RESEARCH ARCHIVE / 2025"
+                ]
+              },
+              "\n",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Research · 2025"
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n",
+          {
+            "tag": "p",
+            "attrs": {
+              "class": "page-description"
+            },
+            "children": [
+              "Federated learning · AI agents · Healthcare AI"
+            ]
+          },
+          "\n"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "anchors": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.51b6bd8f10f7b17a_172"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.8gf166h7bvea"
+      }
+    }
+  ],
+  "content": [
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.51b6bd8f10f7b17a_172"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "anchor",
+        "id": "h.8gf166h7bvea"
+      }
+    },
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "research-tabs",
+        "aria-label": "Research by year"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research.html"
+          },
+          "children": [
+            "Research"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research-2025.html",
+            "aria-current": "page"
+          },
+          "children": [
+            "2025"
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "research-2024.html"
+          },
+          "children": [
+            "~ 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "reading-layout"
+      },
+      "children": [
+        {
+          "tag": "aside",
+          "attrs": {
+            "class": "reading-index"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "micro-label"
+              },
+              "children": [
+                "ON THIS PAGE"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.51b6bd8f10f7b17a_178"
+              },
+              "children": [
+                "Federated learning"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.520fce8f5d7293a1_185"
+              },
+              "children": [
+                "A Study on the Life Cycle Management of Federated Learning"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.520fce8f5d7293a1_213"
+              },
+              "children": [
+                "Building an Ecosystem for Decentralized Artificial  Intelligence"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.797f6c3d600f460d_122"
+              },
+              "children": [
+                "AI Agent"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.58574f5297c53afc_61"
+              },
+              "children": [
+                "Rank 1 in the NLP leaderboard"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.797f6c3d600f460d_127"
+              },
+              "children": [
+                "TAVR Medical Twin"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.3726e2668112b656_10"
+              },
+              "children": [
+                "Conduction Disorder"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#h.3726e2668112b656_156"
+              },
+              "children": [
+                "Provides a basis for predicting"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "research-document"
+          },
+          "children": [
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.51b6bd8f10f7b17a_178"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "2025"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.qrtxwdu7u14c"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.qrtxwdu7u14c_l"
+                      },
+                      "children": [
+                        "Federated learning"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.520fce8f5d7293a1_15"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/18e209b470449c2e97e6.png",
+                        "data-photo-index": "0"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Federated learning is a distributed approach to train machine learning models. Each node in a distributed network trains a global model usin",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/18e209b470449c2e97e6.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Federated learning is a distributed approach to train machine learning models. Each node in a distributed network trains a global model using its own local data, while a central server improves the global model by aggregating node updates."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.520fce8f5d7293a1_185"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/a87398c68b0391258bc1.png",
+                        "data-photo-index": "1"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "A Study on the Life Cycle Management of Federated Learning",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/a87398c68b0391258bc1.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.56xbugn5w41d"
+                      }
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {
+                        "id": "h.56xbugn5w41d_l"
+                      },
+                      "children": [
+                        "A Study on the Life Cycle Management of Federated Learning"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    "Establish FeDOps platform of   Federated Learning + Ops for federated learning life cycle management"
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/edd3200f39805701f38d.png",
+                        "data-photo-index": "2"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "A Study on the Life Cycle Management of Federated Learning",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/edd3200f39805701f38d.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Privacy protection artificial intelligence technology"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Provides AI learning solutions in data sensitive domains with AI learning method without data sharing"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.520fce8f5d7293a1_213"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/e9b58d975a56e7c125ad.png",
+                        "data-photo-index": "3"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Building an Ecosystem for Decentralized Artificial Intelligence",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/e9b58d975a56e7c125ad.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Data diversity"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Unrestrict data usage to secure data from various organizations and customers to perform advanced AI learning"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/f89ffbab6f7a9226051b.png",
+                        "data-photo-index": "4"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Building an Ecosystem for Decentralized Artificial Intelligence",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/f89ffbab6f7a9226051b.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.4vskamkdwdr3"
+                      }
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {
+                        "id": "h.4vskamkdwdr3_l"
+                      },
+                      "children": [
+                        "Building an Ecosystem for Decentralized Artificial  Intelligence"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Establishment of a cooperative learning ecosystem through website, community, etc. and technology exchange with other overseas organizations to realize a cooperative learning ecosystem"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_53"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Spain Telefonica federated learning-based "
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "MyHealthMart Technology Presents"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.64cbda47cff553d2_261"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "media-grid"
+                  },
+                  "children": [
+                    {
+                      "tag": "figure",
+                      "attrs": {
+                        "class": "media"
+                      },
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "data-photo": "research-2025",
+                            "href": "assets/archive/ecd54b722824dbdddcb4.jpg",
+                            "data-photo-index": "5"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "Federated learning · AI agents · Healthcare AI",
+                                "decoding": "async",
+                                "loading": "lazy",
+                                "src": "assets/archive/ecd54b722824dbdddcb4.jpg"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "figure",
+                      "attrs": {
+                        "class": "media"
+                      },
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "data-photo": "research-2025",
+                            "href": "assets/archive/45c3543bb706f208e43b.jpg",
+                            "data-photo-index": "6"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "Federated learning · AI agents · Healthcare AI",
+                                "decoding": "async",
+                                "loading": "lazy",
+                                "src": "assets/archive/45c3543bb706f208e43b.jpg"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_55"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Best institution for joint learning posted on the Flower website"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/0a821f6711c116ad97a1.png",
+                        "data-photo-index": "7"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Best institution for joint learning posted on the Flower website",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/0a821f6711c116ad97a1.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.797f6c3d600f460d_122"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.ank559m4lvv6"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.ank559m4lvv6_l"
+                      },
+                      "children": [
+                        "AI Agent"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_40"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/91151f9794bebc3fec50.png",
+                        "data-photo-index": "8"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "AI agents are autonomous systems that use AI to pursue user-defined goals through reasoning, planning, memory, and decision-making. Powered ",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/91151f9794bebc3fec50.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "AI agents are autonomous systems that use AI to pursue user-defined goals through reasoning, planning, memory, and decision-making. Powered by generative AI and multimodal models, they can process text, speech, video, audio, and code while learning and adapting."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_68"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/c50feef2eec5bffc6498.png",
+                        "data-photo-index": "9"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "AI Agent System Based on Federated Learning A federated learning-based AI system that leverages user-specific health data to integrate a loc",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/c50feef2eec5bffc6498.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "AI Agent System Based on "
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Federated Learning"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "A federated learning-based AI system that leverages user-specific health data to integrate a local AI model from the client into a global model via training FedOps"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/016842917a4c682b2a15.png",
+                        "data-photo-index": "10"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "AI Agent System Based on Federated Learning A federated learning-based AI system that leverages user-specific health data to integrate a loc",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/016842917a4c682b2a15.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Utilize global models "
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "and secure data"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Integrated global models are used for a variety of AI functions such as health forecasting and data valuation Securely call and process user data in conjunction with MyData systems"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_102"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/5e345453ee41ddeac1a8.png",
+                        "data-photo-index": "11"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Custom Response Generation Mechanism User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answ",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5e345453ee41ddeac1a8.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Custom Response "
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Generation Mechanism"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answers with personalized memory, RAG-based discovery, tool calls, and action plans"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/5f814b68fb9d0ce1a356.png",
+                        "data-photo-index": "12"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Custom Response Generation Mechanism User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answ",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/5f814b68fb9d0ce1a356.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Perform tool-based complexity"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "AI Agent proactively utilizes a variety of tools and functional modules Perform complex artificial intelligence functions such as question-and-answer, data analysis, tool execution, and assetization"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.64cbda47cff553d2_256"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "GCCL Medical LLM "
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/6508acd6307839fe84eb.png",
+                        "data-photo-index": "13"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "GCCL Medical LLM Healthcare domain-specific data and federated learning-based fine tuning strategies work effectively. High accuracy and con",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/6508acd6307839fe84eb.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Healthcare domain-specific data and federated learning-based fine tuning strategies work effectively. High accuracy and consistent performance on healthcare QA benchmarks, improved understanding and reasoning skills for complex healthcare contexts"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.58574f5297c53afc_61"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/73df158f8ad42118a62e.png",
+                        "data-photo-index": "14"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Rank 1 in the NLP leaderboard",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/73df158f8ad42118a62e.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.jc8zly9cwkx4"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.jc8zly9cwkx4_l"
+                      },
+                      "children": [
+                        "Rank 1 in the NLP leaderboard"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/513923c77a5ea90982d8.png",
+                        "data-photo-index": "15"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Rank 1 in the NLP leaderboard",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/513923c77a5ea90982d8.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.em3pvgkvq585"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.em3pvgkvq585_l"
+                      },
+                      "children": [
+                        "Rank 3 on the Medical leaderboard"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.797f6c3d600f460d_127"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.wk68ajef5eit"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.wk68ajef5eit_l"
+                      },
+                      "children": [
+                        "TAVR Medical Twin "
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.442299205a93a2ba_160"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/880a0d0ac5da09ff75f2.png",
+                        "data-photo-index": "16"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "an existing Post-TAVR Navigator platform is restructured into a federated learning solution, FL Post-TAVR, based on the proposed federated l",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/880a0d0ac5da09ff75f2.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "an existing Post-TAVR Navigator platform is restructured into a federated learning solution, FL Post-TAVR, based on the proposed federated learning approach through lifecycle management by using FedOps."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.3726e2668112b656_139"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "TAVR AI MODEL / XAI"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.3726e2668112b656_10"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/833fb45171d6ede878dd.png",
+                        "data-photo-index": "17"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Conduction Disorder",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/833fb45171d6ede878dd.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Permanent Pacemaker  Implantation"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "XGBoost Algorithm"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/03b81674db354d9d04e9.png",
+                        "data-photo-index": "18"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Conduction Disorder",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/03b81674db354d9d04e9.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.tz5j774j9fqz"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.tz5j774j9fqz_l"
+                      },
+                      "children": [
+                        "Conduction Disorder"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Deep Neural Network"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/6a773307b83deeb053e4.png",
+                        "data-photo-index": "19"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Conduction Disorder",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/6a773307b83deeb053e4.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.mh606w3pbv8q"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.mh606w3pbv8q_l"
+                      },
+                      "children": [
+                        "Paravalvular Leekage"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Stacking Ensemble"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "document-block",
+                "id": "h.3726e2668112b656_156"
+              },
+              "children": [
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/93959f212ef05ff66650.png",
+                        "data-photo-index": "20"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Provides a basis for predicting",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/93959f212ef05ff66650.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.40vee5mkc5kr"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.40vee5mkc5kr_l"
+                      },
+                      "children": [
+                        "Provides a basis for predicting "
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.2ey69sfcjfm8"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.2ey69sfcjfm8_l"
+                      },
+                      "children": [
+                        "complications with Explicable AI"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "SHAP Importance Results for Models"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/aaa53f46bf96feebe202.png",
+                        "data-photo-index": "21"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Provides a basis for predicting",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/aaa53f46bf96feebe202.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.ghxus4vrqd27"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.ghxus4vrqd27_l"
+                      },
+                      "children": [
+                        "Provides a basis for predicting "
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.u95ttcizjkwf"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.u95ttcizjkwf_l"
+                      },
+                      "children": [
+                        "complications with Explicable AI"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "A single predictive  importance "
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "result for LIME"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "figure",
+                  "attrs": {
+                    "class": "media"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "data-photo": "research-2025",
+                        "href": "assets/archive/ba7b97cf88684831af27.png",
+                        "data-photo-index": "22"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "alt": "Provides a basis for predicting",
+                            "decoding": "async",
+                            "loading": "lazy",
+                            "src": "assets/archive/ba7b97cf88684831af27.png"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "a n c h o r",
+                        "id": "h.jhvvuhqgqwwj"
+                      }
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {
+                        "id": "h.jhvvuhqgqwwj_l"
+                      },
+                      "children": [
+                        "Perform ECG outlier visualization"
+                      ]
+                    }
+                  ]
+                },
+                "\n",
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "prose"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "Heatmap generation of areas affect model decision making and anomalous representation of ECG data"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "research-2025": [
+      {
+        "src": "assets/archive/18e209b470449c2e97e6.png",
+        "alt": "Federated learning is a distributed approach to train machine learning models. Each node in a distributed network trains a global model usin"
+      },
+      {
+        "src": "assets/archive/a87398c68b0391258bc1.png",
+        "alt": "A Study on the Life Cycle Management of Federated Learning"
+      },
+      {
+        "src": "assets/archive/edd3200f39805701f38d.png",
+        "alt": "A Study on the Life Cycle Management of Federated Learning"
+      },
+      {
+        "src": "assets/archive/e9b58d975a56e7c125ad.png",
+        "alt": "Building an Ecosystem for Decentralized Artificial Intelligence"
+      },
+      {
+        "src": "assets/archive/f89ffbab6f7a9226051b.png",
+        "alt": "Building an Ecosystem for Decentralized Artificial Intelligence"
+      },
+      {
+        "src": "assets/archive/ecd54b722824dbdddcb4.jpg",
+        "alt": "Federated learning · AI agents · Healthcare AI"
+      },
+      {
+        "src": "assets/archive/45c3543bb706f208e43b.jpg",
+        "alt": "Federated learning · AI agents · Healthcare AI"
+      },
+      {
+        "src": "assets/archive/0a821f6711c116ad97a1.png",
+        "alt": "Best institution for joint learning posted on the Flower website"
+      },
+      {
+        "src": "assets/archive/91151f9794bebc3fec50.png",
+        "alt": "AI agents are autonomous systems that use AI to pursue user-defined goals through reasoning, planning, memory, and decision-making. Powered "
+      },
+      {
+        "src": "assets/archive/c50feef2eec5bffc6498.png",
+        "alt": "AI Agent System Based on Federated Learning A federated learning-based AI system that leverages user-specific health data to integrate a loc"
+      },
+      {
+        "src": "assets/archive/016842917a4c682b2a15.png",
+        "alt": "AI Agent System Based on Federated Learning A federated learning-based AI system that leverages user-specific health data to integrate a loc"
+      },
+      {
+        "src": "assets/archive/5e345453ee41ddeac1a8.png",
+        "alt": "Custom Response Generation Mechanism User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answ"
+      },
+      {
+        "src": "assets/archive/5f814b68fb9d0ce1a356.png",
+        "alt": "Custom Response Generation Mechanism User queries are communicated to the Medical LLM via the prompt module Create reliable, customized answ"
+      },
+      {
+        "src": "assets/archive/6508acd6307839fe84eb.png",
+        "alt": "GCCL Medical LLM Healthcare domain-specific data and federated learning-based fine tuning strategies work effectively. High accuracy and con"
+      },
+      {
+        "src": "assets/archive/73df158f8ad42118a62e.png",
+        "alt": "Rank 1 in the NLP leaderboard"
+      },
+      {
+        "src": "assets/archive/513923c77a5ea90982d8.png",
+        "alt": "Rank 1 in the NLP leaderboard"
+      },
+      {
+        "src": "assets/archive/880a0d0ac5da09ff75f2.png",
+        "alt": "an existing Post-TAVR Navigator platform is restructured into a federated learning solution, FL Post-TAVR, based on the proposed federated l"
+      },
+      {
+        "src": "assets/archive/833fb45171d6ede878dd.png",
+        "alt": "Conduction Disorder"
+      },
+      {
+        "src": "assets/archive/03b81674db354d9d04e9.png",
+        "alt": "Conduction Disorder"
+      },
+      {
+        "src": "assets/archive/6a773307b83deeb053e4.png",
+        "alt": "Conduction Disorder"
+      },
+      {
+        "src": "assets/archive/93959f212ef05ff66650.png",
+        "alt": "Provides a basis for predicting"
+      },
+      {
+        "src": "assets/archive/aaa53f46bf96feebe202.png",
+        "alt": "Provides a basis for predicting"
+      },
+      {
+        "src": "assets/archive/ba7b97cf88684831af27.png",
+        "alt": "Provides a basis for predicting"
+      }
+    ]
+  }
+}
