@@ -1,5 +1,9 @@
 # CCL Homepage
 
+**공개 웹사이트: [https://gachon-cclab.github.io/CCL-homepage/](https://gachon-cclab.github.io/CCL-homepage/)**
+
+`main`에 변경사항을 올리면 [GitHub Actions](https://github.com/gachon-CCLab/CCL-homepage/actions/workflows/deploy-pages.yml)가 빌드·내용 검사를 수행하고 GitHub Pages에 자동 배포합니다. 별도 로컬 서버 없이 위 주소에서 접속할 수 있습니다.
+
 Cognitive Computing Lab 홈페이지의 **React 19 + TypeScript + Vite** 소스입니다. 기존 로컬 HTML 사이트의 디자인·영문 내용·메뉴·자료를 유지하면서 React 컴포넌트 구조로 전환했습니다. Google Sites 삽입·게시 작업은 별도로 관리합니다.
 
 ## 실행
